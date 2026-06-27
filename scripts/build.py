@@ -31,7 +31,7 @@ LISTEN = [
     ("OGGN", "https://oggn.com/oil-gas-sales-and-marketing-podcast/"),
     ("RSS", "https://feeds.oggn.com/category/ogsm/feed/"),
 ]
-NAV = [("Episodes", "/podcast/"), ("Answers", "/answers/"), ("The Book", "/book/"), ("Hosts", "/host/"), ("About", "/about/")]
+NAV = [("Episodes", "/podcast/"), ("Answers", "/answers/"), ("Topics", "/topics/"), ("The Book", "/book/"), ("Hosts", "/host/"), ("About", "/about/")]
 
 # Answer-first AEO pages — the questions energy buyers/sellers actually ask. Each renders
 # as a FAQPage with schema so AI answer engines (AI Overviews, ChatGPT, Perplexity) can cite it.
@@ -78,6 +78,50 @@ ANSWERS = [
      "Energy companies get found in AI search by <strong>earning the citation</strong>, not just ranking. AI answer engines (Google AI Overviews, ChatGPT, Perplexity, Gemini) increasingly mediate B2B research, including in energy, and they synthesize answers from sources they trust rather than returning a list of links.",
      "The levers: publish clear, <strong>answer-first content</strong> for the specific questions buyers ask; structure it with schema so machines can parse it; make sure AI crawlers can access it; and build entity authority &mdash; consistent brand and person signals, citations, and being referenced across the web. A tracked question with no page that answers it is a guaranteed zero in AI presence.",
      "Classic SEO ranking does not equal AI-answer visibility, and this is exactly the discipline ModalPoint and Matt Bertram work on: making energy and industrial brands the source AI engines cite. Learn more at <a href='https://modalpoint.com' rel='noopener'>ModalPoint</a> and <a href='https://matthewbertram.com' rel='noopener'>matthewbertram.com</a>."]},
+]
+
+# Glossary terms — definitional content for "what is X" AI-answer queries (DefinedTermSet schema).
+GLOSSARY = [
+  ("Answer Engine Optimization (AEO)", "Optimizing content so AI answer engines &mdash; Google AI Overviews, ChatGPT, Perplexity &mdash; cite it directly in their answers. Unlike classic SEO, the goal is to be the source the AI quotes, not just a blue link."),
+  ("Generative Engine Optimization (GEO)", "A near-synonym for AEO: shaping content and entity signals so generative AI systems surface and attribute your brand when users ask questions."),
+  ("Speccing in (spec influence)", "Getting your product or approach written into a project's technical specification before the RFP is issued. In energy sales it is the highest-leverage move &mdash; the spec often decides the winner before bidding starts."),
+  ("Approved Vendor List (AVL)", "A pre-qualified list of suppliers an operator is allowed to buy from. Getting onto the AVL is a gate that must be cleared before most oil and gas deals can even begin."),
+  ("Upstream, midstream, downstream", "The three segments of the oil and gas value chain: upstream is exploration and production; midstream is transport and storage (pipelines, terminals); downstream is refining, processing, and distribution."),
+  ("Oilfield services (OFS)", "Companies that provide the equipment, technology, and services that exploration-and-production operators need to drill and produce. A long-cycle, relationship-driven B2B market."),
+  ("Exploration and Production (E&amp;P)", "The upstream operators who find and extract oil and gas. They are the ultimate buyers most oilfield-services and energy-tech companies are selling to."),
+  ("Request for Proposal (RFP)", "A formal procurement document inviting vendors to bid against a defined specification. By the time an RFP is issued, the spec &mdash; and often the likely winner &mdash; is largely set."),
+  ("Non-productive time (NPT)", "Time when a rig or operation is not producing due to equipment failure, waiting, or problems. Reducing NPT is one of the most persuasive value propositions in oilfield sales."),
+  ("Total cost of ownership (TCO)", "The full lifetime cost of a solution &mdash; purchase, install, operate, maintain, downtime &mdash; not just the sticker price. Energy buyers evaluate on TCO and risk, which is why the lowest bid does not always win."),
+  ("Revenue Operations (RevOps)", "Aligning sales, marketing, and customer success around one revenue process and shared data, so the long energy buying journey is not fragmented across teams."),
+  ("Demand generation", "Marketing activity that creates awareness and interest among future buyers. It matters in energy because buying cycles are long, so demand must be built continuously, not on demand."),
+  ("Account-based marketing (ABM)", "Targeting a defined set of high-value accounts (specific operators) with tailored marketing and sales, rather than chasing broad lead volume &mdash; well suited to the finite, high-value energy buyer universe."),
+  ("Ideal Customer Profile (ICP)", "A precise definition of the accounts most likely to buy and succeed with your solution. In energy, a sharp ICP (by segment, basin, asset type) focuses scarce sales effort where it pays off."),
+  ("Sales cycle", "The time and stages from first contact to closed deal. Energy sales cycles are unusually long (often 6 to 18+ months) and gated by capital budgets, qualification, and procurement."),
+  ("Thought leadership", "Publishing genuinely useful expertise (podcasts, articles, talks) to build authority and trust ahead of the sale &mdash; a primary way energy and oilfield brands shorten the trust-building phase of a long cycle."),
+]
+
+# Topic cluster hubs — group answers + matching episodes for topical authority + internal linking.
+TOPICS = [
+  {"slug":"selling-to-energy","title":"Selling to Oil & Gas",
+   "intro":"How to win deals in energy's long, committee-driven, risk-averse buying process — from getting specced in to closing.",
+   "kw":["sell","selling","sales","deal","clos","prospect","pipeline","negotiat","cold"],
+   "answers":["how-to-sell-to-oil-and-gas-companies","oil-and-gas-sales-cycle","influence-the-spec-before-the-rfp"]},
+  {"slug":"energy-marketing","title":"Marketing for Energy & Oilfield Services",
+   "intro":"Building authority, demand, and trust with a narrow, high-value energy audience.",
+   "kw":["market","brand","content","demand","awareness","seo","linkedin","trade show","podcast","thought","awareness"],
+   "answers":["marketing-for-oilfield-services","align-sales-and-marketing-in-energy"]},
+  {"slug":"sales-marketing-alignment","title":"Sales & Marketing Alignment",
+   "intro":"Pointing sales and marketing at one revenue motion built around how energy buyers actually buy.",
+   "kw":["align","revops","sales and marketing","marketing and sales","joined","lead"],
+   "answers":["align-sales-and-marketing-in-energy"]},
+  {"slug":"ai-in-energy-gtm","title":"AI in Energy Go-To-Market",
+   "intro":"What AI search, AI answer engines, and AI decisioning mean for how energy companies get found and sell.",
+   "kw":["ai ","a.i","artificial intelligence","chatgpt","llm","aeo","geo","automation","digital","machine"],
+   "answers":["ai-search-aeo-for-energy-companies"]},
+  {"slug":"how-energy-companies-buy","title":"How Energy Companies Buy",
+   "intro":"Inside the energy buyer: procurement, the spec, qualification, and the long capital-driven decision.",
+   "kw":["buy","buying","buyer","procure","rfp","spec","decision","budget","capital","purchas"],
+   "answers":["oil-and-gas-sales-cycle","influence-the-spec-before-the-rfp","how-to-sell-to-oil-and-gas-companies"]},
 ]
 
 # ---------- helpers ----------
@@ -228,7 +272,7 @@ def footer():
 </div>
 <div class="foot-base">
   <span>&copy; 2026 {BRAND} &middot; An Oil &amp; Gas Global Network production.</span>
-  <span><a href="/terms/">Terms of Use</a> &middot; <a href="/llms.txt">llms.txt</a></span>
+  <span><a href="/glossary/">Glossary</a> &middot; <a href="/topics/">Topics</a> &middot; <a href="/terms/">Terms of Use</a> &middot; <a href="/llms.txt">llms.txt</a></span>
 </div>
 </div></footer></body></html>"""
 
@@ -516,6 +560,67 @@ def main():
     )
     write(["answers", "index.html"], answers_hub)
 
+    # ----- topics (cluster hubs: answers + matching episodes) -----
+    def match_eps(kws, limit=10):
+        out = []
+        for e in eps:
+            t = e["title"].lower()
+            if any(k in t for k in kws):
+                out.append(e)
+            if len(out) >= limit:
+                break
+        return out
+    tcards = []
+    for t in TOPICS:
+        tcanon = f"{SITE}/topics/{t['slug']}/"
+        rel_ans = [a for a in ANSWERS if a["slug"] in t["answers"]]
+        rel_eps = match_eps(t["kw"])
+        ans_html = "".join(f'<li><a href="/answers/{a["slug"]}/">{html.escape(a["q"])}</a></li>' for a in rel_ans)
+        eps_html = "".join(f'<li><a href="/podcast/{e["slug"]}/">{html.escape(e["ctitle"])}</a></li>' for e in rel_eps) or '<li class="muted">More episodes soon.</li>'
+        page = (
+            head(f'{t["title"]} | {BRAND}', t["intro"], tcanon) +
+            header("/topics/") +
+            f'<section class="ep-head"><div class="wrap"><p class="eyebrow">Topic</p><h1>{html.escape(t["title"])}</h1><p class="ep-meta">{html.escape(t["intro"])}</p></div></section>'
+            f'<section class="section-pad"><div class="wrap" style="max-width:820px">'
+            f'<h2>Answers</h2><ul style="line-height:1.9;padding-left:18px">{ans_html}</ul>'
+            f'<h2 style="margin-top:32px">Episodes on this topic</h2><ul style="line-height:1.9;padding-left:18px">{eps_html}</ul>'
+            f'<div class="btnrow" style="margin-top:28px"><a class="btn amber" href="/podcast/">All episodes</a><a class="btn ghost" href="/glossary/">Glossary</a></div>'
+            f'</div></section>' +
+            footer()
+        )
+        write(["topics", t["slug"], "index.html"], page)
+        tcards.append(f'<li style="margin:0 0 16px;list-style:none"><a href="/topics/{t["slug"]}/" style="display:block;text-decoration:none"><strong style="color:var(--deep)">{html.escape(t["title"])}</strong><span class="muted" style="display:block;margin-top:4px">{html.escape(t["intro"])}</span></a></li>')
+    topics_hub = (
+        head(f"Topics | {BRAND}",
+             "Oil & gas sales and marketing by topic: selling to energy, marketing, sales-marketing alignment, AI in go-to-market, and how energy companies buy.",
+             f"{SITE}/topics/") +
+        header("/topics/") +
+        '<section class="ep-head"><div class="wrap"><p class="eyebrow">Topics</p><h1>Browse by topic</h1></div></section>'
+        f'<section class="section-pad"><div class="wrap" style="max-width:820px"><ul style="padding:0;margin:0">{"".join(tcards)}</ul></div></section>' +
+        footer()
+    )
+    write(["topics", "index.html"], topics_hub)
+
+    # ----- glossary (DefinedTermSet schema) -----
+    gschema = [{"@context": "https://schema.org", "@type": "DefinedTermSet",
+                "name": "Oil & Gas Sales & Marketing Glossary", "url": f"{SITE}/glossary/",
+                "hasDefinedTerm": [{"@type": "DefinedTerm", "name": re.sub(r"&amp;", "&", g[0]),
+                                    "description": strip_html(g[1])} for g in GLOSSARY]}]
+    gbody = "".join(
+        f'<div style="margin:0 0 22px"><h2 id="{slugify(g[0])}" style="margin:0 0 6px;font-size:1.15rem">{g[0]}</h2>'
+        f'<p style="margin:0">{g[1]}</p></div>' for g in GLOSSARY
+    )
+    glossary = (
+        head(f"Glossary: Oil & Gas Sales & Marketing Terms | {BRAND}",
+             "Plain-English definitions of oil & gas sales and marketing terms: AEO, speccing in, OFS, RevOps, ABM, NPT, TCO, and more.",
+             f"{SITE}/glossary/", gschema) +
+        header("") +
+        '<section class="ep-head"><div class="wrap"><p class="eyebrow">Glossary</p><h1>Oil &amp; Gas Sales &amp; Marketing Glossary</h1><p class="ep-meta">Plain-English definitions for energy go-to-market.</p></div></section>'
+        f'<section class="section-pad"><div class="wrap" style="max-width:760px">{gbody}</div></section>' +
+        footer()
+    )
+    write(["glossary", "index.html"], glossary)
+
     # ----- llms.txt / robots.txt / sitemap.xml -----
     llms = (
         f"# {BRAND}\n\n> {TAGLINE}\n\n"
@@ -525,6 +630,8 @@ def main():
         "## Key pages\n"
         f"- All episodes: {SITE}/podcast/\n"
         f"- Answers (how energy companies buy, sell & market): {SITE}/answers/\n"
+        f"- Topics (clustered by theme): {SITE}/topics/\n"
+        f"- Glossary (O&G sales/marketing terms): {SITE}/glossary/\n"
         f"- The book: {SITE}/book/\n"
         f"- Hosts (Mark LaCour, Matthew Bertram): {SITE}/host/\n"
         f"- About: {SITE}/about/\n\n"
@@ -552,8 +659,9 @@ def main():
     )
     write(["robots.txt"], robots)
 
-    urls = [SITE + "/", SITE + "/podcast/", SITE + "/answers/", SITE + "/book/", SITE + "/host/", SITE + "/about/", SITE + "/terms/"]
+    urls = [SITE + "/", SITE + "/podcast/", SITE + "/answers/", SITE + "/topics/", SITE + "/glossary/", SITE + "/book/", SITE + "/host/", SITE + "/about/", SITE + "/terms/"]
     urls += [f"{SITE}/answers/{a['slug']}/" for a in ANSWERS]
+    urls += [f"{SITE}/topics/{t['slug']}/" for t in TOPICS]
     urls += [f"{SITE}/podcast/{e['slug']}/" for e in eps]
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     sm += "".join(f"<url><loc>{u}</loc></url>\n" for u in urls)
