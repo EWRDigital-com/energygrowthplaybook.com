@@ -295,7 +295,7 @@ def book_band():
 <h2>Oil &amp; Gas Sales &amp; Marketing</h2>
 <p class="sub"><em>The Energy Growth Playbook for Oil and Gas Leaders</em> &mdash; by Mark LaCour &amp; Matthew Bertram</p>
 <p class="muted">Win deals before the RFP drops by influencing the spec. Turn discovery calls into pipeline. Align sales and marketing around how energy buyers actually buy. The field guide distilled from {{N}}+ episodes of the podcast.</p>
-<div class="btnrow" style="margin-top:16px"><a class="btn amber" href="{AMAZON}" rel="noopener">Get it on Amazon</a><a class="btn ghost" href="/book/">Learn more</a></div>
+<div class="btnrow" style="margin-top:16px"><a class="btn amber" href="{AMAZON}" rel="noopener">Get it on Amazon</a><a class="btn ghost" href="/podcast/">Listen to the show</a></div>
 </div></div></div></section>"""
 
 def producer_band():
