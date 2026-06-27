@@ -31,7 +31,54 @@ LISTEN = [
     ("OGGN", "https://oggn.com/oil-gas-sales-and-marketing-podcast/"),
     ("RSS", "https://feeds.oggn.com/category/ogsm/feed/"),
 ]
-NAV = [("Episodes", "/podcast/"), ("The Book", "/book/"), ("Hosts", "/host/"), ("About", "/about/")]
+NAV = [("Episodes", "/podcast/"), ("Answers", "/answers/"), ("The Book", "/book/"), ("Hosts", "/host/"), ("About", "/about/")]
+
+# Answer-first AEO pages — the questions energy buyers/sellers actually ask. Each renders
+# as a FAQPage with schema so AI answer engines (AI Overviews, ChatGPT, Perplexity) can cite it.
+ANSWERS = [
+  {"slug":"how-to-sell-to-oil-and-gas-companies",
+   "q":"How do you sell to oil and gas companies?",
+   "summary":"Selling to oil & gas means winning a long, committee-driven, risk-averse buying process: get specified in early and prove you cut downtime and total cost.",
+   "a":[
+     "Selling to oil and gas companies means selling into a long, committee-driven, safety- and uptime-obsessed buying process &mdash; not a quick transaction. The companies that win get <strong>specified into the project before the RFP is written</strong>, earn trust with both the technical buyer (engineering and operations) and the economic buyer (procurement), and prove they reduce risk, downtime, and total cost of ownership.",
+     "Generic, high-volume outreach fails in energy. What works is domain credibility, relationships, and being present where operators actually learn &mdash; industry podcasts, trade events, referrals, and approved-vendor lists. Because budgets follow capital cycles and the oil price, the strongest sellers build pipeline continuously rather than reacting when a bid drops.",
+     "In short: lead with how you de-risk the operation, get in before the spec is locked, and build the authority that shortens the long trust-building phase of an energy sale."]},
+  {"slug":"oil-and-gas-sales-cycle",
+   "q":"What does the oil and gas sales cycle (buying process) look like?",
+   "summary":"Long (6-18+ months), multi-stakeholder, gated by capital cycles, safety qualification, and procurement, with spec development the highest-leverage stage.",
+   "a":[
+     "The oil and gas buying process is long &mdash; often 6 to 18 months or more &mdash; multi-stakeholder, and gated by capital budgets, safety and qualification requirements, and procurement. It typically moves through problem recognition, <strong>spec development</strong> (the highest-leverage moment to influence), vendor qualification and approval, RFP or bid, procurement negotiation, award, and onboarding.",
+     "Two things make it distinct from ordinary B2B: the process is heavily risk- and compliance-driven (a failure can mean downtime, safety incidents, or lost production), and it is sensitive to the capital cycle and commodity price. Deals stall and accelerate with forces outside the seller's control.",
+     "The practical implication: build relationships and authority continuously, influence the requirements before procurement formalizes them, and keep a full pipeline so you are not dependent on any single long-cycle deal."]},
+  {"slug":"marketing-for-oilfield-services",
+   "q":"How do you market oilfield services?",
+   "summary":"Oilfield-services marketing builds technical authority and trust with a narrow, high-value audience: case studies with hard numbers, thought leadership where operators are, and ABM.",
+   "a":[
+     "Marketing oilfield services is about building <strong>technical authority and trust with a narrow, high-value audience</strong> &mdash; not mass reach. The buyers are engineers, operations leaders, and procurement at a finite set of operators, so credibility and specificity beat volume every time.",
+     "What works: case studies with hard numbers (non-productive time reduced, dollars per barrel saved, HSE outcomes), thought leadership where operators actually consume content (industry podcasts, LinkedIn, and trade media), getting onto approved-vendor lists, and account-based marketing aimed at named operators. Brand and visibility do real work here &mdash; they shorten the trust-building phase of a long, high-stakes sale.",
+     "The goal of oilfield-services marketing is not lead volume; it is familiarity and authority, so that when a buyer has a problem, your company is already the trusted name they call."]},
+  {"slug":"influence-the-spec-before-the-rfp",
+   "q":"How do you influence the spec before the RFP in energy sales?",
+   "summary":"Be in the conversation during problem-definition and spec-writing: educate engineers early so your approach is written into the requirements before procurement formalizes them.",
+   "a":[
+     "You influence the spec by <strong>being in the conversation during the problem-definition and spec-writing phase, before procurement formalizes the requirements</strong>. That means educating engineers and operations early, providing reference designs, technical content, and a clear point of view, and becoming the trusted advisor whose approach gets written into the requirements.",
+     "This matters because once an RFP is published, the specification often already favors whoever helped shape it. Competing after that point usually becomes a price game against requirements built around someone else's solution.",
+     "Practically: invest in upstream relationships and education, publish content that frames the problem the way your solution solves it, and measure success by how often your thinking shows up in the requirements &mdash; not just how many bids you respond to."]},
+  {"slug":"align-sales-and-marketing-in-energy",
+   "q":"How do you align sales and marketing in an energy or industrial company?",
+   "summary":"Point both teams at the buyer's real journey and a shared definition of a qualified opportunity: marketing creates authority so sales enters warm, and feeds the technical content each stage needs.",
+   "a":[
+     "You align sales and marketing by pointing both at the <strong>buyer's actual journey and a shared definition of a qualified opportunity</strong> &mdash; not at lead volume. In energy and industrial companies, marketing's real job is to create familiarity and authority so sales enters warm conversations, and to supply the technical content sales needs at each stage of a long cycle.",
+     "The mechanics that keep them aligned: shared pipeline metrics (not vanity leads), regular feedback loops where sales tells marketing what buyers actually ask, and content built from real sales conversations and podcast episodes. When marketing is measured on pipeline and revenue contribution, the friction between the two teams largely disappears.",
+     "Done right, the line between sales and marketing blurs into one revenue motion: marketing warms and educates, sales advises and closes, and both work from the same view of the customer."]},
+  {"slug":"ai-search-aeo-for-energy-companies",
+   "q":"How do energy companies get found in AI search (AEO / GEO)?",
+   "summary":"AI answer engines increasingly mediate B2B energy research. Earn citations with answer-first content, schema, crawler access, and entity authority. Classic ranking is not the same as AI-answer visibility.",
+   "a":[
+     "Energy companies get found in AI search by <strong>earning the citation</strong>, not just ranking. AI answer engines (Google AI Overviews, ChatGPT, Perplexity, Gemini) increasingly mediate B2B research, including in energy, and they synthesize answers from sources they trust rather than returning a list of links.",
+     "The levers: publish clear, <strong>answer-first content</strong> for the specific questions buyers ask; structure it with schema so machines can parse it; make sure AI crawlers can access it; and build entity authority &mdash; consistent brand and person signals, citations, and being referenced across the web. A tracked question with no page that answers it is a guaranteed zero in AI presence.",
+     "Classic SEO ranking does not equal AI-answer visibility, and this is exactly the discipline ModalPoint and Matt Bertram work on: making energy and industrial brands the source AI engines cite. Learn more at <a href='https://modalpoint.com' rel='noopener'>ModalPoint</a> and <a href='https://matthewbertram.com' rel='noopener'>matthewbertram.com</a>."]},
+]
 
 # ---------- helpers ----------
 def slugify(s):
@@ -424,6 +471,51 @@ def main():
     )
     write(["terms", "index.html"], terms)
 
+    # ----- answers (answer-first AEO pages w/ FAQPage schema) -----
+    cards = []
+    for a in ANSWERS:
+        acanon = f"{SITE}/answers/{a['slug']}/"
+        faq = [{
+            "@context": "https://schema.org", "@type": "FAQPage",
+            "mainEntity": [{"@type": "Question", "name": a["q"],
+                "acceptedAnswer": {"@type": "Answer", "text": strip_html(" ".join(a["a"]))}}],
+        }]
+        body = "".join(f"<p>{p}</p>" for p in a["a"])
+        related = "".join(
+            f'<li><a href="/podcast/{e["slug"]}/">{html.escape(e["ctitle"])}</a></li>'
+            for e in eps[:4]
+        )
+        page = (
+            head(f'{a["q"]} | {BRAND}', a["summary"], acanon, faq) +
+            header("/answers/") +
+            f'<section class="ep-head"><div class="wrap"><p class="eyebrow">Answers</p><h1>{html.escape(a["q"])}</h1></div></section>'
+            f'<div class="wrap"><div class="ep-body"><div class="ep-main"><div class="answer" style="font-size:1.05rem;line-height:1.7">{body}</div>'
+            f'<div class="btnrow" style="margin-top:26px"><a class="btn amber" href="/podcast/">Hear it on the podcast</a><a class="btn ghost" href="{AMAZON}" rel="noopener">Get the book</a></div></div>'
+            f'<aside class="ep-side"><div class="box"><h4>More answers</h4>'
+            + "".join(f'<a href="/answers/{o["slug"]}/">{html.escape(o["q"])}</a>' for o in ANSWERS if o["slug"] != a["slug"])
+            + '</div><div class="box"><h4>Recent episodes</h4><ul style="margin:0;padding-left:18px">' + related + '</ul></div>'
+            f'<div class="box"><h4>The book</h4><a href="{AMAZON}" rel="noopener">Oil &amp; Gas Sales &amp; Marketing &rarr;</a></div></aside>'
+            f'</div></div>' +
+            footer()
+        )
+        write(["answers", a["slug"], "index.html"], page)
+        cards.append(
+            f'<li style="margin:0 0 16px;list-style:none"><a href="/answers/{a["slug"]}/" style="display:block;text-decoration:none">'
+            f'<strong style="color:var(--deep)">{html.escape(a["q"])}</strong>'
+            f'<span class="muted" style="display:block;margin-top:4px">{html.escape(a["summary"])}</span></a></li>'
+        )
+    answers_hub = (
+        head(f"Answers: Oil & Gas Sales & Marketing | {BRAND}",
+             "Straight, sourced answers on how oil & gas and energy companies actually buy, sell, and market — from the Energy Growth Playbook podcast and book.",
+             f"{SITE}/answers/") +
+        header("/answers/") +
+        '<section class="ep-head"><div class="wrap"><p class="eyebrow">Answers</p><h1>Oil &amp; Gas Sales &amp; Marketing &mdash; Answers</h1>'
+        '<p class="ep-meta">Straight, sourced answers to how energy companies actually buy, sell, and market.</p></div></section>'
+        f'<section class="section-pad"><div class="wrap" style="max-width:820px"><ul style="padding:0;margin:0">{"".join(cards)}</ul></div></section>' +
+        footer()
+    )
+    write(["answers", "index.html"], answers_hub)
+
     # ----- llms.txt / robots.txt / sitemap.xml -----
     llms = (
         f"# {BRAND}\n\n> {TAGLINE}\n\n"
@@ -432,6 +524,7 @@ def main():
         "'Oil & Gas Sales & Marketing: The Energy Growth Playbook for Oil and Gas Leaders.'\n\n"
         "## Key pages\n"
         f"- All episodes: {SITE}/podcast/\n"
+        f"- Answers (how energy companies buy, sell & market): {SITE}/answers/\n"
         f"- The book: {SITE}/book/\n"
         f"- Hosts (Mark LaCour, Matthew Bertram): {SITE}/host/\n"
         f"- About: {SITE}/about/\n\n"
@@ -459,7 +552,8 @@ def main():
     )
     write(["robots.txt"], robots)
 
-    urls = [SITE + "/", SITE + "/podcast/", SITE + "/book/", SITE + "/host/", SITE + "/about/", SITE + "/terms/"]
+    urls = [SITE + "/", SITE + "/podcast/", SITE + "/answers/", SITE + "/book/", SITE + "/host/", SITE + "/about/", SITE + "/terms/"]
+    urls += [f"{SITE}/answers/{a['slug']}/" for a in ANSWERS]
     urls += [f"{SITE}/podcast/{e['slug']}/" for e in eps]
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     sm += "".join(f"<url><loc>{u}</loc></url>\n" for u in urls)
