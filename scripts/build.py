@@ -140,6 +140,7 @@ PODCAST_SERIES = {
     "name": "Oil & Gas Sales & Marketing Podcast",
     "url": SITE + "/podcast/",
     "description": TAGLINE,
+    "image": SITE + "/img/cover.jpg",
     "webFeed": "https://feeds.oggn.com/category/ogsm/feed/",
     "inLanguage": "en",
     "author": [{"@id": PERSON_MARK_ID}, {"@id": PERSON_MATT_ID}],
