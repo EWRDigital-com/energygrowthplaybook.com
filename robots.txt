@@ -1,0 +1,8 @@
+# Energy Growth Playbook — crawl policy
+# Use freely for search, AI answers, and model training. Attribution required: see /terms/.
+
+User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+
+Sitemap: https://energygrowthplaybook.com/sitemap.xml

@@ -1,0 +1,3850 @@
+{
+  "slug": "harnessing-ai-for-sales-success",
+  "title": "Harnessing AI for Sales Success",
+  "episode": "74",
+  "audio": "https://media.blubrry.com/oil_and_gas_this_week/media.blubrry.com/oilandgassalesandmarketing/ins.blubrry.com/oilandgassalesandmarketing/OGSM74.mp3",
+  "duration": 1874.9,
+  "text": "Welcome to the Oil and Gas Sales and Marketing podcast, where every week, your hosts, Mark LaCour and Matt Bertram share proven strategies and real-world tactics to help you connect with customers and close more deals. Let's do this. Audi, welcome back to the Oil and Gas Sales and Marketing podcast from OGGN. You recognize my voice, you don't hear Mark's voice. It's because he mentioned it last podcast. I'm going to be taking over. This is one of my first solo podcasts, and I wanted to bring in a special guest for you. I know I've been pretty hyped up on AI and the impact that it's happening in the sales and marketing space, and I thought it would be good to break down for you how AI can help sales leaders and sales professionals leverage what they're doing. Because I remember when I was a salesperson in Oil and Gas, I was making a lot of calls. I was trying to get with people. I wanted to create this perfect experience for somebody. I always wanted to follow up. I had lists, and I was doing all kinds of things to try to create that perfect experience, and I couldn't quite get that to happen without automation. And now, automation's kind of moved to the next level where there's starting to be some agentic workflows. And what agentic means is that AI can help you do some of these things and follow up with people. There's a broad layer between automation and sales, but I think we can all recognize the need to build in help and make us a super salesperson. And Steven Worley, thank you for coming on the show. He's a former Army Ranger. He's got a degree in computer science. He's been doing a lot with the RevOps, which is a kind of a new term that's coming out where we bring finance into the mix, like kind of the CRO. So we've got sales marketing and finance involved where you can actually show revenue growth for what you're doing. I know the last podcast, we went into that pretty heavily. And let's just kind of sprinkle in some AI and see what happens. So, Steven, welcome to the show. Thanks for having me, Matthew. I'm excited to be here. Awesome. So I would love for us to start real basic because we were talking before we got on about how kind of salespeople, it doesn't matter what industry, but there's a lot of people listening that sell into oil and gas that are trying to understand the lingo. And I think you were doing a little bit of that prior to how it all plays together. But there's a consistent frame of reference that technology with salespeople is sometimes oil and vinegar, or what is it, vinegar and water? What is the analogy? Something like that. Something like that. It works one way or another, right? Yeah, but it's changing. So I would love to hear your viewpoint on across different industries and then specifically what you know about oil and gas as it relates to sales outreach and workflows. Yeah, absolutely. It's funny. I just have to point out you and I are almost opposites where I did more marketing before and now I do more sales stuff and I think you were doing more sales before and now you do more marketing. But anyways, we can play with that as we go on. The thing I was doing most recently before what I'm doing now, which is more helping organizations with sales teams, is I was actually running a sales agency. So I was putting together the teams and managing and training them and that could be anything from a coach and consulting type offer, but more so in investment or real estate space or something like that. Not so much oil and gas though. I'm somewhat knowledgeable on the topic. What I'll say is, and this is coming from a technical person, I found it incredibly frustrating when I was building systems that I thought were amazing that no one was using and there was no adoption. The sales people couldn't understand how to do it. I could demo this. I could hop on and have them click around and do it. And it felt three hours later when it was time for them to do their end of day reports and put some data together of what was happening. It would just again come to me having to step in and help with the system. Overall, on the level of what I see in terms of technology, I started to realize that the problem wasn't sales people. The problem was actually me because sales people have a way of thinking. They have a way of doing. And that's a good thing. For lots of organizations, that's a good thing. And there's different types. We know of those alpha sales people that can be really toxic in a way, but bring a level of performance that's amazing. So that's one person. But then there's also there's people who are so really good, but they're into the culture and all that's great as well. What I see overall is if there can be a system created to make things more simple for a sales person, while enabling them more, like you said, let's enable the sales people to be more superhuman in a way. Then let's do that and cut down on the technology and just use what they're already using. It's an engineering mindset, a building out a system versus a sales person on how they interact and think with customers. So I think you hit the nail on the head is it's a way of thinking that you're talking two different languages. And I feel like it's almost marketing's job to bridge that gap, to explain that, and say, here's how we can incorporate that. One perfect example of this is you could build a drip email campaign, right? A drip email, a handful of emails that are prewritten to a target persona that will automate, go out at a certain amount of time, put that into a CRM and build it where all you have to do is say, okay, I understand this sequence of drip emails that's going to go out. I'm going to put this tag in the CRM on this account and guess what? Automated, it's going to send them an email, maybe send them a text in this sequence. And that's something that a sales person would manually do and that framework can be pulled out of their head of what they would like to do for every customer of what we talked about, plug that in, and then have that be able to happen at scale if you have a targeted outreach program going, and then you can track the data, and that's where maybe marketing comes in on open rates or engagement where they can human in the loop bring the salesperson back in and say, hey, these people are opening your emails consistently, they're interested. And if you think about that and then expand it, you can target different buyer classes across stakeholders and oil and gas. You have a lot of different people that are making a buying decision, talking to them differently. The email needs to be structured differently. So you could have for each target persona, those kind of tags, those kind of drips, speaking in that language. Yes. That's super helpful if you're targeting a company versus manually having to write all those out because there's typically like a, I've found when I was doing cold outreach in oil and gas and I was doing recruitment, 85% of the time, a very similar script would work and resonate with a certain type of person. If I could get some kind of scale with that, I could reach more, I could produce more, I could do more, and that's actually what drove me more into digital marketing and then more into automation and AI. That's why I was a salesperson and I was making 60, 70 calls a day or trying to dependent if I would get people, it would be less, but I was doing that going, how do I get leverage in what I'm doing on outreach? Now, I know a lot of people are listening, it's a complex sale, you have a set target list, but how much time do you spend crafting out an email that you've sent multiple times? Like you could set it up as a canned email and click on it and send it, but think about the follow up on that and being able to see that in a CRM to know, hey, I have a helper, I have a bot or whatever helping me follow up with these people. I think it's super, super powerful. So I wanted to accept the table there because what you're doing is from us talking before is building out those workflows for people like you're taking it out of their head and then you're going, what would you like to see happen? Building that system for them, getting the language right, installing that system, and then setting up triggers for them. Was that pretty close to what you're doing? Exactly. I have a question for you in a sec if I can remember it, but also just to touch on the point, I think one thing we look at, no matter what it is in business, no matter what we're doing, and especially in sales though, we want to look at things through a consistent way of doing things, right? Let's make sure that if we do something, we do it in this way or SOP. We follow the SOP and we do it in this way because that leads to the desired end result. In sales, it's closing a sale. My question for you is, because you're a little bit more around oil and gas, I know you're not actively in the sales arena, what does it typically look like before you start outreach? How much time does somebody usually put in in this industry before you start outreach in oil and gas? The prospecting? Yes. The enrichment of data, the competitor analysis, that's huge because if you can understand what that problem is because everybody, and we talked about this a little bit on the last podcast that will be published before this one, I believe, is essentially everybody's limited on time and there's just so much information and sales marketing messages and everybody talks a lot about LinkedIn spam and death by email and you're trying to sort through it all and if you're out in the field and that's where I think Slack and tools like that started to become on the rise because it's emails too even noisy. People are not even seeing it. Absolutely. So now you're like, this is my closed ecosystem of people I'm communicating with and these are the things that are on my list that I need to get done and I'm laser focused on that and a lot of people are stretched for time. If someone's going to reach out to you, they got to make a compelling argument. One of the biggest compelling arguments in oil and gas that I've seen is rigged downtime. If you can say or assure rigged downtime, like you're talking millions of dollars per day or depending on what it is or it's the easiest thing to show the value, profit, exact. You're trying to quantify, hey, or people get hurt, right? People get hurt. That shuts down operations. There's a big emphasis on that. So it's keeping operations running, keeping everything flowing, taking that number and then quantifying that and putting that out there. But also it's like there's certain businesses if you understand how they operate, right? And you've done some discovery and you know that there's a problem. I'll give you one example we've talked about in this podcast many times. I know that there's a couple large organizations out there that have purchased other organizations and are operating on multiple Salesforce instances that don't talk to each other. Like that's a scaling issue. I think it's something like close to seven years of full integration when you buy a company to get everything working together. And that's why I think a lot of times like maybe people get let go is because it's like you have two different cultures, two different systems that you're merging and there's got to be a dominant force and people got to uptake to one of them because unless you're operating as two separate businesses, you don't get the advantage of having a CRM or ERP systems. We'll just leave that out for now. We'll talk about that later. But we'll talk strictly about CRM systems. There's a culture and a use case. I think it also comes down to leadership on what are the KPIs? What are we looking for? What are we trying to produce? And if someone's producing well, there's not that strict adherence to the SOPs. I feel like it's good old boy, get it done, but that's changing and the buyers are changing to answer your question more effectively. There's a committee that usually decides. So now it's not just one person signing off because some of these are very big deals. It's running through finance. You're going to have to articulate what that is. You got to get a hold of that problem. You got to reach different buyers at different levels. And it becomes very complex and it takes a long time and people's schedules get missed. And if you miss a meeting, it gets kicked out. The two hour lunches have stopped. They're coming back since COVID. But that was a huge, oh my gosh, I have a lunch. The day's dead, like after this or whatever. I got to drive to here. Like I got to do this and then nothing would come of it. And there's a lot of competitive intelligence that's starting to happen to get in the door because oil and gas is very guarded and it's who you know and understanding their problem. It's old money a lot. Yeah, it's a very old boys club in a way. We talked on this podcast, which I think was recently published about a personal brand. A lot of people don't put themselves out there. And a lot of even private equity companies or operating companies, you look on LinkedIn, you don't even know that person and what they're doing. You're like, they don't even have a profile picture and they like run some huge company. So it's a lot of who you know and how you do it. But let's say, okay, I don't know where you were going with that specific question. But once you identify that, typically salespeople have like a target 50 list or 100 list, 250 list of what they're going after or- Yeah, the dream, yeah. It starts there. But a lot of that competitive intelligence gives you that thing that hooks them to say, hey, tell me a little bit more what you have. This might solve my problem. And I think that's the crux of it. Thanks for that. That was awesome. That's the start of the AI in sales conversation in my eyes. That process is so demanding. It goes all the way through NRFP and all of those pieces. But that initial conversation, if you're doing outreach, it's so important to use things like AI to just make that job easier. So if there are certain things that we're always looking at that are pretty similar, we can dial that in and AI can pull a lot of the talking points for you. It can look at very recent activity of companies as long as it's published. It can find same-day information that's happening. And those things are leveraged that I believe that in an industry like oil and gas, some people do a lot better than other industries where they're knowledgeable on what I need to talk about today. But I don't think it's as perfect as it could be as you getting a notification that just pops up, letting you know in between meetings and whatnot of another thing that just happened. Let alone the business intelligence of the person that you're talking to or the background of the person. You're talking about, even in that research phase, which a lot of people that are using LLMs are able to do five hours of research in 10 minutes because basically when you search those agents, go find all that information, go find that 10K report, put it together for you based on trends. If you have APIs hooked into it, it can scrape social media, it can suck all that stuff in, synthesize it, and tell you this is what's most likely going on or that can happen. And that compresses the research time that you might have had to do previously because you're manually doing all that stuff. Absolutely. And I've seen it work in different industries, especially the construction contracting industry, contractor industry, where there's instances for looking at use cases of looking at it from a sales perspective, hey, how can we accomplish this effectively? I think a lot of people here probably know what a McKinsey style report is, very expensive to get. Well, with ChatGPT and deep research, you can get that fairly quickly. 20-minute turnaround point with the initial prompting usually takes about seven minutes to generate. You can throw that into, I know we're starting to get a little ahead of ourselves, so you can slow me down, but you can throw that into Gamma, preserve the text, and Gamma will design a beautiful website or document to hand off as part of your thing. And if we're talking about that takes 30 minutes to create, imagine you already have the personnel that are doing the research. Imagine if we just spent an hour of human in the loop just going through that pretty meticulously before it gets sent out, holy smokes. And that's the difference in power when we talk about supercharging the salespeople or business development folks, whatever it is and what stage it's at, there is a massive benefit in terms of output that we can get people to do. So a lot of people are afraid of AI in terms of replacing, but I think what you should be afraid of is your competitors using AI and you're not. That's the scary thing to me because if the other companies employs, not just that they have some egenic workflow, but if the other companies employs know how to use AI in three months, six months, the gain that they get is through the roof. It's not a six month delay at that point because they have so many tools and skills at their disposal. That's almost years of business growth that happens. Not saying that naturally attributes to revenue or profit that quickly, but in terms of systems it does. And that will over time mean a lot. I was laughing because I just read this article about McKenzie and these different consulting companies having the existential crisis. Right? We remember when Google was having an existential crisis as well and now a lot of these big consulting companies are having this existential crisis because they can't charge what they were charging before and all these people and the output of what you're talking about is so much better. And then what you just said there is just completed this Harvard AI for business program for executives, which it was talking a lot about how to become an AI first company, right? So there's a VP of innovation that I was talking to earlier today. How are you using AI? And Steven, this was interesting. The pushback I got was we haven't really found any use cases yet. And I was like, say that again? Okay. And so I basically kicked my next meeting and we talked for another 30 minutes and we went through possible use cases and I think that there's this education gap and there's this fear gap of what you're talking about is like a sales agent is going to replace me. But there's horror stories of people that have done that where they've completely automated everything. There needs to be the human in the loop. And if you're listening, you want to be that human, okay? Because yes, they're going to need less people. So figure out how to get on board with this because guess what? It's coming like a tidal wave and it will be here. And to what Steven said is the gains that are going to happen for companies that start leveraging this are going to start to outpace it. I think LeBron James or something like that was talking about how he used to practice so much every day for another hour a day or something like that. I don't remember the exact, but he was like over the course of whatever, I've put in so many more hours than other people they can't catch up. Imagine that being super charged with AI and understand this technology. That's actually on my other podcast. What I'm starting to do is interview AI first companies and how that collision is happening with traditional businesses. And for an army term, they're getting smoked. Okay, like the traditional businesses are getting smoked. And look, spend some time, learn some prompt engineering. I think that basically that that could be the most, if you don't, if you didn't follow everything that Steven said, if you're using chat GBT and you're messing with it a little bit, go take a quick free course on prompt engineering and understand the primary inputs of how to structure a prompt good to get better outputs. You're probably just using co-pilot in your outlook to like rewrite emails. It can do so much more than that. And with just a little bit of knowledge, not even technical programming knowledge, not even computer engineering knowledge, you can see how it can give you a lot of leverage. Even on like a personal use case, we were going on a vacation trip. My wife was like, oh, we got to plan X, Y, Z, all this kind of stuff. You haven't helped me plan whatever. And she's like, where are we going to go? What are we going to do? And I love this. Within 30 minutes. I know where this is going, right? I had agendas planned out. I had actual rainy day options. I had pricing. I had reviews. Like I had it, it was like 10 hours or five hours, whatever you want to call it. But a lot of research and like their PDFs, I print them out and I go set them down next to her. And I think for her, that was the turning point when she was like, okay, there's something here. And she was like, she's starting to use it now. And I think there's this adoption curve. And it's starting to accelerate. People are starting to hear about it. People are starting to toy with it. What you're doing for them is you've already done that work. You've already done that research. And you're saying, you already know salespeople in your head. What is mapped out? I would love for it to be able to do this. Well, you're going to wire that up and build that for them is what I understand. And you already understand from the sales coaching side of what they need. And we were even talking about previously, like you're putting a lot of polish on what you're doing. But I built that workflow from the bot to running it through basically like some frameworks of selling or account management. And then it just automatically sends an email. Here's what you could done better. Here's what you're not like, I'm going to take this transcript and it's going to be like, Matt, you need to let the guest talk. Okay, you need to stop talking as much like he's the expert. So I'm going to turn it over to you. But those kind of feedback, those micro improvements when you have salespeople are incredibly helpful in addition to the automations, in addition to the research. There's three use cases right now on why your company should be using AI. Oh, yeah. There's no reason anyone should say we haven't found the use case yet. And there's actually a company right now that I know that does really solid work called Chief AI Officer. They look at it in a way more of the training and educating round. So the way that you went and got the Harvard, but the way that they approach it is they teach that executive team how to, and I love this term, it's think in AI. Because the reason people are saying, well, I don't know what to do and your wife started to have that realization. I know my wife did too. I won't get into her story, but you see something and then all of a sudden you start thinking in AI and you start thinking like, I'm doing this. What's possible? Wait, wait, what if I went to AI and I could start doing this in AI and have it assist with the process? Not complete or do the entire process, but if you can get it 60%, 70% the way there and you take it home, then it's huge. Sorry, what was your question? Because now I lost it. Where my head was going was this needs to be a top down and bottom up approach. Okay. Top down. Top down and bottom up. You got to have a champion. You got to have people on the front lines to understand what those use cases are. But the executive team's got to get on board with it because I had an example on content. This was probably a year and a half ago. They didn't want anything to do with AI. Like if it was AI, they didn't want it. That was an executive issue. And that was an oil and gas company. Well, this is something that you're hitting it and you're right, top down and bottom up. But I think that needs to start from the top down. And the reason I say that is because of governance and ethics and all of those pieces that come into this. And oil and gas, that's important. Just as important as, if not more than any other industry outside of maybe- Someone could die. There's a lot of bad things that could happen. Like you got it, you're going to move slow and you're going to make sure it's right. And you're going to- Governments involved in this stuff. There's lots of laws and legalities that cross different. It's huge. The executive team has to know what's possible in AI and they have to know the legal structure. And the security, the security, the data security. I think that that's the biggest issue right now. Yeah, absolutely. Like people are just taking maybe proprietary, whatever, throwing it into a public LLM. Shadow usage. Shadow usage. That's what I was going to say. It's huge. And organizations are blind to it. Some of them know and they don't care, which is crazy because the insurance companies have said, if you leak data, we're coming after the company. We don't care if that individual did it. We're not covering it. And if someone comes to sue you, it's on you. That's happened. Samsung has leaked a patent that way. So if it can happen to Samsung, I would consider a tech company. It can happen in this industry, no question. And if you don't know the blind spots, and this isn't to scare anyone, it's just that it takes a little bit of understanding. It's really not a lot, but it's a little bit. It's about getting an AI use policy and not being done with it. But the power of it, if you don't use it and you don't learn those things, it's not an option because then it's like Netflix and Blockbuster. It's like, we're going to use the internet or we're not going to use the internet. Well, what happens if we don't use the internet? What happens if we don't use AI? I would argue that AI is going to be significantly larger than the internet in the long run. There's a prediction out that AI is going to create the first single-person billionaire business, billion-dollar business. I can see that totally. Nuts, right? I don't know whether that's going to come true or not. I told my friend about a year ago that I imagine in the next 10 years, AI will create more millionaires than have ever been in existence before. Again, I don't know if this can be true, but I think I'm bullish on AI and I think a lot of us are. I don't think what makes sense is to sit back and let your competitors utilize it if you're not using it at all. No matter how you jump in, I think you have to get involved to an extent. I know that's a little meta in terms of our conversation, but I think it's just an important thing to touch on that. Even the reps on here, you've got to start using it or you're going to fall behind and being AI-enabled is what sets you apart. That's what's going to set employees apart. We talk about we're not going to need as many employees. Guess what? Even if you get laid off from your current place because they don't have the place for you, there's going to be lots of organizations that are hungry for AI-enabled people, people that know how to use AI and utilize it, and they will be more than happy to give you a higher amount of money to come work for them, even if you just got laid off or whatever happens or they don't have the room for you on that team. We don't have time to go into it. We're going to get in close to time here, but HR is about to get affected too. AI is disrupting everything and there's a path that another course that I took is showing where it's happening and it's really quite interesting. But man, when people are looking for hiring, they are looking for AI-enabled people. That is actually at our agency, DWR, that's the number one thing we're looking for first, is do they have this and then do they have this kind of marketing or sales or strategy experience in that? This is becoming highly sought after and you can differentiate yourself by getting ahead of the pack because you're going to have to learn it anyway. You've got to make that mindset shift to turn the key and say, all right, I got to learn this. I got a lot of other stuff going on, but I got to learn this because this is going to help me because, well, things are changing. The way people search online are changing. The way people sell, the way people buy are all changing and it's affecting every industry, every human being. I want to kind of tee you up for closable.ai and tell us a little bit about what you're doing for people and how people might find you, your work and get in touch with you, maybe see some of your case studies, that sort of thing. Yeah, absolutely. The best way to put it is, I know we started on this a little bit, is to think about a world where you are a salesperson and your life gets simplified or you're a sales manager and your data gets simplified. I think we spend a lot of our day thinking about what we're going to do and what we're going to need to do today. What if we popped up and let's say we're using Slack, we have a channel that's sending us a message where it's like, your next task is, you need to send this person email or you have to make a call, right? But not just that, say, this is the copy of the email. Is it good to send or do I need to edit it? Or this is the structure of the call you should use. And this is based on your last conversation that you had too, because we have that information now. That's the idea of where closeable.ai is to put it in simplest terms. It's a way for you to just say, organize as a salesperson, but then take that and we can make data, we can prevent people getting lost in the follow-up, things like that. We can also do the enrichment on the front end, like we talked about today. That's closeable.ai, in short. You can find me on LinkedIn, Steven Worley, Steven's with V-W-E-R-L-E-Y. I'm sure it'll probably be in the show notes. And then the website is closeable.ai and happy to see and help there. For any of you veterans out there, like and you want to work with other veterans, please reach out to former Army Ranger and just really cutting edge frontier technology. If you want to be the tip of the spear, reach out to Steven and find out more. We've had some great offline conversations, so I just wanted to introduce them to this network and hopefully you could benefit from that. We have a lot of stuff going on with OGGN. We're going to be at a lot of conferences. We're standing up a whole AI IoTT podcast. We're sold out all year for our newsletters. Mark and I are still doing speaking talks. Reach out to him. Reach out to OGGN. Thank you so much for your support. And until the next time, remember, make a difference, not a sale.",
+  "segments": [
+    {
+      "start": 7.09,
+      "end": 11.09,
+      "text": "Welcome to the Oil and Gas Sales and Marketing podcast,"
+    },
+    {
+      "start": 11.09,
+      "end": 14.89,
+      "text": "where every week, your hosts, Mark LaCour and Matt Bertram"
+    },
+    {
+      "start": 14.89,
+      "end": 17.97,
+      "text": "share proven strategies and real-world tactics"
+    },
+    {
+      "start": 17.97,
+      "end": 21.57,
+      "text": "to help you connect with customers and close more deals."
+    },
+    {
+      "start": 21.57,
+      "end": 22.97,
+      "text": "Let's do this."
+    },
+    {
+      "start": 26.46,
+      "end": 31.9,
+      "text": "Audi, welcome back to the Oil and Gas Sales and Marketing podcast"
+    },
+    {
+      "start": 31.9,
+      "end": 33.38,
+      "text": "from OGGN."
+    },
+    {
+      "start": 33.38,
+      "end": 36.38,
+      "text": "You recognize my voice, you don't hear Mark's voice."
+    },
+    {
+      "start": 36.38,
+      "end": 39.02,
+      "text": "It's because he mentioned it last podcast."
+    },
+    {
+      "start": 39.1,
+      "end": 40.62,
+      "text": "I'm going to be taking over."
+    },
+    {
+      "start": 40.62,
+      "end": 43.18,
+      "text": "This is one of my first solo podcasts,"
+    },
+    {
+      "start": 43.18,
+      "end": 47.18,
+      "text": "and I wanted to bring in a special guest for you."
+    },
+    {
+      "start": 47.18,
+      "end": 51.34,
+      "text": "I know I've been pretty hyped up on AI and the impact"
+    },
+    {
+      "start": 51.34,
+      "end": 54.46,
+      "text": "that it's happening in the sales and marketing space,"
+    },
+    {
+      "start": 54.46,
+      "end": 58.54,
+      "text": "and I thought it would be good to break down for you"
+    },
+    {
+      "start": 58.54,
+      "end": 63.58,
+      "text": "how AI can help sales leaders and sales professionals"
+    },
+    {
+      "start": 63.58,
+      "end": 65.42,
+      "text": "leverage what they're doing."
+    },
+    {
+      "start": 65.42,
+      "end": 68.86,
+      "text": "Because I remember when I was a salesperson in Oil and Gas,"
+    },
+    {
+      "start": 68.86,
+      "end": 70.38,
+      "text": "I was making a lot of calls."
+    },
+    {
+      "start": 70.38,
+      "end": 71.98,
+      "text": "I was trying to get with people."
+    },
+    {
+      "start": 71.98,
+      "end": 74.62,
+      "text": "I wanted to create this perfect experience for somebody."
+    },
+    {
+      "start": 74.62,
+      "end": 75.9,
+      "text": "I always wanted to follow up."
+    },
+    {
+      "start": 75.9,
+      "end": 78.78,
+      "text": "I had lists, and I was doing all kinds of things"
+    },
+    {
+      "start": 78.78,
+      "end": 81.1,
+      "text": "to try to create that perfect experience,"
+    },
+    {
+      "start": 81.1,
+      "end": 85.5,
+      "text": "and I couldn't quite get that to happen without automation."
+    },
+    {
+      "start": 85.5,
+      "end": 88.38,
+      "text": "And now, automation's kind of moved to the next level"
+    },
+    {
+      "start": 88.38,
+      "end": 91.18,
+      "text": "where there's starting to be some agentic workflows."
+    },
+    {
+      "start": 91.18,
+      "end": 95.26,
+      "text": "And what agentic means is that AI can help you"
+    },
+    {
+      "start": 95.26,
+      "end": 97.74,
+      "text": "do some of these things and follow up with people."
+    },
+    {
+      "start": 97.74,
+      "end": 101.18,
+      "text": "There's a broad layer between automation and sales,"
+    },
+    {
+      "start": 101.18,
+      "end": 105.9,
+      "text": "but I think we can all recognize the need to build in help"
+    },
+    {
+      "start": 105.9,
+      "end": 108.46,
+      "text": "and make us a super salesperson."
+    },
+    {
+      "start": 108.46,
+      "end": 111.26,
+      "text": "And Steven Worley, thank you for coming on the show."
+    },
+    {
+      "start": 111.82,
+      "end": 114.46,
+      "text": "He's a former Army Ranger."
+    },
+    {
+      "start": 114.46,
+      "end": 117.58,
+      "text": "He's got a degree in computer science."
+    },
+    {
+      "start": 117.58,
+      "end": 119.58,
+      "text": "He's been doing a lot with the RevOps,"
+    },
+    {
+      "start": 119.58,
+      "end": 121.74,
+      "text": "which is a kind of a new term that's coming out"
+    },
+    {
+      "start": 121.74,
+      "end": 125.18,
+      "text": "where we bring finance into the mix, like kind of the CRO."
+    },
+    {
+      "start": 125.18,
+      "end": 127.98,
+      "text": "So we've got sales marketing and finance involved"
+    },
+    {
+      "start": 127.98,
+      "end": 131.58,
+      "text": "where you can actually show revenue growth"
+    },
+    {
+      "start": 131.58,
+      "end": 132.3,
+      "text": "for what you're doing."
+    },
+    {
+      "start": 132.3,
+      "end": 135.66,
+      "text": "I know the last podcast, we went into that pretty heavily."
+    },
+    {
+      "start": 135.66,
+      "end": 137.9,
+      "text": "And let's just kind of sprinkle in some AI"
+    },
+    {
+      "start": 137.9,
+      "end": 138.78,
+      "text": "and see what happens."
+    },
+    {
+      "start": 138.78,
+      "end": 140.38,
+      "text": "So, Steven, welcome to the show."
+    },
+    {
+      "start": 140.94,
+      "end": 142.14,
+      "text": "Thanks for having me, Matthew."
+    },
+    {
+      "start": 142.14,
+      "end": 143.5,
+      "text": "I'm excited to be here."
+    },
+    {
+      "start": 144.14,
+      "end": 144.7,
+      "text": "Awesome."
+    },
+    {
+      "start": 144.7,
+      "end": 147.82,
+      "text": "So I would love for us to start real basic"
+    },
+    {
+      "start": 147.82,
+      "end": 150.22,
+      "text": "because we were talking before we got on"
+    },
+    {
+      "start": 150.22,
+      "end": 152.46,
+      "text": "about how kind of salespeople,"
+    },
+    {
+      "start": 152.46,
+      "end": 153.98,
+      "text": "it doesn't matter what industry,"
+    },
+    {
+      "start": 153.98,
+      "end": 155.42,
+      "text": "but there's a lot of people listening"
+    },
+    {
+      "start": 155.42,
+      "end": 157.18,
+      "text": "that sell into oil and gas"
+    },
+    {
+      "start": 157.18,
+      "end": 159.74,
+      "text": "that are trying to understand the lingo."
+    },
+    {
+      "start": 159.74,
+      "end": 161.34,
+      "text": "And I think you were doing a little bit of that"
+    },
+    {
+      "start": 161.34,
+      "end": 163.82,
+      "text": "prior to how it all plays together."
+    },
+    {
+      "start": 163.82,
+      "end": 166.22,
+      "text": "But there's a consistent frame of reference"
+    },
+    {
+      "start": 166.22,
+      "end": 170.14,
+      "text": "that technology with salespeople"
+    },
+    {
+      "start": 170.14,
+      "end": 172.22,
+      "text": "is sometimes oil and vinegar,"
+    },
+    {
+      "start": 172.22,
+      "end": 173.98,
+      "text": "or what is it, vinegar and water?"
+    },
+    {
+      "start": 173.98,
+      "end": 175.42,
+      "text": "What is the analogy?"
+    },
+    {
+      "start": 175.42,
+      "end": 176.54,
+      "text": "Something like that."
+    },
+    {
+      "start": 176.54,
+      "end": 177.34,
+      "text": "Something like that."
+    },
+    {
+      "start": 177.34,
+      "end": 178.86,
+      "text": "It works one way or another, right?"
+    },
+    {
+      "start": 178.86,
+      "end": 180.22,
+      "text": "Yeah, but it's changing."
+    },
+    {
+      "start": 180.22,
+      "end": 182.38,
+      "text": "So I would love to hear your viewpoint"
+    },
+    {
+      "start": 182.38,
+      "end": 184.86,
+      "text": "on across different industries"
+    },
+    {
+      "start": 184.86,
+      "end": 187.74,
+      "text": "and then specifically what you know about oil and gas"
+    },
+    {
+      "start": 187.74,
+      "end": 191.58,
+      "text": "as it relates to sales outreach and workflows."
+    },
+    {
+      "start": 192.38,
+      "end": 193.58,
+      "text": "Yeah, absolutely."
+    },
+    {
+      "start": 193.58,
+      "end": 194.14,
+      "text": "It's funny."
+    },
+    {
+      "start": 194.14,
+      "end": 197.18,
+      "text": "I just have to point out you and I are almost opposites"
+    },
+    {
+      "start": 197.18,
+      "end": 198.94,
+      "text": "where I did more marketing before"
+    },
+    {
+      "start": 198.94,
+      "end": 200.38,
+      "text": "and now I do more sales stuff"
+    },
+    {
+      "start": 200.38,
+      "end": 202.3,
+      "text": "and I think you were doing more sales before"
+    },
+    {
+      "start": 202.3,
+      "end": 203.34,
+      "text": "and now you do more marketing."
+    },
+    {
+      "start": 203.34,
+      "end": 206.3,
+      "text": "But anyways, we can play with that as we go on."
+    },
+    {
+      "start": 206.3,
+      "end": 208.86,
+      "text": "The thing I was doing most recently"
+    },
+    {
+      "start": 208.86,
+      "end": 210.46,
+      "text": "before what I'm doing now,"
+    },
+    {
+      "start": 210.46,
+      "end": 213.98,
+      "text": "which is more helping organizations with sales teams,"
+    },
+    {
+      "start": 213.98,
+      "end": 216.78,
+      "text": "is I was actually running a sales agency."
+    },
+    {
+      "start": 216.78,
+      "end": 219.5,
+      "text": "So I was putting together the teams and managing"
+    },
+    {
+      "start": 219.5,
+      "end": 222.54,
+      "text": "and training them and that could be anything"
+    },
+    {
+      "start": 222.54,
+      "end": 225.1,
+      "text": "from a coach and consulting type offer,"
+    },
+    {
+      "start": 225.1,
+      "end": 229.42,
+      "text": "but more so in investment or real estate space"
+    },
+    {
+      "start": 229.42,
+      "end": 230.22,
+      "text": "or something like that."
+    },
+    {
+      "start": 230.22,
+      "end": 231.98,
+      "text": "Not so much oil and gas though."
+    },
+    {
+      "start": 231.98,
+      "end": 233.98,
+      "text": "I'm somewhat knowledgeable on the topic."
+    },
+    {
+      "start": 235.18,
+      "end": 239.66,
+      "text": "What I'll say is, and this is coming from a technical person,"
+    },
+    {
+      "start": 239.66,
+      "end": 241.66,
+      "text": "I found it incredibly frustrating"
+    },
+    {
+      "start": 241.66,
+      "end": 244.86,
+      "text": "when I was building systems that I thought were amazing"
+    },
+    {
+      "start": 244.86,
+      "end": 248.86,
+      "text": "that no one was using and there was no adoption."
+    },
+    {
+      "start": 249.5,
+      "end": 252.62,
+      "text": "The sales people couldn't understand how to do it."
+    },
+    {
+      "start": 252.62,
+      "end": 254.22,
+      "text": "I could demo this."
+    },
+    {
+      "start": 254.22,
+      "end": 257.34,
+      "text": "I could hop on and have them click around and do it."
+    },
+    {
+      "start": 257.34,
+      "end": 259.18,
+      "text": "And it felt three hours later"
+    },
+    {
+      "start": 259.18,
+      "end": 261.9,
+      "text": "when it was time for them to do their end of day reports"
+    },
+    {
+      "start": 261.9,
+      "end": 264.38,
+      "text": "and put some data together of what was happening."
+    },
+    {
+      "start": 265.26,
+      "end": 268.62,
+      "text": "It would just again come to me having to step in"
+    },
+    {
+      "start": 268.62,
+      "end": 269.74,
+      "text": "and help with the system."
+    },
+    {
+      "start": 270.38,
+      "end": 273.42,
+      "text": "Overall, on the level of what I see in terms of technology,"
+    },
+    {
+      "start": 273.42,
+      "end": 276.46,
+      "text": "I started to realize that the problem wasn't sales people."
+    },
+    {
+      "start": 276.46,
+      "end": 280.22,
+      "text": "The problem was actually me because sales people"
+    },
+    {
+      "start": 280.22,
+      "end": 281.5,
+      "text": "have a way of thinking."
+    },
+    {
+      "start": 281.5,
+      "end": 282.62,
+      "text": "They have a way of doing."
+    },
+    {
+      "start": 283.42,
+      "end": 284.94,
+      "text": "And that's a good thing."
+    },
+    {
+      "start": 284.94,
+      "end": 287.18,
+      "text": "For lots of organizations, that's a good thing."
+    },
+    {
+      "start": 287.18,
+      "end": 288.86,
+      "text": "And there's different types."
+    },
+    {
+      "start": 288.86,
+      "end": 291.18,
+      "text": "We know of those alpha sales people"
+    },
+    {
+      "start": 291.18,
+      "end": 294.06,
+      "text": "that can be really toxic in a way,"
+    },
+    {
+      "start": 294.06,
+      "end": 297.1,
+      "text": "but bring a level of performance that's amazing."
+    },
+    {
+      "start": 297.1,
+      "end": 297.9,
+      "text": "So that's one person."
+    },
+    {
+      "start": 297.9,
+      "end": 300.62,
+      "text": "But then there's also there's people who are so really good,"
+    },
+    {
+      "start": 300.62,
+      "end": 303.18,
+      "text": "but they're into the culture and all that's great as well."
+    },
+    {
+      "start": 303.18,
+      "end": 307.02,
+      "text": "What I see overall is if there can be a system created"
+    },
+    {
+      "start": 307.02,
+      "end": 310.7,
+      "text": "to make things more simple for a sales person,"
+    },
+    {
+      "start": 310.7,
+      "end": 312.62,
+      "text": "while enabling them more, like you said,"
+    },
+    {
+      "start": 312.62,
+      "end": 315.98,
+      "text": "let's enable the sales people to be more superhuman in a way."
+    },
+    {
+      "start": 316.54,
+      "end": 320.7,
+      "text": "Then let's do that and cut down on the technology"
+    },
+    {
+      "start": 320.7,
+      "end": 322.54,
+      "text": "and just use what they're already using."
+    },
+    {
+      "start": 323.18,
+      "end": 326.62,
+      "text": "It's an engineering mindset, a building out a system"
+    },
+    {
+      "start": 326.62,
+      "end": 329.34,
+      "text": "versus a sales person on how they interact"
+    },
+    {
+      "start": 329.34,
+      "end": 330.14,
+      "text": "and think with customers."
+    },
+    {
+      "start": 330.14,
+      "end": 331.9,
+      "text": "So I think you hit the nail on the head"
+    },
+    {
+      "start": 331.9,
+      "end": 333.42,
+      "text": "is it's a way of thinking"
+    },
+    {
+      "start": 333.42,
+      "end": 335.58,
+      "text": "that you're talking two different languages."
+    },
+    {
+      "start": 335.58,
+      "end": 338.54,
+      "text": "And I feel like it's almost marketing's job"
+    },
+    {
+      "start": 338.54,
+      "end": 341.66,
+      "text": "to bridge that gap, to explain that,"
+    },
+    {
+      "start": 341.66,
+      "end": 344.06,
+      "text": "and say, here's how we can incorporate that."
+    },
+    {
+      "start": 344.06,
+      "end": 345.98,
+      "text": "One perfect example of this"
+    },
+    {
+      "start": 345.98,
+      "end": 348.7,
+      "text": "is you could build a drip email campaign, right?"
+    },
+    {
+      "start": 348.7,
+      "end": 352.78,
+      "text": "A drip email, a handful of emails that are prewritten"
+    },
+    {
+      "start": 352.78,
+      "end": 355.42,
+      "text": "to a target persona that will automate,"
+    },
+    {
+      "start": 355.42,
+      "end": 358.62,
+      "text": "go out at a certain amount of time, put that into a CRM"
+    },
+    {
+      "start": 359.26,
+      "end": 361.42,
+      "text": "and build it where all you have to do is say,"
+    },
+    {
+      "start": 361.42,
+      "end": 364.7,
+      "text": "okay, I understand this sequence of drip emails"
+    },
+    {
+      "start": 364.7,
+      "end": 365.74,
+      "text": "that's going to go out."
+    },
+    {
+      "start": 365.74,
+      "end": 370.38,
+      "text": "I'm going to put this tag in the CRM on this account"
+    },
+    {
+      "start": 370.38,
+      "end": 373.66,
+      "text": "and guess what? Automated, it's going to send them an email,"
+    },
+    {
+      "start": 373.66,
+      "end": 376.38,
+      "text": "maybe send them a text in this sequence."
+    },
+    {
+      "start": 376.38,
+      "end": 380.62,
+      "text": "And that's something that a sales person would manually do"
+    },
+    {
+      "start": 380.62,
+      "end": 383.5,
+      "text": "and that framework can be pulled out of their head"
+    },
+    {
+      "start": 383.58,
+      "end": 385.5,
+      "text": "of what they would like to do for every customer"
+    },
+    {
+      "start": 385.5,
+      "end": 388.06,
+      "text": "of what we talked about, plug that in,"
+    },
+    {
+      "start": 388.06,
+      "end": 391.98,
+      "text": "and then have that be able to happen at scale"
+    },
+    {
+      "start": 392.54,
+      "end": 396.06,
+      "text": "if you have a targeted outreach program going,"
+    },
+    {
+      "start": 396.78,
+      "end": 398.78,
+      "text": "and then you can track the data,"
+    },
+    {
+      "start": 398.78,
+      "end": 401.58,
+      "text": "and that's where maybe marketing comes in on open rates"
+    },
+    {
+      "start": 401.58,
+      "end": 404.22,
+      "text": "or engagement where they can human in the loop"
+    },
+    {
+      "start": 404.22,
+      "end": 406.38,
+      "text": "bring the salesperson back in and say,"
+    },
+    {
+      "start": 406.38,
+      "end": 410.54,
+      "text": "hey, these people are opening your emails consistently,"
+    },
+    {
+      "start": 410.54,
+      "end": 411.5,
+      "text": "they're interested."
+    },
+    {
+      "start": 411.5,
+      "end": 415.02,
+      "text": "And if you think about that and then expand it,"
+    },
+    {
+      "start": 415.02,
+      "end": 418.54,
+      "text": "you can target different buyer classes across stakeholders"
+    },
+    {
+      "start": 418.54,
+      "end": 419.18,
+      "text": "and oil and gas."
+    },
+    {
+      "start": 419.18,
+      "end": 420.54,
+      "text": "You have a lot of different people"
+    },
+    {
+      "start": 420.54,
+      "end": 421.74,
+      "text": "that are making a buying decision,"
+    },
+    {
+      "start": 421.74,
+      "end": 422.78,
+      "text": "talking to them differently."
+    },
+    {
+      "start": 423.34,
+      "end": 425.42,
+      "text": "The email needs to be structured differently."
+    },
+    {
+      "start": 425.42,
+      "end": 427.98,
+      "text": "So you could have for each target persona,"
+    },
+    {
+      "start": 427.98,
+      "end": 430.94,
+      "text": "those kind of tags, those kind of drips,"
+    },
+    {
+      "start": 430.94,
+      "end": 432.46,
+      "text": "speaking in that language."
+    },
+    {
+      "start": 432.46,
+      "end": 433.26,
+      "text": "Yes."
+    },
+    {
+      "start": 433.26,
+      "end": 436.14,
+      "text": "That's super helpful if you're targeting a company"
+    },
+    {
+      "start": 436.14,
+      "end": 438.46,
+      "text": "versus manually having to write all those out"
+    },
+    {
+      "start": 438.46,
+      "end": 440.46,
+      "text": "because there's typically like a,"
+    },
+    {
+      "start": 440.46,
+      "end": 444.3,
+      "text": "I've found when I was doing cold outreach in oil and gas"
+    },
+    {
+      "start": 444.3,
+      "end": 447.42,
+      "text": "and I was doing recruitment, 85% of the time,"
+    },
+    {
+      "start": 448.06,
+      "end": 451.42,
+      "text": "a very similar script would work and resonate"
+    },
+    {
+      "start": 451.42,
+      "end": 453.02,
+      "text": "with a certain type of person."
+    },
+    {
+      "start": 453.02,
+      "end": 455.74,
+      "text": "If I could get some kind of scale with that,"
+    },
+    {
+      "start": 456.3,
+      "end": 458.38,
+      "text": "I could reach more, I could produce more,"
+    },
+    {
+      "start": 458.38,
+      "end": 459.1,
+      "text": "I could do more,"
+    },
+    {
+      "start": 459.1,
+      "end": 462.86,
+      "text": "and that's actually what drove me more into digital marketing"
+    },
+    {
+      "start": 462.86,
+      "end": 464.62,
+      "text": "and then more into automation and AI."
+    },
+    {
+      "start": 464.62,
+      "end": 466.86,
+      "text": "That's why I was a salesperson"
+    },
+    {
+      "start": 466.86,
+      "end": 469.74,
+      "text": "and I was making 60, 70 calls a day"
+    },
+    {
+      "start": 469.74,
+      "end": 472.14,
+      "text": "or trying to dependent if I would get people,"
+    },
+    {
+      "start": 472.14,
+      "end": 473.1,
+      "text": "it would be less,"
+    },
+    {
+      "start": 473.1,
+      "end": 474.62,
+      "text": "but I was doing that going,"
+    },
+    {
+      "start": 474.62,
+      "end": 478.14,
+      "text": "how do I get leverage in what I'm doing on outreach?"
+    },
+    {
+      "start": 478.14,
+      "end": 480.06,
+      "text": "Now, I know a lot of people are listening,"
+    },
+    {
+      "start": 480.06,
+      "end": 481.18,
+      "text": "it's a complex sale,"
+    },
+    {
+      "start": 481.18,
+      "end": 483.18,
+      "text": "you have a set target list,"
+    },
+    {
+      "start": 483.18,
+      "end": 487.66,
+      "text": "but how much time do you spend crafting out an email"
+    },
+    {
+      "start": 487.66,
+      "end": 489.1,
+      "text": "that you've sent multiple times?"
+    },
+    {
+      "start": 489.1,
+      "end": 491.34,
+      "text": "Like you could set it up as a canned email"
+    },
+    {
+      "start": 491.34,
+      "end": 493.1,
+      "text": "and click on it and send it,"
+    },
+    {
+      "start": 493.1,
+      "end": 495.26,
+      "text": "but think about the follow up on that"
+    },
+    {
+      "start": 495.26,
+      "end": 499.02,
+      "text": "and being able to see that in a CRM to know,"
+    },
+    {
+      "start": 499.02,
+      "end": 501.58,
+      "text": "hey, I have a helper, I have a bot"
+    },
+    {
+      "start": 501.58,
+      "end": 503.74,
+      "text": "or whatever helping me follow up with these people."
+    },
+    {
+      "start": 503.74,
+      "end": 505.9,
+      "text": "I think it's super, super powerful."
+    },
+    {
+      "start": 505.9,
+      "end": 507.82,
+      "text": "So I wanted to accept the table there"
+    },
+    {
+      "start": 507.82,
+      "end": 512.06,
+      "text": "because what you're doing is from us talking before"
+    },
+    {
+      "start": 512.06,
+      "end": 515.82,
+      "text": "is building out those workflows for people"
+    },
+    {
+      "start": 515.82,
+      "end": 517.82,
+      "text": "like you're taking it out of their head"
+    },
+    {
+      "start": 517.82,
+      "end": 518.46,
+      "text": "and then you're going,"
+    },
+    {
+      "start": 518.46,
+      "end": 520.38,
+      "text": "what would you like to see happen?"
+    },
+    {
+      "start": 520.38,
+      "end": 522.06,
+      "text": "Building that system for them,"
+    },
+    {
+      "start": 522.06,
+      "end": 523.5,
+      "text": "getting the language right,"
+    },
+    {
+      "start": 523.5,
+      "end": 524.94,
+      "text": "installing that system,"
+    },
+    {
+      "start": 524.94,
+      "end": 526.46,
+      "text": "and then setting up triggers for them."
+    },
+    {
+      "start": 526.46,
+      "end": 528.14,
+      "text": "Was that pretty close to what you're doing?"
+    },
+    {
+      "start": 529.02,
+      "end": 529.74,
+      "text": "Exactly."
+    },
+    {
+      "start": 529.74,
+      "end": 531.18,
+      "text": "I have a question for you in a sec"
+    },
+    {
+      "start": 531.18,
+      "end": 531.98,
+      "text": "if I can remember it,"
+    },
+    {
+      "start": 531.98,
+      "end": 534.14,
+      "text": "but also just to touch on the point,"
+    },
+    {
+      "start": 534.14,
+      "end": 535.58,
+      "text": "I think one thing we look at,"
+    },
+    {
+      "start": 535.58,
+      "end": 537.82,
+      "text": "no matter what it is in business,"
+    },
+    {
+      "start": 537.82,
+      "end": 538.78,
+      "text": "no matter what we're doing,"
+    },
+    {
+      "start": 538.78,
+      "end": 540.54,
+      "text": "and especially in sales though,"
+    },
+    {
+      "start": 540.54,
+      "end": 541.98,
+      "text": "we want to look at things"
+    },
+    {
+      "start": 541.98,
+      "end": 545.82,
+      "text": "through a consistent way of doing things, right?"
+    },
+    {
+      "start": 545.82,
+      "end": 548.54,
+      "text": "Let's make sure that if we do something,"
+    },
+    {
+      "start": 548.54,
+      "end": 550.78,
+      "text": "we do it in this way or SOP."
+    },
+    {
+      "start": 550.78,
+      "end": 553.58,
+      "text": "We follow the SOP and we do it in this way"
+    },
+    {
+      "start": 553.58,
+      "end": 557.5,
+      "text": "because that leads to the desired end result."
+    },
+    {
+      "start": 557.5,
+      "end": 559.66,
+      "text": "In sales, it's closing a sale."
+    },
+    {
+      "start": 560.78,
+      "end": 562.06,
+      "text": "My question for you is,"
+    },
+    {
+      "start": 562.7,
+      "end": 565.02,
+      "text": "because you're a little bit more around oil and gas,"
+    },
+    {
+      "start": 565.02,
+      "end": 567.5,
+      "text": "I know you're not actively in the sales arena,"
+    },
+    {
+      "start": 567.5,
+      "end": 569.34,
+      "text": "what does it typically look like"
+    },
+    {
+      "start": 569.34,
+      "end": 571.1,
+      "text": "before you start outreach?"
+    },
+    {
+      "start": 571.9,
+      "end": 574.06,
+      "text": "How much time does somebody usually put in"
+    },
+    {
+      "start": 574.06,
+      "end": 575.98,
+      "text": "in this industry before you start outreach"
+    },
+    {
+      "start": 575.98,
+      "end": 577.26,
+      "text": "in oil and gas?"
+    },
+    {
+      "start": 577.26,
+      "end": 578.46,
+      "text": "The prospecting?"
+    },
+    {
+      "start": 578.46,
+      "end": 579.1,
+      "text": "Yes."
+    },
+    {
+      "start": 579.1,
+      "end": 580.22,
+      "text": "The enrichment of data,"
+    },
+    {
+      "start": 580.22,
+      "end": 581.58,
+      "text": "the competitor analysis,"
+    },
+    {
+      "start": 581.58,
+      "end": 583.9,
+      "text": "that's huge because if you can understand"
+    },
+    {
+      "start": 583.9,
+      "end": 585.74,
+      "text": "what that problem is because everybody,"
+    },
+    {
+      "start": 585.74,
+      "end": 587.02,
+      "text": "and we talked about this a little bit"
+    },
+    {
+      "start": 587.1,
+      "end": 589.58,
+      "text": "on the last podcast that will be published"
+    },
+    {
+      "start": 589.58,
+      "end": 591.42,
+      "text": "before this one, I believe,"
+    },
+    {
+      "start": 591.42,
+      "end": 594.62,
+      "text": "is essentially everybody's limited on time"
+    },
+    {
+      "start": 594.62,
+      "end": 597.02,
+      "text": "and there's just so much information"
+    },
+    {
+      "start": 597.02,
+      "end": 598.38,
+      "text": "and sales marketing messages"
+    },
+    {
+      "start": 598.38,
+      "end": 601.18,
+      "text": "and everybody talks a lot about LinkedIn spam"
+    },
+    {
+      "start": 601.18,
+      "end": 602.86,
+      "text": "and death by email"
+    },
+    {
+      "start": 602.86,
+      "end": 604.54,
+      "text": "and you're trying to sort through it all"
+    },
+    {
+      "start": 604.54,
+      "end": 605.9,
+      "text": "and if you're out in the field"
+    },
+    {
+      "start": 605.9,
+      "end": 607.82,
+      "text": "and that's where I think Slack"
+    },
+    {
+      "start": 607.82,
+      "end": 610.54,
+      "text": "and tools like that started to become on the rise"
+    },
+    {
+      "start": 610.54,
+      "end": 612.78,
+      "text": "because it's emails too even noisy."
+    },
+    {
+      "start": 612.78,
+      "end": 614.3,
+      "text": "People are not even seeing it."
+    },
+    {
+      "start": 614.3,
+      "end": 614.86,
+      "text": "Absolutely."
+    },
+    {
+      "start": 614.86,
+      "end": 616.3,
+      "text": "So now you're like,"
+    },
+    {
+      "start": 616.3,
+      "end": 618.62,
+      "text": "this is my closed ecosystem"
+    },
+    {
+      "start": 618.62,
+      "end": 620.46,
+      "text": "of people I'm communicating with"
+    },
+    {
+      "start": 620.46,
+      "end": 623.1,
+      "text": "and these are the things that are on my list"
+    },
+    {
+      "start": 623.1,
+      "end": 624.62,
+      "text": "that I need to get done"
+    },
+    {
+      "start": 624.62,
+      "end": 626.38,
+      "text": "and I'm laser focused on that"
+    },
+    {
+      "start": 626.38,
+      "end": 628.54,
+      "text": "and a lot of people are stretched for time."
+    },
+    {
+      "start": 628.54,
+      "end": 630.78,
+      "text": "If someone's going to reach out to you,"
+    },
+    {
+      "start": 630.78,
+      "end": 632.38,
+      "text": "they got to make a compelling argument."
+    },
+    {
+      "start": 632.38,
+      "end": 634.14,
+      "text": "One of the biggest compelling arguments"
+    },
+    {
+      "start": 634.14,
+      "end": 637.26,
+      "text": "in oil and gas that I've seen is rigged downtime."
+    },
+    {
+      "start": 637.26,
+      "end": 640.06,
+      "text": "If you can say or assure rigged downtime,"
+    },
+    {
+      "start": 640.06,
+      "end": 642.94,
+      "text": "like you're talking millions of dollars per day"
+    },
+    {
+      "start": 642.94,
+      "end": 644.7,
+      "text": "or depending on what it is or"
+    },
+    {
+      "start": 644.7,
+      "end": 647.9,
+      "text": "it's the easiest thing to show the value, profit, exact."
+    },
+    {
+      "start": 647.9,
+      "end": 649.34,
+      "text": "You're trying to quantify, hey,"
+    },
+    {
+      "start": 649.34,
+      "end": 650.7,
+      "text": "or people get hurt, right?"
+    },
+    {
+      "start": 650.7,
+      "end": 651.5,
+      "text": "People get hurt."
+    },
+    {
+      "start": 651.5,
+      "end": 653.34,
+      "text": "That shuts down operations."
+    },
+    {
+      "start": 653.34,
+      "end": 654.7,
+      "text": "There's a big emphasis on that."
+    },
+    {
+      "start": 654.7,
+      "end": 656.94,
+      "text": "So it's keeping operations running,"
+    },
+    {
+      "start": 656.94,
+      "end": 658.7,
+      "text": "keeping everything flowing,"
+    },
+    {
+      "start": 658.7,
+      "end": 659.98,
+      "text": "taking that number"
+    },
+    {
+      "start": 659.98,
+      "end": 661.42,
+      "text": "and then quantifying that"
+    },
+    {
+      "start": 661.42,
+      "end": 662.94,
+      "text": "and putting that out there."
+    },
+    {
+      "start": 662.94,
+      "end": 664.46,
+      "text": "But also it's like"
+    },
+    {
+      "start": 664.46,
+      "end": 666.38,
+      "text": "there's certain businesses"
+    },
+    {
+      "start": 666.38,
+      "end": 669.1,
+      "text": "if you understand how they operate, right?"
+    },
+    {
+      "start": 669.1,
+      "end": 670.7,
+      "text": "And you've done some discovery"
+    },
+    {
+      "start": 670.7,
+      "end": 672.38,
+      "text": "and you know that there's a problem."
+    },
+    {
+      "start": 672.38,
+      "end": 673.42,
+      "text": "I'll give you one example"
+    },
+    {
+      "start": 673.42,
+      "end": 675.5,
+      "text": "we've talked about in this podcast many times."
+    },
+    {
+      "start": 675.5,
+      "end": 676.7,
+      "text": "I know that there's"
+    },
+    {
+      "start": 676.7,
+      "end": 678.38,
+      "text": "a couple large organizations out there"
+    },
+    {
+      "start": 678.38,
+      "end": 680.94,
+      "text": "that have purchased other organizations"
+    },
+    {
+      "start": 680.94,
+      "end": 684.62,
+      "text": "and are operating on multiple Salesforce instances"
+    },
+    {
+      "start": 684.62,
+      "end": 685.74,
+      "text": "that don't talk to each other."
+    },
+    {
+      "start": 686.94,
+      "end": 688.38,
+      "text": "Like that's a scaling issue."
+    },
+    {
+      "start": 688.38,
+      "end": 689.34,
+      "text": "I think it's something like"
+    },
+    {
+      "start": 689.34,
+      "end": 691.42,
+      "text": "close to seven years of full integration"
+    },
+    {
+      "start": 691.42,
+      "end": 692.62,
+      "text": "when you buy a company"
+    },
+    {
+      "start": 692.62,
+      "end": 693.9,
+      "text": "to get everything working together."
+    },
+    {
+      "start": 693.9,
+      "end": 695.58,
+      "text": "And that's why I think a lot of times"
+    },
+    {
+      "start": 695.58,
+      "end": 697.42,
+      "text": "like maybe people get let go"
+    },
+    {
+      "start": 697.42,
+      "end": 699.9,
+      "text": "is because it's like you have two different cultures,"
+    },
+    {
+      "start": 699.9,
+      "end": 701.34,
+      "text": "two different systems that you're merging"
+    },
+    {
+      "start": 701.34,
+      "end": 702.62,
+      "text": "and there's got to be a dominant force"
+    },
+    {
+      "start": 702.62,
+      "end": 704.62,
+      "text": "and people got to uptake to one of them"
+    },
+    {
+      "start": 704.62,
+      "end": 706.22,
+      "text": "because unless you're operating"
+    },
+    {
+      "start": 706.22,
+      "end": 707.58,
+      "text": "as two separate businesses,"
+    },
+    {
+      "start": 708.38,
+      "end": 711.5,
+      "text": "you don't get the advantage of having a CRM"
+    },
+    {
+      "start": 711.5,
+      "end": 712.54,
+      "text": "or ERP systems."
+    },
+    {
+      "start": 712.54,
+      "end": 713.82,
+      "text": "We'll just leave that out for now."
+    },
+    {
+      "start": 713.82,
+      "end": 714.86,
+      "text": "We'll talk about that later."
+    },
+    {
+      "start": 714.86,
+      "end": 718.38,
+      "text": "But we'll talk strictly about CRM systems."
+    },
+    {
+      "start": 718.38,
+      "end": 719.9,
+      "text": "There's a culture and a use case."
+    },
+    {
+      "start": 719.9,
+      "end": 722.3,
+      "text": "I think it also comes down to leadership on"
+    },
+    {
+      "start": 722.3,
+      "end": 723.82,
+      "text": "what are the KPIs?"
+    },
+    {
+      "start": 723.82,
+      "end": 725.18,
+      "text": "What are we looking for?"
+    },
+    {
+      "start": 725.18,
+      "end": 726.06,
+      "text": "What are we trying to produce?"
+    },
+    {
+      "start": 726.06,
+      "end": 727.5,
+      "text": "And if someone's producing well,"
+    },
+    {
+      "start": 728.06,
+      "end": 731.5,
+      "text": "there's not that strict adherence to the SOPs."
+    },
+    {
+      "start": 731.5,
+      "end": 732.94,
+      "text": "I feel like it's good old boy,"
+    },
+    {
+      "start": 732.94,
+      "end": 734.78,
+      "text": "get it done, but that's changing"
+    },
+    {
+      "start": 734.78,
+      "end": 736.3,
+      "text": "and the buyers are changing"
+    },
+    {
+      "start": 736.3,
+      "end": 739.02,
+      "text": "to answer your question more effectively."
+    },
+    {
+      "start": 739.02,
+      "end": 742.06,
+      "text": "There's a committee that usually decides."
+    },
+    {
+      "start": 742.06,
+      "end": 744.38,
+      "text": "So now it's not just one person signing off"
+    },
+    {
+      "start": 744.38,
+      "end": 746.22,
+      "text": "because some of these are very big deals."
+    },
+    {
+      "start": 746.22,
+      "end": 747.74,
+      "text": "It's running through finance."
+    },
+    {
+      "start": 747.74,
+      "end": 749.82,
+      "text": "You're going to have to articulate what that is."
+    },
+    {
+      "start": 749.82,
+      "end": 751.82,
+      "text": "You got to get a hold of that problem."
+    },
+    {
+      "start": 751.82,
+      "end": 754.3,
+      "text": "You got to reach different buyers at different levels."
+    },
+    {
+      "start": 754.86,
+      "end": 758.3,
+      "text": "And it becomes very complex and it takes a long time"
+    },
+    {
+      "start": 758.3,
+      "end": 760.3,
+      "text": "and people's schedules get missed."
+    },
+    {
+      "start": 760.3,
+      "end": 762.7,
+      "text": "And if you miss a meeting, it gets kicked out."
+    },
+    {
+      "start": 762.7,
+      "end": 764.62,
+      "text": "The two hour lunches have stopped."
+    },
+    {
+      "start": 764.62,
+      "end": 766.62,
+      "text": "They're coming back since COVID."
+    },
+    {
+      "start": 766.62,
+      "end": 769.42,
+      "text": "But that was a huge, oh my gosh, I have a lunch."
+    },
+    {
+      "start": 769.42,
+      "end": 771.98,
+      "text": "The day's dead, like after this or whatever."
+    },
+    {
+      "start": 771.98,
+      "end": 773.02,
+      "text": "I got to drive to here."
+    },
+    {
+      "start": 773.02,
+      "end": 775.42,
+      "text": "Like I got to do this and then nothing would come of it."
+    },
+    {
+      "start": 775.42,
+      "end": 777.9,
+      "text": "And there's a lot of competitive intelligence"
+    },
+    {
+      "start": 777.9,
+      "end": 780.3,
+      "text": "that's starting to happen to get in the door"
+    },
+    {
+      "start": 780.3,
+      "end": 782.46,
+      "text": "because oil and gas is very guarded"
+    },
+    {
+      "start": 782.46,
+      "end": 785.34,
+      "text": "and it's who you know and understanding their problem."
+    },
+    {
+      "start": 785.34,
+      "end": 786.7,
+      "text": "It's old money a lot."
+    },
+    {
+      "start": 786.7,
+      "end": 789.26,
+      "text": "Yeah, it's a very old boys club in a way."
+    },
+    {
+      "start": 789.26,
+      "end": 791.9,
+      "text": "We talked on this podcast, which I think was recently"
+    },
+    {
+      "start": 791.9,
+      "end": 793.42,
+      "text": "published about a personal brand."
+    },
+    {
+      "start": 793.42,
+      "end": 796.06,
+      "text": "A lot of people don't put themselves out there."
+    },
+    {
+      "start": 796.06,
+      "end": 798.3,
+      "text": "And a lot of even private equity companies"
+    },
+    {
+      "start": 798.3,
+      "end": 800.7,
+      "text": "or operating companies, you look on LinkedIn,"
+    },
+    {
+      "start": 800.7,
+      "end": 803.98,
+      "text": "you don't even know that person and what they're doing."
+    },
+    {
+      "start": 803.98,
+      "end": 805.82,
+      "text": "You're like, they don't even have a profile picture"
+    },
+    {
+      "start": 805.82,
+      "end": 807.66,
+      "text": "and they like run some huge company."
+    },
+    {
+      "start": 807.66,
+      "end": 810.38,
+      "text": "So it's a lot of who you know and how you do it."
+    },
+    {
+      "start": 810.38,
+      "end": 812.78,
+      "text": "But let's say, okay, I don't know where you were going"
+    },
+    {
+      "start": 812.78,
+      "end": 813.82,
+      "text": "with that specific question."
+    },
+    {
+      "start": 813.82,
+      "end": 817.1,
+      "text": "But once you identify that, typically salespeople"
+    },
+    {
+      "start": 817.1,
+      "end": 820.3,
+      "text": "have like a target 50 list or 100 list, 250 list"
+    },
+    {
+      "start": 820.3,
+      "end": 821.9,
+      "text": "of what they're going after or-"
+    },
+    {
+      "start": 821.9,
+      "end": 823.34,
+      "text": "Yeah, the dream, yeah."
+    },
+    {
+      "start": 823.34,
+      "end": 824.38,
+      "text": "It starts there."
+    },
+    {
+      "start": 824.38,
+      "end": 826.38,
+      "text": "But a lot of that competitive intelligence"
+    },
+    {
+      "start": 826.38,
+      "end": 829.82,
+      "text": "gives you that thing that hooks them to say,"
+    },
+    {
+      "start": 829.82,
+      "end": 831.58,
+      "text": "hey, tell me a little bit more what you have."
+    },
+    {
+      "start": 831.58,
+      "end": 832.94,
+      "text": "This might solve my problem."
+    },
+    {
+      "start": 832.94,
+      "end": 834.94,
+      "text": "And I think that's the crux of it."
+    },
+    {
+      "start": 834.94,
+      "end": 836.14,
+      "text": "Thanks for that. That was awesome."
+    },
+    {
+      "start": 836.78,
+      "end": 842.46,
+      "text": "That's the start of the AI in sales conversation in my eyes."
+    },
+    {
+      "start": 843.18,
+      "end": 846.06,
+      "text": "That process is so demanding."
+    },
+    {
+      "start": 846.06,
+      "end": 850.86,
+      "text": "It goes all the way through NRFP and all of those pieces."
+    },
+    {
+      "start": 851.42,
+      "end": 854.86,
+      "text": "But that initial conversation, if you're doing outreach,"
+    },
+    {
+      "start": 855.5,
+      "end": 862.06,
+      "text": "it's so important to use things like AI to just make that job easier."
+    },
+    {
+      "start": 862.06,
+      "end": 864.54,
+      "text": "So if there are certain things that we're always looking at"
+    },
+    {
+      "start": 864.54,
+      "end": 867.1,
+      "text": "that are pretty similar, we can dial that in"
+    },
+    {
+      "start": 867.66,
+      "end": 870.94,
+      "text": "and AI can pull a lot of the talking points for you."
+    },
+    {
+      "start": 870.94,
+      "end": 874.7,
+      "text": "It can look at very recent activity of companies"
+    },
+    {
+      "start": 874.78,
+      "end": 875.66,
+      "text": "as long as it's published."
+    },
+    {
+      "start": 875.66,
+      "end": 879.1,
+      "text": "It can find same-day information that's happening."
+    },
+    {
+      "start": 879.66,
+      "end": 883.58,
+      "text": "And those things are leveraged that I believe that"
+    },
+    {
+      "start": 883.58,
+      "end": 885.26,
+      "text": "in an industry like oil and gas,"
+    },
+    {
+      "start": 885.26,
+      "end": 887.74,
+      "text": "some people do a lot better than other industries"
+    },
+    {
+      "start": 887.74,
+      "end": 891.66,
+      "text": "where they're knowledgeable on what I need to talk about today."
+    },
+    {
+      "start": 892.3,
+      "end": 895.18,
+      "text": "But I don't think it's as perfect as it could be"
+    },
+    {
+      "start": 896.06,
+      "end": 899.34,
+      "text": "as you getting a notification that just pops up,"
+    },
+    {
+      "start": 899.34,
+      "end": 901.26,
+      "text": "letting you know in between meetings and whatnot"
+    },
+    {
+      "start": 901.26,
+      "end": 903.58,
+      "text": "of another thing that just happened."
+    },
+    {
+      "start": 903.58,
+      "end": 905.9,
+      "text": "Let alone the business intelligence of the person"
+    },
+    {
+      "start": 905.9,
+      "end": 908.06,
+      "text": "that you're talking to or the background of the person."
+    },
+    {
+      "start": 908.62,
+      "end": 911.74,
+      "text": "You're talking about, even in that research phase,"
+    },
+    {
+      "start": 911.74,
+      "end": 916.14,
+      "text": "which a lot of people that are using LLMs"
+    },
+    {
+      "start": 916.14,
+      "end": 919.34,
+      "text": "are able to do five hours of research in 10 minutes"
+    },
+    {
+      "start": 919.34,
+      "end": 922.54,
+      "text": "because basically when you search those agents,"
+    },
+    {
+      "start": 922.54,
+      "end": 925.5,
+      "text": "go find all that information, go find that 10K report,"
+    },
+    {
+      "start": 925.5,
+      "end": 928.06,
+      "text": "put it together for you based on trends."
+    },
+    {
+      "start": 928.06,
+      "end": 931.82,
+      "text": "If you have APIs hooked into it, it can scrape social media,"
+    },
+    {
+      "start": 931.82,
+      "end": 934.3,
+      "text": "it can suck all that stuff in, synthesize it,"
+    },
+    {
+      "start": 934.3,
+      "end": 937.18,
+      "text": "and tell you this is what's most likely going on"
+    },
+    {
+      "start": 937.18,
+      "end": 938.78,
+      "text": "or that can happen."
+    },
+    {
+      "start": 938.78,
+      "end": 941.9,
+      "text": "And that compresses the research time"
+    },
+    {
+      "start": 941.9,
+      "end": 944.14,
+      "text": "that you might have had to do previously"
+    },
+    {
+      "start": 944.14,
+      "end": 945.74,
+      "text": "because you're manually doing all that stuff."
+    },
+    {
+      "start": 946.38,
+      "end": 946.94,
+      "text": "Absolutely."
+    },
+    {
+      "start": 947.5,
+      "end": 950.14,
+      "text": "And I've seen it work in different industries,"
+    },
+    {
+      "start": 950.14,
+      "end": 954.54,
+      "text": "especially the construction contracting industry,"
+    },
+    {
+      "start": 954.54,
+      "end": 958.94,
+      "text": "contractor industry, where there's instances"
+    },
+    {
+      "start": 959.02,
+      "end": 961.82,
+      "text": "for looking at use cases of looking at it"
+    },
+    {
+      "start": 961.82,
+      "end": 962.86,
+      "text": "from a sales perspective,"
+    },
+    {
+      "start": 962.86,
+      "end": 965.26,
+      "text": "hey, how can we accomplish this effectively?"
+    },
+    {
+      "start": 965.26,
+      "end": 966.86,
+      "text": "I think a lot of people here probably know"
+    },
+    {
+      "start": 966.86,
+      "end": 970.7,
+      "text": "what a McKinsey style report is, very expensive to get."
+    },
+    {
+      "start": 970.7,
+      "end": 973.82,
+      "text": "Well, with ChatGPT and deep research,"
+    },
+    {
+      "start": 973.82,
+      "end": 976.22,
+      "text": "you can get that fairly quickly."
+    },
+    {
+      "start": 976.22,
+      "end": 979.18,
+      "text": "20-minute turnaround point with the initial prompting"
+    },
+    {
+      "start": 979.18,
+      "end": 981.42,
+      "text": "usually takes about seven minutes to generate."
+    },
+    {
+      "start": 981.42,
+      "end": 982.94,
+      "text": "You can throw that into,"
+    },
+    {
+      "start": 982.94,
+      "end": 985.34,
+      "text": "I know we're starting to get a little ahead of ourselves,"
+    },
+    {
+      "start": 985.34,
+      "end": 986.86,
+      "text": "so you can slow me down,"
+    },
+    {
+      "start": 986.86,
+      "end": 990.62,
+      "text": "but you can throw that into Gamma, preserve the text,"
+    },
+    {
+      "start": 990.62,
+      "end": 994.3,
+      "text": "and Gamma will design a beautiful website or document"
+    },
+    {
+      "start": 994.3,
+      "end": 996.7,
+      "text": "to hand off as part of your thing."
+    },
+    {
+      "start": 996.7,
+      "end": 1000.22,
+      "text": "And if we're talking about that takes 30 minutes to create,"
+    },
+    {
+      "start": 1001.02,
+      "end": 1003.42,
+      "text": "imagine you already have the personnel"
+    },
+    {
+      "start": 1003.42,
+      "end": 1004.94,
+      "text": "that are doing the research."
+    },
+    {
+      "start": 1004.94,
+      "end": 1008.46,
+      "text": "Imagine if we just spent an hour of human in the loop"
+    },
+    {
+      "start": 1008.46,
+      "end": 1011.26,
+      "text": "just going through that pretty meticulously"
+    },
+    {
+      "start": 1011.26,
+      "end": 1013.9,
+      "text": "before it gets sent out, holy smokes."
+    },
+    {
+      "start": 1013.9,
+      "end": 1015.58,
+      "text": "And that's the difference in power"
+    },
+    {
+      "start": 1015.58,
+      "end": 1018.3,
+      "text": "when we talk about supercharging the salespeople"
+    },
+    {
+      "start": 1018.3,
+      "end": 1021.42,
+      "text": "or business development folks, whatever it is"
+    },
+    {
+      "start": 1021.42,
+      "end": 1022.54,
+      "text": "and what stage it's at,"
+    },
+    {
+      "start": 1023.34,
+      "end": 1027.34,
+      "text": "there is a massive benefit in terms of output"
+    },
+    {
+      "start": 1027.34,
+      "end": 1028.38,
+      "text": "that we can get people to do."
+    },
+    {
+      "start": 1028.38,
+      "end": 1031.26,
+      "text": "So a lot of people are afraid of AI in terms of replacing,"
+    },
+    {
+      "start": 1031.26,
+      "end": 1033.5,
+      "text": "but I think what you should be afraid of"
+    },
+    {
+      "start": 1033.5,
+      "end": 1036.62,
+      "text": "is your competitors using AI and you're not."
+    },
+    {
+      "start": 1036.62,
+      "end": 1038.3,
+      "text": "That's the scary thing to me"
+    },
+    {
+      "start": 1038.3,
+      "end": 1041.02,
+      "text": "because if the other companies employs,"
+    },
+    {
+      "start": 1041.02,
+      "end": 1042.7,
+      "text": "not just that they have some egenic workflow,"
+    },
+    {
+      "start": 1042.7,
+      "end": 1045.58,
+      "text": "but if the other companies employs know how to use AI"
+    },
+    {
+      "start": 1046.38,
+      "end": 1048.38,
+      "text": "in three months, six months,"
+    },
+    {
+      "start": 1048.38,
+      "end": 1052.3,
+      "text": "the gain that they get is through the roof."
+    },
+    {
+      "start": 1052.3,
+      "end": 1054.38,
+      "text": "It's not a six month delay at that point"
+    },
+    {
+      "start": 1054.38,
+      "end": 1058.14,
+      "text": "because they have so many tools and skills at their disposal."
+    },
+    {
+      "start": 1058.14,
+      "end": 1062.7,
+      "text": "That's almost years of business growth that happens."
+    },
+    {
+      "start": 1062.7,
+      "end": 1064.54,
+      "text": "Not saying that naturally attributes"
+    },
+    {
+      "start": 1064.54,
+      "end": 1066.7,
+      "text": "to revenue or profit that quickly,"
+    },
+    {
+      "start": 1066.7,
+      "end": 1068.94,
+      "text": "but in terms of systems it does."
+    },
+    {
+      "start": 1069.5,
+      "end": 1072.3,
+      "text": "And that will over time mean a lot."
+    },
+    {
+      "start": 1072.7,
+      "end": 1075.82,
+      "text": "I was laughing because I just read this article"
+    },
+    {
+      "start": 1075.82,
+      "end": 1078.7,
+      "text": "about McKenzie and these different consulting companies"
+    },
+    {
+      "start": 1078.7,
+      "end": 1080.38,
+      "text": "having the existential crisis."
+    },
+    {
+      "start": 1080.38,
+      "end": 1080.54,
+      "text": "Right?"
+    },
+    {
+      "start": 1080.54,
+      "end": 1083.82,
+      "text": "We remember when Google was having an existential crisis"
+    },
+    {
+      "start": 1083.82,
+      "end": 1086.7,
+      "text": "as well and now a lot of these big consulting companies"
+    },
+    {
+      "start": 1086.7,
+      "end": 1087.98,
+      "text": "are having this existential crisis"
+    },
+    {
+      "start": 1087.98,
+      "end": 1090.3,
+      "text": "because they can't charge what they were charging before"
+    },
+    {
+      "start": 1090.3,
+      "end": 1091.5,
+      "text": "and all these people"
+    },
+    {
+      "start": 1091.5,
+      "end": 1093.58,
+      "text": "and the output of what you're talking about"
+    },
+    {
+      "start": 1093.58,
+      "end": 1094.54,
+      "text": "is so much better."
+    },
+    {
+      "start": 1094.54,
+      "end": 1096.78,
+      "text": "And then what you just said there"
+    },
+    {
+      "start": 1096.78,
+      "end": 1098.86,
+      "text": "is just completed this Harvard AI"
+    },
+    {
+      "start": 1098.86,
+      "end": 1100.94,
+      "text": "for business program for executives,"
+    },
+    {
+      "start": 1100.94,
+      "end": 1103.74,
+      "text": "which it was talking a lot about"
+    },
+    {
+      "start": 1103.74,
+      "end": 1105.82,
+      "text": "how to become an AI first company, right?"
+    },
+    {
+      "start": 1105.82,
+      "end": 1107.74,
+      "text": "So there's a VP of innovation"
+    },
+    {
+      "start": 1107.74,
+      "end": 1110.22,
+      "text": "that I was talking to earlier today."
+    },
+    {
+      "start": 1110.22,
+      "end": 1112.86,
+      "text": "How are you using AI?"
+    },
+    {
+      "start": 1112.86,
+      "end": 1114.86,
+      "text": "And Steven, this was interesting."
+    },
+    {
+      "start": 1114.86,
+      "end": 1118.06,
+      "text": "The pushback I got was we haven't really found"
+    },
+    {
+      "start": 1118.06,
+      "end": 1119.34,
+      "text": "any use cases yet."
+    },
+    {
+      "start": 1119.34,
+      "end": 1121.58,
+      "text": "And I was like, say that again?"
+    },
+    {
+      "start": 1121.58,
+      "end": 1122.06,
+      "text": "Okay."
+    },
+    {
+      "start": 1122.06,
+      "end": 1125.26,
+      "text": "And so I basically kicked my next meeting"
+    },
+    {
+      "start": 1125.26,
+      "end": 1127.74,
+      "text": "and we talked for another 30 minutes"
+    },
+    {
+      "start": 1127.74,
+      "end": 1130.14,
+      "text": "and we went through possible use cases"
+    },
+    {
+      "start": 1130.7,
+      "end": 1132.7,
+      "text": "and I think that there's this education gap"
+    },
+    {
+      "start": 1132.7,
+      "end": 1135.34,
+      "text": "and there's this fear gap of what you're talking about"
+    },
+    {
+      "start": 1135.34,
+      "end": 1139.18,
+      "text": "is like a sales agent is going to replace me."
+    },
+    {
+      "start": 1139.74,
+      "end": 1143.18,
+      "text": "But there's horror stories of people"
+    },
+    {
+      "start": 1143.18,
+      "end": 1144.46,
+      "text": "that have done that"
+    },
+    {
+      "start": 1144.46,
+      "end": 1146.62,
+      "text": "where they've completely automated everything."
+    },
+    {
+      "start": 1146.62,
+      "end": 1148.62,
+      "text": "There needs to be the human in the loop."
+    },
+    {
+      "start": 1148.62,
+      "end": 1150.78,
+      "text": "And if you're listening,"
+    },
+    {
+      "start": 1150.78,
+      "end": 1153.1,
+      "text": "you want to be that human, okay?"
+    },
+    {
+      "start": 1153.1,
+      "end": 1156.14,
+      "text": "Because yes, they're going to need less people."
+    },
+    {
+      "start": 1156.14,
+      "end": 1158.54,
+      "text": "So figure out how to get on board with this"
+    },
+    {
+      "start": 1158.54,
+      "end": 1159.34,
+      "text": "because guess what?"
+    },
+    {
+      "start": 1159.34,
+      "end": 1162.62,
+      "text": "It's coming like a tidal wave and it will be here."
+    },
+    {
+      "start": 1162.62,
+      "end": 1165.26,
+      "text": "And to what Steven said is the gains"
+    },
+    {
+      "start": 1165.26,
+      "end": 1166.62,
+      "text": "that are going to happen"
+    },
+    {
+      "start": 1166.62,
+      "end": 1168.54,
+      "text": "for companies that start leveraging this"
+    },
+    {
+      "start": 1168.54,
+      "end": 1169.98,
+      "text": "are going to start to outpace it."
+    },
+    {
+      "start": 1169.98,
+      "end": 1172.3,
+      "text": "I think LeBron James or something like that"
+    },
+    {
+      "start": 1172.3,
+      "end": 1175.18,
+      "text": "was talking about how he used to practice"
+    },
+    {
+      "start": 1175.18,
+      "end": 1178.14,
+      "text": "so much every day for another hour a day"
+    },
+    {
+      "start": 1178.14,
+      "end": 1178.86,
+      "text": "or something like that."
+    },
+    {
+      "start": 1178.86,
+      "end": 1180.3,
+      "text": "I don't remember the exact,"
+    },
+    {
+      "start": 1180.3,
+      "end": 1182.78,
+      "text": "but he was like over the course of whatever,"
+    },
+    {
+      "start": 1183.42,
+      "end": 1185.66,
+      "text": "I've put in so many more hours"
+    },
+    {
+      "start": 1185.66,
+      "end": 1187.1,
+      "text": "than other people they can't catch up."
+    },
+    {
+      "start": 1187.74,
+      "end": 1191.34,
+      "text": "Imagine that being super charged with AI"
+    },
+    {
+      "start": 1191.34,
+      "end": 1193.5,
+      "text": "and understand this technology."
+    },
+    {
+      "start": 1193.5,
+      "end": 1195.1,
+      "text": "That's actually on my other podcast."
+    },
+    {
+      "start": 1195.1,
+      "end": 1198.54,
+      "text": "What I'm starting to do is interview AI first companies"
+    },
+    {
+      "start": 1198.54,
+      "end": 1201.1,
+      "text": "and how that collision is happening"
+    },
+    {
+      "start": 1201.1,
+      "end": 1202.3,
+      "text": "with traditional businesses."
+    },
+    {
+      "start": 1203.02,
+      "end": 1205.5,
+      "text": "And for an army term, they're getting smoked."
+    },
+    {
+      "start": 1205.5,
+      "end": 1207.66,
+      "text": "Okay, like the traditional businesses"
+    },
+    {
+      "start": 1207.66,
+      "end": 1209.02,
+      "text": "are getting smoked."
+    },
+    {
+      "start": 1209.02,
+      "end": 1211.5,
+      "text": "And look, spend some time,"
+    },
+    {
+      "start": 1211.5,
+      "end": 1212.94,
+      "text": "learn some prompt engineering."
+    },
+    {
+      "start": 1212.94,
+      "end": 1215.42,
+      "text": "I think that basically that that could be the most,"
+    },
+    {
+      "start": 1215.42,
+      "end": 1215.9,
+      "text": "if you don't,"
+    },
+    {
+      "start": 1215.9,
+      "end": 1217.5,
+      "text": "if you didn't follow everything that Steven said,"
+    },
+    {
+      "start": 1218.06,
+      "end": 1219.5,
+      "text": "if you're using chat GBT"
+    },
+    {
+      "start": 1219.5,
+      "end": 1220.86,
+      "text": "and you're messing with it a little bit,"
+    },
+    {
+      "start": 1221.5,
+      "end": 1224.46,
+      "text": "go take a quick free course on prompt engineering"
+    },
+    {
+      "start": 1224.46,
+      "end": 1226.86,
+      "text": "and understand the primary inputs"
+    },
+    {
+      "start": 1226.86,
+      "end": 1228.62,
+      "text": "of how to structure a prompt good"
+    },
+    {
+      "start": 1228.62,
+      "end": 1229.98,
+      "text": "to get better outputs."
+    },
+    {
+      "start": 1229.98,
+      "end": 1232.62,
+      "text": "You're probably just using co-pilot"
+    },
+    {
+      "start": 1232.62,
+      "end": 1235.58,
+      "text": "in your outlook to like rewrite emails."
+    },
+    {
+      "start": 1236.46,
+      "end": 1239.74,
+      "text": "It can do so much more than that."
+    },
+    {
+      "start": 1239.74,
+      "end": 1242.06,
+      "text": "And with just a little bit of knowledge,"
+    },
+    {
+      "start": 1242.06,
+      "end": 1243.74,
+      "text": "not even technical programming knowledge,"
+    },
+    {
+      "start": 1243.74,
+      "end": 1245.74,
+      "text": "not even computer engineering knowledge,"
+    },
+    {
+      "start": 1245.74,
+      "end": 1248.06,
+      "text": "you can see how it can give you a lot of leverage."
+    },
+    {
+      "start": 1248.06,
+      "end": 1250.7,
+      "text": "Even on like a personal use case,"
+    },
+    {
+      "start": 1250.7,
+      "end": 1252.7,
+      "text": "we were going on a vacation trip."
+    },
+    {
+      "start": 1252.7,
+      "end": 1255.18,
+      "text": "My wife was like, oh, we got to plan X, Y, Z,"
+    },
+    {
+      "start": 1255.18,
+      "end": 1255.9,
+      "text": "all this kind of stuff."
+    },
+    {
+      "start": 1255.9,
+      "end": 1257.82,
+      "text": "You haven't helped me plan whatever."
+    },
+    {
+      "start": 1257.82,
+      "end": 1258.86,
+      "text": "And she's like, where are we going to go?"
+    },
+    {
+      "start": 1258.86,
+      "end": 1260.06,
+      "text": "What are we going to do?"
+    },
+    {
+      "start": 1260.06,
+      "end": 1261.34,
+      "text": "And I love this."
+    },
+    {
+      "start": 1261.34,
+      "end": 1262.14,
+      "text": "Within 30 minutes."
+    },
+    {
+      "start": 1262.14,
+      "end": 1264.06,
+      "text": "I know where this is going, right?"
+    },
+    {
+      "start": 1264.06,
+      "end": 1265.9,
+      "text": "I had agendas planned out."
+    },
+    {
+      "start": 1265.9,
+      "end": 1269.1,
+      "text": "I had actual rainy day options."
+    },
+    {
+      "start": 1269.1,
+      "end": 1270.7,
+      "text": "I had pricing."
+    },
+    {
+      "start": 1270.7,
+      "end": 1272.54,
+      "text": "I had reviews."
+    },
+    {
+      "start": 1272.54,
+      "end": 1276.06,
+      "text": "Like I had it, it was like 10 hours or five hours,"
+    },
+    {
+      "start": 1276.06,
+      "end": 1277.1,
+      "text": "whatever you want to call it."
+    },
+    {
+      "start": 1277.1,
+      "end": 1279.9,
+      "text": "But a lot of research and like their PDFs,"
+    },
+    {
+      "start": 1279.9,
+      "end": 1282.94,
+      "text": "I print them out and I go set them down next to her."
+    },
+    {
+      "start": 1282.94,
+      "end": 1286.3,
+      "text": "And I think for her, that was the turning point"
+    },
+    {
+      "start": 1286.3,
+      "end": 1289.58,
+      "text": "when she was like, okay, there's something here."
+    },
+    {
+      "start": 1289.58,
+      "end": 1293.02,
+      "text": "And she was like, she's starting to use it now."
+    },
+    {
+      "start": 1293.02,
+      "end": 1295.82,
+      "text": "And I think there's this adoption curve."
+    },
+    {
+      "start": 1296.38,
+      "end": 1298.06,
+      "text": "And it's starting to accelerate."
+    },
+    {
+      "start": 1298.06,
+      "end": 1299.58,
+      "text": "People are starting to hear about it."
+    },
+    {
+      "start": 1299.58,
+      "end": 1301.34,
+      "text": "People are starting to toy with it."
+    },
+    {
+      "start": 1301.34,
+      "end": 1304.22,
+      "text": "What you're doing for them is you've already done that work."
+    },
+    {
+      "start": 1304.22,
+      "end": 1305.82,
+      "text": "You've already done that research."
+    },
+    {
+      "start": 1305.82,
+      "end": 1309.34,
+      "text": "And you're saying, you already know salespeople in your head."
+    },
+    {
+      "start": 1309.34,
+      "end": 1310.78,
+      "text": "What is mapped out?"
+    },
+    {
+      "start": 1310.78,
+      "end": 1312.86,
+      "text": "I would love for it to be able to do this."
+    },
+    {
+      "start": 1312.86,
+      "end": 1315.18,
+      "text": "Well, you're going to wire that up and build that for them"
+    },
+    {
+      "start": 1315.18,
+      "end": 1315.98,
+      "text": "is what I understand."
+    },
+    {
+      "start": 1315.98,
+      "end": 1318.94,
+      "text": "And you already understand from the sales coaching side"
+    },
+    {
+      "start": 1318.94,
+      "end": 1319.42,
+      "text": "of what they need."
+    },
+    {
+      "start": 1319.42,
+      "end": 1321.82,
+      "text": "And we were even talking about previously,"
+    },
+    {
+      "start": 1321.82,
+      "end": 1323.82,
+      "text": "like you're putting a lot of polish on what you're doing."
+    },
+    {
+      "start": 1323.82,
+      "end": 1328.14,
+      "text": "But I built that workflow from the bot to running it through"
+    },
+    {
+      "start": 1328.14,
+      "end": 1331.98,
+      "text": "basically like some frameworks of selling or account management."
+    },
+    {
+      "start": 1331.98,
+      "end": 1334.78,
+      "text": "And then it just automatically sends an email."
+    },
+    {
+      "start": 1334.78,
+      "end": 1336.22,
+      "text": "Here's what you could done better."
+    },
+    {
+      "start": 1336.22,
+      "end": 1338.3,
+      "text": "Here's what you're not like, I'm going to take this transcript"
+    },
+    {
+      "start": 1338.3,
+      "end": 1341.26,
+      "text": "and it's going to be like, Matt, you need to let the guest talk."
+    },
+    {
+      "start": 1341.26,
+      "end": 1344.22,
+      "text": "Okay, you need to stop talking as much like he's the expert."
+    },
+    {
+      "start": 1344.22,
+      "end": 1345.74,
+      "text": "So I'm going to turn it over to you."
+    },
+    {
+      "start": 1345.74,
+      "end": 1349.66,
+      "text": "But those kind of feedback, those micro improvements"
+    },
+    {
+      "start": 1349.66,
+      "end": 1352.94,
+      "text": "when you have salespeople are incredibly helpful"
+    },
+    {
+      "start": 1352.94,
+      "end": 1356.06,
+      "text": "in addition to the automations, in addition to the research."
+    },
+    {
+      "start": 1356.06,
+      "end": 1358.14,
+      "text": "There's three use cases right now"
+    },
+    {
+      "start": 1358.14,
+      "end": 1360.46,
+      "text": "on why your company should be using AI."
+    },
+    {
+      "start": 1360.46,
+      "end": 1360.86,
+      "text": "Oh, yeah."
+    },
+    {
+      "start": 1361.66,
+      "end": 1366.7,
+      "text": "There's no reason anyone should say we haven't found the use case yet."
+    },
+    {
+      "start": 1367.26,
+      "end": 1370.54,
+      "text": "And there's actually a company right now that I know"
+    },
+    {
+      "start": 1370.54,
+      "end": 1374.38,
+      "text": "that does really solid work called Chief AI Officer."
+    },
+    {
+      "start": 1375.18,
+      "end": 1378.3,
+      "text": "They look at it in a way more of the training and educating round."
+    },
+    {
+      "start": 1378.3,
+      "end": 1379.98,
+      "text": "So the way that you went and got the Harvard,"
+    },
+    {
+      "start": 1379.98,
+      "end": 1384.94,
+      "text": "but the way that they approach it is they teach that executive team how to,"
+    },
+    {
+      "start": 1385.02,
+      "end": 1388.06,
+      "text": "and I love this term, it's think in AI."
+    },
+    {
+      "start": 1388.06,
+      "end": 1391.18,
+      "text": "Because the reason people are saying, well, I don't know what to do"
+    },
+    {
+      "start": 1391.18,
+      "end": 1393.26,
+      "text": "and your wife started to have that realization."
+    },
+    {
+      "start": 1393.26,
+      "end": 1394.3,
+      "text": "I know my wife did too."
+    },
+    {
+      "start": 1394.3,
+      "end": 1397.1,
+      "text": "I won't get into her story, but you see something"
+    },
+    {
+      "start": 1397.1,
+      "end": 1399.34,
+      "text": "and then all of a sudden you start thinking in AI"
+    },
+    {
+      "start": 1399.34,
+      "end": 1401.02,
+      "text": "and you start thinking like, I'm doing this."
+    },
+    {
+      "start": 1401.02,
+      "end": 1401.82,
+      "text": "What's possible?"
+    },
+    {
+      "start": 1401.82,
+      "end": 1404.78,
+      "text": "Wait, wait, what if I went to AI"
+    },
+    {
+      "start": 1404.78,
+      "end": 1407.1,
+      "text": "and I could start doing this in AI"
+    },
+    {
+      "start": 1407.1,
+      "end": 1409.74,
+      "text": "and have it assist with the process?"
+    },
+    {
+      "start": 1409.74,
+      "end": 1412.3,
+      "text": "Not complete or do the entire process,"
+    },
+    {
+      "start": 1412.3,
+      "end": 1416.78,
+      "text": "but if you can get it 60%, 70% the way there and you take it home,"
+    },
+    {
+      "start": 1417.5,
+      "end": 1418.3,
+      "text": "then it's huge."
+    },
+    {
+      "start": 1419.26,
+      "end": 1420.78,
+      "text": "Sorry, what was your question?"
+    },
+    {
+      "start": 1420.78,
+      "end": 1422.06,
+      "text": "Because now I lost it."
+    },
+    {
+      "start": 1422.78,
+      "end": 1427.9,
+      "text": "Where my head was going was this needs to be a top down and bottom up approach."
+    },
+    {
+      "start": 1427.9,
+      "end": 1428.54,
+      "text": "Okay."
+    },
+    {
+      "start": 1428.54,
+      "end": 1429.42,
+      "text": "Top down."
+    },
+    {
+      "start": 1429.42,
+      "end": 1431.02,
+      "text": "Top down and bottom up."
+    },
+    {
+      "start": 1431.02,
+      "end": 1431.98,
+      "text": "You got to have a champion."
+    },
+    {
+      "start": 1431.98,
+      "end": 1433.66,
+      "text": "You got to have people on the front lines"
+    },
+    {
+      "start": 1433.66,
+      "end": 1435.74,
+      "text": "to understand what those use cases are."
+    },
+    {
+      "start": 1435.74,
+      "end": 1437.66,
+      "text": "But the executive team's got to get on board with it"
+    },
+    {
+      "start": 1437.66,
+      "end": 1440.3,
+      "text": "because I had an example on content."
+    },
+    {
+      "start": 1440.3,
+      "end": 1442.14,
+      "text": "This was probably a year and a half ago."
+    },
+    {
+      "start": 1442.14,
+      "end": 1444.06,
+      "text": "They didn't want anything to do with AI."
+    },
+    {
+      "start": 1444.06,
+      "end": 1446.06,
+      "text": "Like if it was AI, they didn't want it."
+    },
+    {
+      "start": 1446.06,
+      "end": 1447.74,
+      "text": "That was an executive issue."
+    },
+    {
+      "start": 1447.74,
+      "end": 1449.02,
+      "text": "And that was an oil and gas company."
+    },
+    {
+      "start": 1449.58,
+      "end": 1451.74,
+      "text": "Well, this is something that you're hitting it"
+    },
+    {
+      "start": 1451.74,
+      "end": 1454.22,
+      "text": "and you're right, top down and bottom up."
+    },
+    {
+      "start": 1454.22,
+      "end": 1457.42,
+      "text": "But I think that needs to start from the top down."
+    },
+    {
+      "start": 1457.98,
+      "end": 1460.78,
+      "text": "And the reason I say that is because of governance and ethics"
+    },
+    {
+      "start": 1460.78,
+      "end": 1462.54,
+      "text": "and all of those pieces that come into this."
+    },
+    {
+      "start": 1462.54,
+      "end": 1465.1,
+      "text": "And oil and gas, that's important."
+    },
+    {
+      "start": 1465.1,
+      "end": 1470.46,
+      "text": "Just as important as, if not more than any other industry outside of maybe-"
+    },
+    {
+      "start": 1470.46,
+      "end": 1471.34,
+      "text": "Someone could die."
+    },
+    {
+      "start": 1471.34,
+      "end": 1473.1,
+      "text": "There's a lot of bad things that could happen."
+    },
+    {
+      "start": 1473.1,
+      "end": 1475.1,
+      "text": "Like you got it, you're going to move slow"
+    },
+    {
+      "start": 1475.1,
+      "end": 1476.46,
+      "text": "and you're going to make sure it's right."
+    },
+    {
+      "start": 1476.46,
+      "end": 1477.02,
+      "text": "And you're going to-"
+    },
+    {
+      "start": 1477.02,
+      "end": 1478.78,
+      "text": "Governments involved in this stuff."
+    },
+    {
+      "start": 1478.78,
+      "end": 1483.34,
+      "text": "There's lots of laws and legalities that cross different."
+    },
+    {
+      "start": 1483.34,
+      "end": 1483.9,
+      "text": "It's huge."
+    },
+    {
+      "start": 1484.46,
+      "end": 1488.06,
+      "text": "The executive team has to know what's possible in AI"
+    },
+    {
+      "start": 1488.06,
+      "end": 1489.9,
+      "text": "and they have to know the legal structure."
+    },
+    {
+      "start": 1489.9,
+      "end": 1492.62,
+      "text": "And the security, the security, the data security."
+    },
+    {
+      "start": 1492.62,
+      "end": 1495.1,
+      "text": "I think that that's the biggest issue right now."
+    },
+    {
+      "start": 1495.1,
+      "end": 1496.38,
+      "text": "Yeah, absolutely."
+    },
+    {
+      "start": 1496.38,
+      "end": 1499.66,
+      "text": "Like people are just taking maybe proprietary, whatever,"
+    },
+    {
+      "start": 1499.66,
+      "end": 1501.82,
+      "text": "throwing it into a public LLM."
+    },
+    {
+      "start": 1501.82,
+      "end": 1503.02,
+      "text": "Shadow usage."
+    },
+    {
+      "start": 1503.02,
+      "end": 1503.66,
+      "text": "Shadow usage."
+    },
+    {
+      "start": 1503.66,
+      "end": 1504.86,
+      "text": "That's what I was going to say."
+    },
+    {
+      "start": 1504.86,
+      "end": 1505.66,
+      "text": "It's huge."
+    },
+    {
+      "start": 1505.66,
+      "end": 1507.66,
+      "text": "And organizations are blind to it."
+    },
+    {
+      "start": 1507.66,
+      "end": 1509.58,
+      "text": "Some of them know and they don't care,"
+    },
+    {
+      "start": 1510.22,
+      "end": 1512.38,
+      "text": "which is crazy because the insurance companies have said,"
+    },
+    {
+      "start": 1512.38,
+      "end": 1513.98,
+      "text": "if you leak data, we're coming after the company."
+    },
+    {
+      "start": 1513.98,
+      "end": 1515.58,
+      "text": "We don't care if that individual did it."
+    },
+    {
+      "start": 1516.14,
+      "end": 1517.34,
+      "text": "We're not covering it."
+    },
+    {
+      "start": 1517.34,
+      "end": 1519.58,
+      "text": "And if someone comes to sue you, it's on you."
+    },
+    {
+      "start": 1519.58,
+      "end": 1520.7,
+      "text": "That's happened."
+    },
+    {
+      "start": 1520.7,
+      "end": 1522.94,
+      "text": "Samsung has leaked a patent that way."
+    },
+    {
+      "start": 1522.94,
+      "end": 1526.38,
+      "text": "So if it can happen to Samsung, I would consider a tech company."
+    },
+    {
+      "start": 1527.1,
+      "end": 1529.42,
+      "text": "It can happen in this industry, no question."
+    },
+    {
+      "start": 1529.74,
+      "end": 1531.58,
+      "text": "And if you don't know the blind spots,"
+    },
+    {
+      "start": 1531.58,
+      "end": 1533.1,
+      "text": "and this isn't to scare anyone,"
+    },
+    {
+      "start": 1533.1,
+      "end": 1535.74,
+      "text": "it's just that it takes a little bit of understanding."
+    },
+    {
+      "start": 1535.74,
+      "end": 1537.82,
+      "text": "It's really not a lot, but it's a little bit."
+    },
+    {
+      "start": 1537.82,
+      "end": 1541.5,
+      "text": "It's about getting an AI use policy and not being done with it."
+    },
+    {
+      "start": 1541.5,
+      "end": 1544.14,
+      "text": "But the power of it, if you don't use it"
+    },
+    {
+      "start": 1544.14,
+      "end": 1546.78,
+      "text": "and you don't learn those things, it's not an option"
+    },
+    {
+      "start": 1546.78,
+      "end": 1549.98,
+      "text": "because then it's like Netflix and Blockbuster."
+    },
+    {
+      "start": 1549.98,
+      "end": 1551.5,
+      "text": "It's like, we're going to use the internet"
+    },
+    {
+      "start": 1551.5,
+      "end": 1552.86,
+      "text": "or we're not going to use the internet."
+    },
+    {
+      "start": 1552.86,
+      "end": 1554.46,
+      "text": "Well, what happens if we don't use the internet?"
+    },
+    {
+      "start": 1554.46,
+      "end": 1556.22,
+      "text": "What happens if we don't use AI?"
+    },
+    {
+      "start": 1556.22,
+      "end": 1558.86,
+      "text": "I would argue that AI is going to be significantly larger"
+    },
+    {
+      "start": 1558.86,
+      "end": 1560.22,
+      "text": "than the internet in the long run."
+    },
+    {
+      "start": 1560.78,
+      "end": 1563.9,
+      "text": "There's a prediction out that AI is going to create"
+    },
+    {
+      "start": 1563.9,
+      "end": 1568.86,
+      "text": "the first single-person billionaire business, billion-dollar business."
+    },
+    {
+      "start": 1569.66,
+      "end": 1571.1,
+      "text": "I can see that totally."
+    },
+    {
+      "start": 1571.1,
+      "end": 1571.98,
+      "text": "Nuts, right?"
+    },
+    {
+      "start": 1571.98,
+      "end": 1573.82,
+      "text": "I don't know whether that's going to come true or not."
+    },
+    {
+      "start": 1573.82,
+      "end": 1576.54,
+      "text": "I told my friend about a year ago"
+    },
+    {
+      "start": 1577.66,
+      "end": 1581.1,
+      "text": "that I imagine in the next 10 years,"
+    },
+    {
+      "start": 1581.1,
+      "end": 1586.78,
+      "text": "AI will create more millionaires than have ever been in existence before."
+    },
+    {
+      "start": 1587.34,
+      "end": 1588.78,
+      "text": "Again, I don't know if this can be true,"
+    },
+    {
+      "start": 1588.78,
+      "end": 1592.62,
+      "text": "but I think I'm bullish on AI and I think a lot of us are."
+    },
+    {
+      "start": 1592.62,
+      "end": 1594.54,
+      "text": "I don't think what makes sense is to sit back"
+    },
+    {
+      "start": 1594.54,
+      "end": 1596.06,
+      "text": "and let your competitors utilize it"
+    },
+    {
+      "start": 1596.06,
+      "end": 1597.66,
+      "text": "if you're not using it at all."
+    },
+    {
+      "start": 1597.66,
+      "end": 1598.78,
+      "text": "No matter how you jump in,"
+    },
+    {
+      "start": 1598.78,
+      "end": 1600.46,
+      "text": "I think you have to get involved to an extent."
+    },
+    {
+      "start": 1601.02,
+      "end": 1603.66,
+      "text": "I know that's a little meta in terms of our conversation,"
+    },
+    {
+      "start": 1603.66,
+      "end": 1606.06,
+      "text": "but I think it's just an important thing to touch on that."
+    },
+    {
+      "start": 1606.06,
+      "end": 1608.86,
+      "text": "Even the reps on here, you've got to start using it"
+    },
+    {
+      "start": 1608.86,
+      "end": 1611.34,
+      "text": "or you're going to fall behind and being AI-enabled"
+    },
+    {
+      "start": 1611.9,
+      "end": 1613.9,
+      "text": "is what sets you apart."
+    },
+    {
+      "start": 1613.9,
+      "end": 1615.66,
+      "text": "That's what's going to set employees apart."
+    },
+    {
+      "start": 1615.74,
+      "end": 1619.02,
+      "text": "We talk about we're not going to need as many employees."
+    },
+    {
+      "start": 1619.02,
+      "end": 1619.98,
+      "text": "Guess what?"
+    },
+    {
+      "start": 1619.98,
+      "end": 1621.9,
+      "text": "Even if you get laid off from your current place"
+    },
+    {
+      "start": 1621.9,
+      "end": 1624.46,
+      "text": "because they don't have the place for you,"
+    },
+    {
+      "start": 1624.46,
+      "end": 1626.14,
+      "text": "there's going to be lots of organizations"
+    },
+    {
+      "start": 1626.14,
+      "end": 1628.78,
+      "text": "that are hungry for AI-enabled people,"
+    },
+    {
+      "start": 1629.34,
+      "end": 1631.9,
+      "text": "people that know how to use AI and utilize it,"
+    },
+    {
+      "start": 1631.9,
+      "end": 1634.78,
+      "text": "and they will be more than happy to give you"
+    },
+    {
+      "start": 1634.78,
+      "end": 1638.06,
+      "text": "a higher amount of money to come work for them,"
+    },
+    {
+      "start": 1638.06,
+      "end": 1640.46,
+      "text": "even if you just got laid off or whatever happens"
+    },
+    {
+      "start": 1640.46,
+      "end": 1642.38,
+      "text": "or they don't have the room for you on that team."
+    },
+    {
+      "start": 1642.94,
+      "end": 1644.38,
+      "text": "We don't have time to go into it."
+    },
+    {
+      "start": 1644.38,
+      "end": 1646.38,
+      "text": "We're going to get in close to time here,"
+    },
+    {
+      "start": 1646.38,
+      "end": 1648.94,
+      "text": "but HR is about to get affected too."
+    },
+    {
+      "start": 1648.94,
+      "end": 1652.46,
+      "text": "AI is disrupting everything and there's a path"
+    },
+    {
+      "start": 1652.46,
+      "end": 1654.62,
+      "text": "that another course that I took is showing"
+    },
+    {
+      "start": 1654.62,
+      "end": 1656.94,
+      "text": "where it's happening and it's really quite interesting."
+    },
+    {
+      "start": 1656.94,
+      "end": 1660.14,
+      "text": "But man, when people are looking for hiring,"
+    },
+    {
+      "start": 1660.14,
+      "end": 1662.7,
+      "text": "they are looking for AI-enabled people."
+    },
+    {
+      "start": 1662.7,
+      "end": 1665.74,
+      "text": "That is actually at our agency, DWR,"
+    },
+    {
+      "start": 1665.74,
+      "end": 1668.38,
+      "text": "that's the number one thing we're looking for first,"
+    },
+    {
+      "start": 1668.38,
+      "end": 1671.26,
+      "text": "is do they have this and then do they have"
+    },
+    {
+      "start": 1671.26,
+      "end": 1675.98,
+      "text": "this kind of marketing or sales or strategy experience in that?"
+    },
+    {
+      "start": 1675.98,
+      "end": 1679.1,
+      "text": "This is becoming highly sought after"
+    },
+    {
+      "start": 1679.1,
+      "end": 1682.22,
+      "text": "and you can differentiate yourself by getting ahead of the pack"
+    },
+    {
+      "start": 1682.22,
+      "end": 1683.9,
+      "text": "because you're going to have to learn it anyway."
+    },
+    {
+      "start": 1683.9,
+      "end": 1686.14,
+      "text": "You've got to make that mindset shift"
+    },
+    {
+      "start": 1686.14,
+      "end": 1687.98,
+      "text": "to turn the key and say,"
+    },
+    {
+      "start": 1687.98,
+      "end": 1689.74,
+      "text": "all right, I got to learn this."
+    },
+    {
+      "start": 1689.74,
+      "end": 1691.42,
+      "text": "I got a lot of other stuff going on,"
+    },
+    {
+      "start": 1691.42,
+      "end": 1693.98,
+      "text": "but I got to learn this because this is going to help me"
+    },
+    {
+      "start": 1693.98,
+      "end": 1695.82,
+      "text": "because, well, things are changing."
+    },
+    {
+      "start": 1695.82,
+      "end": 1697.82,
+      "text": "The way people search online are changing."
+    },
+    {
+      "start": 1697.82,
+      "end": 1699.82,
+      "text": "The way people sell, the way people buy"
+    },
+    {
+      "start": 1699.82,
+      "end": 1702.54,
+      "text": "are all changing and it's affecting every industry,"
+    },
+    {
+      "start": 1702.54,
+      "end": 1703.82,
+      "text": "every human being."
+    },
+    {
+      "start": 1703.82,
+      "end": 1707.82,
+      "text": "I want to kind of tee you up for closable.ai"
+    },
+    {
+      "start": 1707.82,
+      "end": 1710.54,
+      "text": "and tell us a little bit about what you're doing for people"
+    },
+    {
+      "start": 1710.54,
+      "end": 1714.14,
+      "text": "and how people might find you, your work and get in touch with you,"
+    },
+    {
+      "start": 1714.14,
+      "end": 1715.82,
+      "text": "maybe see some of your case studies, that sort of thing."
+    },
+    {
+      "start": 1716.62,
+      "end": 1717.42,
+      "text": "Yeah, absolutely."
+    },
+    {
+      "start": 1717.98,
+      "end": 1719.34,
+      "text": "The best way to put it is,"
+    },
+    {
+      "start": 1719.34,
+      "end": 1721.34,
+      "text": "I know we started on this a little bit,"
+    },
+    {
+      "start": 1721.34,
+      "end": 1725.82,
+      "text": "is to think about a world where you are a salesperson"
+    },
+    {
+      "start": 1725.82,
+      "end": 1727.02,
+      "text": "and your life gets simplified"
+    },
+    {
+      "start": 1727.02,
+      "end": 1730.06,
+      "text": "or you're a sales manager and your data gets simplified."
+    },
+    {
+      "start": 1730.06,
+      "end": 1732.94,
+      "text": "I think we spend a lot of our day thinking"
+    },
+    {
+      "start": 1732.94,
+      "end": 1734.54,
+      "text": "about what we're going to do"
+    },
+    {
+      "start": 1734.54,
+      "end": 1736.62,
+      "text": "and what we're going to need to do today."
+    },
+    {
+      "start": 1736.62,
+      "end": 1740.06,
+      "text": "What if we popped up and let's say we're using Slack,"
+    },
+    {
+      "start": 1740.7,
+      "end": 1743.5,
+      "text": "we have a channel that's sending us a message"
+    },
+    {
+      "start": 1743.5,
+      "end": 1745.42,
+      "text": "where it's like, your next task is,"
+    },
+    {
+      "start": 1745.42,
+      "end": 1747.5,
+      "text": "you need to send this person email"
+    },
+    {
+      "start": 1747.5,
+      "end": 1749.58,
+      "text": "or you have to make a call, right?"
+    },
+    {
+      "start": 1749.58,
+      "end": 1752.78,
+      "text": "But not just that, say, this is the copy of the email."
+    },
+    {
+      "start": 1752.78,
+      "end": 1755.18,
+      "text": "Is it good to send or do I need to edit it?"
+    },
+    {
+      "start": 1755.18,
+      "end": 1757.82,
+      "text": "Or this is the structure of the call you should use."
+    },
+    {
+      "start": 1757.82,
+      "end": 1760.46,
+      "text": "And this is based on your last conversation that you had too,"
+    },
+    {
+      "start": 1760.46,
+      "end": 1762.22,
+      "text": "because we have that information now."
+    },
+    {
+      "start": 1763.02,
+      "end": 1769.34,
+      "text": "That's the idea of where closeable.ai is to put it in simplest terms."
+    },
+    {
+      "start": 1769.34,
+      "end": 1771.1,
+      "text": "It's a way for you to just say,"
+    },
+    {
+      "start": 1771.1,
+      "end": 1773.66,
+      "text": "organize as a salesperson, but then take that"
+    },
+    {
+      "start": 1773.66,
+      "end": 1776.7,
+      "text": "and we can make data, we can prevent people getting lost"
+    },
+    {
+      "start": 1776.7,
+      "end": 1778.3,
+      "text": "in the follow-up, things like that."
+    },
+    {
+      "start": 1778.3,
+      "end": 1780.14,
+      "text": "We can also do the enrichment on the front end,"
+    },
+    {
+      "start": 1780.14,
+      "end": 1782.22,
+      "text": "like we talked about today."
+    },
+    {
+      "start": 1782.78,
+      "end": 1785.02,
+      "text": "That's closeable.ai, in short."
+    },
+    {
+      "start": 1785.1,
+      "end": 1788.46,
+      "text": "You can find me on LinkedIn, Steven Worley,"
+    },
+    {
+      "start": 1788.46,
+      "end": 1790.7,
+      "text": "Steven's with V-W-E-R-L-E-Y."
+    },
+    {
+      "start": 1790.7,
+      "end": 1792.3,
+      "text": "I'm sure it'll probably be in the show notes."
+    },
+    {
+      "start": 1792.3,
+      "end": 1795.74,
+      "text": "And then the website is closeable.ai"
+    },
+    {
+      "start": 1795.74,
+      "end": 1798.14,
+      "text": "and happy to see and help there."
+    },
+    {
+      "start": 1800.7,
+      "end": 1802.22,
+      "text": "For any of you veterans out there,"
+    },
+    {
+      "start": 1802.22,
+      "end": 1803.82,
+      "text": "like and you want to work with other veterans,"
+    },
+    {
+      "start": 1803.82,
+      "end": 1806.54,
+      "text": "please reach out to former Army Ranger"
+    },
+    {
+      "start": 1806.54,
+      "end": 1809.9,
+      "text": "and just really cutting edge frontier technology."
+    },
+    {
+      "start": 1809.9,
+      "end": 1811.66,
+      "text": "If you want to be the tip of the spear,"
+    },
+    {
+      "start": 1811.66,
+      "end": 1813.98,
+      "text": "reach out to Steven and find out more."
+    },
+    {
+      "start": 1813.98,
+      "end": 1815.9,
+      "text": "We've had some great offline conversations,"
+    },
+    {
+      "start": 1815.9,
+      "end": 1818.94,
+      "text": "so I just wanted to introduce them to this network"
+    },
+    {
+      "start": 1818.94,
+      "end": 1820.86,
+      "text": "and hopefully you could benefit from that."
+    },
+    {
+      "start": 1821.58,
+      "end": 1824.62,
+      "text": "We have a lot of stuff going on with OGGN."
+    },
+    {
+      "start": 1824.62,
+      "end": 1826.06,
+      "text": "We're going to be at a lot of conferences."
+    },
+    {
+      "start": 1826.06,
+      "end": 1830.46,
+      "text": "We're standing up a whole AI IoTT podcast."
+    },
+    {
+      "start": 1830.46,
+      "end": 1833.26,
+      "text": "We're sold out all year for our newsletters."
+    },
+    {
+      "start": 1833.82,
+      "end": 1836.22,
+      "text": "Mark and I are still doing speaking talks."
+    },
+    {
+      "start": 1836.22,
+      "end": 1837.18,
+      "text": "Reach out to him."
+    },
+    {
+      "start": 1837.18,
+      "end": 1838.22,
+      "text": "Reach out to OGGN."
+    },
+    {
+      "start": 1838.78,
+      "end": 1840.62,
+      "text": "Thank you so much for your support."
+    },
+    {
+      "start": 1840.62,
+      "end": 1842.3,
+      "text": "And until the next time,"
+    },
+    {
+      "start": 1842.3,
+      "end": 1845.18,
+      "text": "remember, make a difference, not a sale."
+    }
+  ]
+}

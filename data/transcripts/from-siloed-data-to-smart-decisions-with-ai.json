@@ -1,0 +1,2185 @@
+{
+  "slug": "from-siloed-data-to-smart-decisions-with-ai",
+  "title": "From Siloed Data to Smart Decisions with AI",
+  "episode": "82",
+  "audio": "https://media.blubrry.com/oil_and_gas_this_week/media.blubrry.com/oilandgassalesandmarketing/ins.blubrry.com/oilandgassalesandmarketing/OGSM82.mp3",
+  "duration": 1072.6,
+  "text": "Welcome to the Oil and Gas Sales and Marketing podcast, where every week your hosts, Mark LaCour and Matt Bertram share proven strategies and real-world tactics to help you connect with customers and close more deals. Let's do this. Howdy. Welcome back to another episode of Oil and Gas Sales and Marketing. I am your host, Matt Bertram. I am still at the CellWell conference. They've got me doing a lot of great interviews with some amazing people. And to continue the stride to talk about AI, I have Arianna here, who helps people improve their workflows internally and manufacturing, product development, commercialization. I'm excited for this discussion. I hope all of you are as well. Welcome to the show, Arianna. Thank you, Matt. It's a pleasure to be here with you. Can you just share with the audience what you were sharing with me about your background and what you specialize in to set the table? So my background is probably not as common path in technology. I'm actually an economist by training, and I really want to solve business problems with technology. I also study technology, specifically AI, and now I'm building products that can help companies solve their business problems in the most efficient way. We should almost change the name of this podcast to the AI Sales and Marketing podcast. I feel like AI is seeping into every aspect. I would love for you to just highlight some big use cases of AI, of maybe companies that you've helped solve problems, so everybody can kind of get a frame of reference of what we're talking about. It's funny you mentioned sales and marketing. That was one of the use cases that we started with last year as well. We worked with companies on AI strategy and digital transformation, and through that work over the five years, we realized that this is a common problem of the silent data between sales and marketing, whether it's finance and operations and CRMs and ERP systems and pulling all that together in proper analysis. So we started with the use case in marketing, and it was really fascinating to see that you collect all your data from CRM, which typically is sales team keeps. Then you have your marketing people, their own systems, whether it's SEO, whether it's Google, AdWords, and all of these reports are coming together, but they're not really flowing from the beginning. They're not talking to each other. Marketers, anybody that's listening, that's a marketer knows that they've been logging into multiple dashboards, taking that data, trying to drop it into an Excel, and try to rework it ourselves for a long time, and now pulling all that together in the AI factory where you can unify that data and then get insights in that, and then pull in the CRM data, pull in the customer, like the ERP, or whatever your sales component is, with the CRM, now you have a powerhouse of data. Sales and marketing people have a powerhouse of data, and now you can supercharge that with AI. You're speaking my language. That's exactly what we saw, and we decided to solve that problem, and we are soon launching product, which is called Excel Insights, specifically because we've seen everybody has systems, but they still use Excel and spreadsheets to accumulate these data, put it together, and then... So I got called in. It's actually outside of William Gas, but I got called in as an in-house-like fractional to help out with an issue. They were... I shit you not. Okay, everybody can hear me say that on this podcast. We're using Excel and Google Sheets, and I asked, why are you using Excel for some things and Google Sheets for something else? And one of the ladies said, when I grab the fields, when I highlight the fields, I can see the total in Excel, and I can't see that on Google Sheets. And then there is like manual exportation of some of this data. If you are listening to this, and you can relate to what I just said, you need to reach out to Ariana, okay? And a lot of businesses need to really think hard and say, it's time to play catch-up. I can't keep operating this way because the businesses that are moving closer to an AI-first company are going to get so far ahead of us, we can't catch up. I'm seeing smaller companies, mid-sized companies, start to compete with the household brand names because they've been able to get through all the red tape and the adoption and get implemented. And if they can keep making those strides, they're going to be widening that gap. So if what I'm saying, you feel anxious inside, you should. And so I'm just trying to encourage all to take action. So. I cannot agree more. There is definitely so much manual work that doesn't need to be done in the same way. But we are not actually stopping people from using Excel. Still live in what you're familiar. But now use our app and solve that problem because we'll harmonize your data, automate those things. But you're still in control of the output and now you can actually talk to this data and you can actually create the graph and start its own demand. It's not fixed. That's another area that I've touched on a little bit is snapshots of data is not a report. There's no insights associated with that. So you can get insights and you can get customer reports through these LLMs where it can produce a graphic for you if you're doing a presentation based on the data. There's so many applications. I would love for you to go through some other use cases that you all have implemented because there's so many. I can tell you many stories, but one of the really common and valuable is there is a lot of internal documentation that companies have. And whether they're SDKs, SOPs, all the documentation that internally, maybe even externally, you need to share with the parties and vendors. And that is very tedious process because there's a lot of textual PDF documents and maybe graphs and charts. And for human to go through that and be very efficient in managing that and really transferring this data and knowledge, chatbots and conversational AI can really be helpful. So we build those systems and we actually lock them down on that data alone so it doesn't go to tell you anything about Superman or your competition. It's really going to give you only the answers which is relevant to that data. And before that, this was still happening with machine learning, but it was a very slow process. And there was a lot of data labeling that happened. And for sales and marketing people, data labeling wasn't like the most fun. And so it slowed down the excitement now that you can take structured and unstructured data. And again, the better labeled it is, the more trust that the LLMs know what's what is helpful. We were even talking about the identity issues that like LLM visibility is what EWR is solving for to show up and chat GBT to understand your entity might be different from somebody else, how those differences take effect and feed that into the LLMs based upon the transactional selection, right? There's a lot of times ways to surface information and sales and marketing and reach out to people, but you really want to have it tight in your messaging and your brand positioning when someone's looking to buy and you're in that selection process versus another vendor. Yeah, absolutely. And we don't stay only in the Excel or any spreadsheets format. We really ingest all the other data as well, which is a context like exactly what you said needs to be contextualized so the LLMs can really give you the answer that's irrelevant to you and the data you have. And what you were talking about is developing maybe like a custom GPT or you were tuning like one of the foundational LLMs and then you're building workflows and you're providing data governance around that as well as segregating that data because I think the biggest issue is well, security and confidence of proprietary data externally and internally. Could you go into more details on how you solve that without maybe giving away the recipes that you use? Can I, in broader terms, we follow from day one this decided to actually be SOC2. So we're using all the government's principles what requires for the SOC2. But also we make sure that any data that is sensitive is actually mask or eliminated before we untouch is going to LLMs. So you are in charge as a user to make sure that doesn't go any further. And then whatever you need to have governed, we also work with you on your end, you know, what your team understands, how needs to be divided. It's a role-based login. So we keep everything in the line your expectation for the company is. I think that's probably one of the most important things is figuring out how to map it. A lot of people just want to jump in the analogy of building a house. People want to jump in to build a house. You might want to have an architect. You might want to have blueprints of what you're going to build. And I think that one of the things also even building a house, there's a lot of opportunity for AI and construction. But scheduling, okay? Understanding what needs to happen when. Correct. Because for you to do things correctly and also not have employees circumvent what you're doing and using these kind of open source and there's poorer stories around that, you need to get your governance in place. You need to provide training, not just top down but bottom up. There should be champions for some of this stuff. And you got to really take the time to get it mapped out because once it's all plugged in properly, it's a supercharged environment. But if you're not getting the foundation down and not getting the basics down, you're flying by the seat of your pants. You don't know what you don't know. And that's when all these problems come out, come down. Yeah, I can agree with you more. And that is one of the things also we approach when we work with a company. We have a kind of 30, 60, 90 day success plan because we can deliver results in the first quarter, but we really want to solid foundation to understand the company maturity, that there is a team, there are ambassadors. There is actually governance they have for the data and then it will be helpful for us to execute as well and have tool deliver what they need exactly. And from a language standpoint or a vocabulary standpoint, I've been talking about like a data layer, like businesses need some kind of data layer where AI is integrated into it. It's certainly people are using it again fragmentedly to enhance certain things, which is super helpful. But when you build it into the workflow, is really that next step. What is the vocabulary or language around that? So I'm speaking properly when it relates to this. So the idea is companies should develop a data layer, which can be sometimes very tedious and hard for small companies. So we start sometimes just for that workflow layer. So let's figure out and ingest that first without integration. Yes, to scale it across the company, ideally you want to integrate in different system, pull this data and have your data lake and continuously maintain and clean that. We can provide some of that service, but this is also a ground foundational groundwork for the company to have a long-term vision as well. So we work hand in hand with companies who develop infrastructure support and data lakes as much as we are on the application side, solving the business problems and really create efficiencies and cost savings. I've actually mentioned this, I believe on this podcast. I sat down with a VP of innovation and they had data lakes, they had data, but they were missing that piece of understanding the LLMs of the applications. And he was like, I'm not sure what found any use cases for AI. And we've invested a lot in all this data and we've queened it up. And I said, let me tell you, let's add this last piece and that's what you do is you add that last piece. So if you're out there and you have a lot of data and you're not sure what to do with it, LLMs are now on the scene and you can do a lot with it quickly and you can even start to add in unstructured data to that and blend it and get some phenomenal results. And every company has so much data, they're just not, some are utilizing it and some are not. Developing use cases, I think it's one of the key components because not every use case need to be developed and then need to be some priority. And I think that is the conversation that a lot of times in the news, oh, the fail AI. And I've seen that, yeah. I don't know where that's coming from. I'm a believer it's really not so much technology that is failing. It is really how it's implemented. What use cases have been selected to really get to ROI? Because not every use case in every company can generate that in a very quick turnaround. And in some of that research, I think this happened with the internet too. When the internet was adopted, companies couldn't see it in their bottom line or they didn't have metrics to track it. And then in the next five or 10 years, that's when you saw that real investment in growth. I would love for you to maybe go through some major use cases so people can latch on to say, hey, that could be a problem for me. That could help because I think we just need to get people thinking in terms of AI first. And I think once you put those AI first glasses on, now you can look around and see all kinds of use cases. One of the use cases which was really, I think for us is one of the focus areas in companies which have a lot of assets and they need to manage this relationship on the covenants and those assets with their financial providers, banks. Sometimes that's reporting is still a very manual. And you're collating data from different departments, putting in Excel spreadsheets, analyzing and then sending reports to the bank. There is lots of errors. There is probably stale information in those reports. And your forecasting financial planning is becoming really erroneous. And you could be missing some serious numbers, especially if you have a large assets and you have a risk against those loans. That is really a risky business. And to grow the business, you need to have fast numbers and accurate numbers. And that's what we are helping with, to have that clear picture. And I think the technology enables that. Yeah, awesome. Ariana, one of the things that we ask as we're getting to wrapping up the show, is there a LinkedIn tip or fail of the week that you, something that in LinkedIn, someone's done really well that like you remembered or something that someone's done that you're like, ooh, I don't think that was very good. And a lot of these things tie back to AI. I'm seeing a lot of outreach happening with AI, which actually is against the terms, terms of service of LinkedIn for all of you that may be doing this en masse. Not as much in oil and gas because there's a very targeted focus of people that can uptake your offering. But I see on LinkedIn, it's very noisy. They've started to, start to limit the number of requests that you can make. But I see a lot of automation trying to be personalized or being used wrong. I didn't know if you've seen somebody doing something really good or you've seen somebody doing something that you're like, I'm not sure about. So I can tell you both. The really good is unfortunately, you have to invest your personal time. Even if you're a CEO or somebody who is in CEO level, you need to have that personal presence. Maybe not every day if you don't have time, but at least once, twice a week. Comments, you know, more and more. You need to have a spokesperson. And usually it's the CEO for the brand. It needs to be a public figure and needs to be out there. That's what a lot of people are requesting. I've written some books on Build Your Grand Mania and No Light Trust. And these are things that were nice to have in the past, but they're a need to have today because there's a level of trust of acceptance. And they want to know who's leading this company and what do they believe? And what about them? What are they thinking? All that sort of thing. And the bad side is this automation that they also get a lot of DMs and they're just so generic or they're completely missed about, you know, what a person actually me in doing. And they're offering something that's completely relevant. And it's really disturbing because I am very much present in LinkedIn. I see that as a tool, like you said, as a CEO to be present, representing brand, my company, and what we stand for. But it is really noisy and it's hard to read all of that. Awesome. Adriana, is there anything else that we didn't cover that you wanted to make sure to mention to the audience, as well as how to get in touch with you and maybe follow you on LinkedIn? Yes, absolutely. Please follow me on LinkedIn. Ariana Smetana, probably easy to find. And you can find me also on the website, company, brand name. It's called Excel IQ Digital, the product we are launching and working on. It's Excel Insight because we want to provide insight to every company on demand. I love it. I love it. Thank you so much for coming on the show. Thank you, Matt. Pleasure. Everyone remember, make a difference, not a sale. The show has been a production of the Oil and Gas Global Network.",
+  "segments": [
+    {
+      "start": 7.09,
+      "end": 11.09,
+      "text": "Welcome to the Oil and Gas Sales and Marketing podcast,"
+    },
+    {
+      "start": 11.09,
+      "end": 14.85,
+      "text": "where every week your hosts, Mark LaCour and Matt Bertram"
+    },
+    {
+      "start": 14.85,
+      "end": 17.97,
+      "text": "share proven strategies and real-world tactics"
+    },
+    {
+      "start": 17.97,
+      "end": 21.57,
+      "text": "to help you connect with customers and close more deals."
+    },
+    {
+      "start": 21.57,
+      "end": 22.77,
+      "text": "Let's do this."
+    },
+    {
+      "start": 26.46,
+      "end": 27.34,
+      "text": "Howdy."
+    },
+    {
+      "start": 27.34,
+      "end": 31.1,
+      "text": "Welcome back to another episode of Oil and Gas Sales and Marketing."
+    },
+    {
+      "start": 31.1,
+      "end": 32.86,
+      "text": "I am your host, Matt Bertram."
+    },
+    {
+      "start": 32.86,
+      "end": 35.5,
+      "text": "I am still at the CellWell conference."
+    },
+    {
+      "start": 35.5,
+      "end": 37.82,
+      "text": "They've got me doing a lot of great interviews"
+    },
+    {
+      "start": 37.82,
+      "end": 39.5,
+      "text": "with some amazing people."
+    },
+    {
+      "start": 39.82,
+      "end": 42.62,
+      "text": "And to continue the stride to talk about AI,"
+    },
+    {
+      "start": 42.62,
+      "end": 44.22,
+      "text": "I have Arianna here,"
+    },
+    {
+      "start": 44.22,
+      "end": 47.98,
+      "text": "who helps people improve their workflows internally"
+    },
+    {
+      "start": 47.98,
+      "end": 51.26,
+      "text": "and manufacturing, product development, commercialization."
+    },
+    {
+      "start": 52.06,
+      "end": 54.22,
+      "text": "I'm excited for this discussion."
+    },
+    {
+      "start": 54.22,
+      "end": 55.98,
+      "text": "I hope all of you are as well."
+    },
+    {
+      "start": 55.98,
+      "end": 57.5,
+      "text": "Welcome to the show, Arianna."
+    },
+    {
+      "start": 57.5,
+      "end": 58.54,
+      "text": "Thank you, Matt."
+    },
+    {
+      "start": 58.54,
+      "end": 60.22,
+      "text": "It's a pleasure to be here with you."
+    },
+    {
+      "start": 60.22,
+      "end": 62.06,
+      "text": "Can you just share with the audience"
+    },
+    {
+      "start": 62.06,
+      "end": 64.22,
+      "text": "what you were sharing with me about your background"
+    },
+    {
+      "start": 64.22,
+      "end": 66.54,
+      "text": "and what you specialize in to set the table?"
+    },
+    {
+      "start": 67.18,
+      "end": 71.18,
+      "text": "So my background is probably not as common path in technology."
+    },
+    {
+      "start": 71.18,
+      "end": 73.02,
+      "text": "I'm actually an economist by training,"
+    },
+    {
+      "start": 73.02,
+      "end": 75.9,
+      "text": "and I really want to solve business problems with technology."
+    },
+    {
+      "start": 75.9,
+      "end": 78.94,
+      "text": "I also study technology, specifically AI,"
+    },
+    {
+      "start": 78.94,
+      "end": 80.78,
+      "text": "and now I'm building products"
+    },
+    {
+      "start": 80.78,
+      "end": 83.82,
+      "text": "that can help companies solve their business problems"
+    },
+    {
+      "start": 83.82,
+      "end": 85.5,
+      "text": "in the most efficient way."
+    },
+    {
+      "start": 85.5,
+      "end": 87.82,
+      "text": "We should almost change the name of this podcast"
+    },
+    {
+      "start": 87.82,
+      "end": 90.38,
+      "text": "to the AI Sales and Marketing podcast."
+    },
+    {
+      "start": 90.38,
+      "end": 94.54,
+      "text": "I feel like AI is seeping into every aspect."
+    },
+    {
+      "start": 94.54,
+      "end": 97.58,
+      "text": "I would love for you to just highlight some big use cases"
+    },
+    {
+      "start": 98.14,
+      "end": 101.5,
+      "text": "of AI, of maybe companies that you've helped solve problems,"
+    },
+    {
+      "start": 101.5,
+      "end": 104.14,
+      "text": "so everybody can kind of get a frame of reference"
+    },
+    {
+      "start": 104.14,
+      "end": 105.18,
+      "text": "of what we're talking about."
+    },
+    {
+      "start": 105.82,
+      "end": 107.66,
+      "text": "It's funny you mentioned sales and marketing."
+    },
+    {
+      "start": 107.66,
+      "end": 109.1,
+      "text": "That was one of the use cases"
+    },
+    {
+      "start": 109.1,
+      "end": 111.58,
+      "text": "that we started with last year as well."
+    },
+    {
+      "start": 111.58,
+      "end": 113.66,
+      "text": "We worked with companies on AI strategy"
+    },
+    {
+      "start": 113.66,
+      "end": 114.86,
+      "text": "and digital transformation,"
+    },
+    {
+      "start": 114.86,
+      "end": 116.78,
+      "text": "and through that work over the five years,"
+    },
+    {
+      "start": 117.42,
+      "end": 119.42,
+      "text": "we realized that this is a common problem"
+    },
+    {
+      "start": 119.42,
+      "end": 122.7,
+      "text": "of the silent data between sales and marketing,"
+    },
+    {
+      "start": 122.7,
+      "end": 124.86,
+      "text": "whether it's finance and operations"
+    },
+    {
+      "start": 124.86,
+      "end": 127.42,
+      "text": "and CRMs and ERP systems"
+    },
+    {
+      "start": 127.42,
+      "end": 130.06,
+      "text": "and pulling all that together in proper analysis."
+    },
+    {
+      "start": 130.7,
+      "end": 132.54,
+      "text": "So we started with the use case in marketing,"
+    },
+    {
+      "start": 132.54,
+      "end": 134.46,
+      "text": "and it was really fascinating to see that"
+    },
+    {
+      "start": 134.46,
+      "end": 136.78,
+      "text": "you collect all your data from CRM,"
+    },
+    {
+      "start": 136.78,
+      "end": 139.02,
+      "text": "which typically is sales team keeps."
+    },
+    {
+      "start": 139.02,
+      "end": 141.02,
+      "text": "Then you have your marketing people,"
+    },
+    {
+      "start": 141.02,
+      "end": 143.1,
+      "text": "their own systems, whether it's SEO,"
+    },
+    {
+      "start": 143.1,
+      "end": 145.02,
+      "text": "whether it's Google, AdWords,"
+    },
+    {
+      "start": 145.02,
+      "end": 146.94,
+      "text": "and all of these reports are coming together,"
+    },
+    {
+      "start": 146.94,
+      "end": 149.1,
+      "text": "but they're not really flowing from the beginning."
+    },
+    {
+      "start": 149.1,
+      "end": 149.98,
+      "text": "They're not talking to each other."
+    },
+    {
+      "start": 149.98,
+      "end": 151.34,
+      "text": "Marketers, anybody that's listening,"
+    },
+    {
+      "start": 151.34,
+      "end": 152.7,
+      "text": "that's a marketer knows"
+    },
+    {
+      "start": 152.7,
+      "end": 155.66,
+      "text": "that they've been logging into multiple dashboards,"
+    },
+    {
+      "start": 155.66,
+      "end": 158.38,
+      "text": "taking that data, trying to drop it into an Excel,"
+    },
+    {
+      "start": 158.38,
+      "end": 161.74,
+      "text": "and try to rework it ourselves for a long time,"
+    },
+    {
+      "start": 161.74,
+      "end": 164.78,
+      "text": "and now pulling all that together in the AI factory"
+    },
+    {
+      "start": 164.78,
+      "end": 166.7,
+      "text": "where you can unify that data"
+    },
+    {
+      "start": 166.7,
+      "end": 168.62,
+      "text": "and then get insights in that,"
+    },
+    {
+      "start": 168.62,
+      "end": 170.62,
+      "text": "and then pull in the CRM data,"
+    },
+    {
+      "start": 170.62,
+      "end": 172.78,
+      "text": "pull in the customer, like the ERP,"
+    },
+    {
+      "start": 172.78,
+      "end": 175.34,
+      "text": "or whatever your sales component is,"
+    },
+    {
+      "start": 175.34,
+      "end": 178.62,
+      "text": "with the CRM, now you have a powerhouse of data."
+    },
+    {
+      "start": 178.86,
+      "end": 181.18,
+      "text": "Sales and marketing people have a powerhouse of data,"
+    },
+    {
+      "start": 181.18,
+      "end": 183.58,
+      "text": "and now you can supercharge that with AI."
+    },
+    {
+      "start": 184.3,
+      "end": 185.5,
+      "text": "You're speaking my language."
+    },
+    {
+      "start": 185.5,
+      "end": 187.18,
+      "text": "That's exactly what we saw,"
+    },
+    {
+      "start": 187.18,
+      "end": 189.34,
+      "text": "and we decided to solve that problem,"
+    },
+    {
+      "start": 189.34,
+      "end": 191.58,
+      "text": "and we are soon launching product,"
+    },
+    {
+      "start": 191.58,
+      "end": 193.74,
+      "text": "which is called Excel Insights,"
+    },
+    {
+      "start": 193.74,
+      "end": 197.18,
+      "text": "specifically because we've seen everybody has systems,"
+    },
+    {
+      "start": 197.18,
+      "end": 199.66,
+      "text": "but they still use Excel and spreadsheets"
+    },
+    {
+      "start": 199.66,
+      "end": 202.7,
+      "text": "to accumulate these data, put it together, and then..."
+    },
+    {
+      "start": 203.26,
+      "end": 204.78,
+      "text": "So I got called in."
+    },
+    {
+      "start": 204.78,
+      "end": 206.06,
+      "text": "It's actually outside of William Gas,"
+    },
+    {
+      "start": 206.06,
+      "end": 208.7,
+      "text": "but I got called in as an in-house-like fractional"
+    },
+    {
+      "start": 208.7,
+      "end": 209.66,
+      "text": "to help out with an issue."
+    },
+    {
+      "start": 210.3,
+      "end": 210.78,
+      "text": "They were..."
+    },
+    {
+      "start": 211.42,
+      "end": 212.54,
+      "text": "I shit you not."
+    },
+    {
+      "start": 212.54,
+      "end": 215.18,
+      "text": "Okay, everybody can hear me say that on this podcast."
+    },
+    {
+      "start": 215.74,
+      "end": 219.26,
+      "text": "We're using Excel and Google Sheets,"
+    },
+    {
+      "start": 220.06,
+      "end": 220.86,
+      "text": "and I asked,"
+    },
+    {
+      "start": 220.86,
+      "end": 223.26,
+      "text": "why are you using Excel for some things"
+    },
+    {
+      "start": 223.26,
+      "end": 225.18,
+      "text": "and Google Sheets for something else?"
+    },
+    {
+      "start": 225.74,
+      "end": 227.34,
+      "text": "And one of the ladies said,"
+    },
+    {
+      "start": 227.34,
+      "end": 228.94,
+      "text": "when I grab the fields,"
+    },
+    {
+      "start": 228.94,
+      "end": 230.22,
+      "text": "when I highlight the fields,"
+    },
+    {
+      "start": 230.22,
+      "end": 232.94,
+      "text": "I can see the total in Excel,"
+    },
+    {
+      "start": 232.94,
+      "end": 234.86,
+      "text": "and I can't see that on Google Sheets."
+    },
+    {
+      "start": 235.66,
+      "end": 238.78,
+      "text": "And then there is like manual exportation"
+    },
+    {
+      "start": 238.78,
+      "end": 239.66,
+      "text": "of some of this data."
+    },
+    {
+      "start": 240.54,
+      "end": 242.38,
+      "text": "If you are listening to this,"
+    },
+    {
+      "start": 242.38,
+      "end": 244.54,
+      "text": "and you can relate to what I just said,"
+    },
+    {
+      "start": 245.18,
+      "end": 247.34,
+      "text": "you need to reach out to Ariana, okay?"
+    },
+    {
+      "start": 248.06,
+      "end": 251.9,
+      "text": "And a lot of businesses need to really think hard"
+    },
+    {
+      "start": 251.9,
+      "end": 254.14,
+      "text": "and say, it's time to play catch-up."
+    },
+    {
+      "start": 254.14,
+      "end": 255.98,
+      "text": "I can't keep operating this way"
+    },
+    {
+      "start": 255.98,
+      "end": 258.14,
+      "text": "because the businesses that are moving"
+    },
+    {
+      "start": 258.14,
+      "end": 259.9,
+      "text": "closer to an AI-first company"
+    },
+    {
+      "start": 260.7,
+      "end": 262.86,
+      "text": "are going to get so far ahead of us,"
+    },
+    {
+      "start": 262.86,
+      "end": 263.98,
+      "text": "we can't catch up."
+    },
+    {
+      "start": 263.98,
+      "end": 266.06,
+      "text": "I'm seeing smaller companies,"
+    },
+    {
+      "start": 266.06,
+      "end": 267.42,
+      "text": "mid-sized companies,"
+    },
+    {
+      "start": 267.42,
+      "end": 270.38,
+      "text": "start to compete with the household brand names"
+    },
+    {
+      "start": 270.38,
+      "end": 271.82,
+      "text": "because they've been able to get through"
+    },
+    {
+      "start": 271.82,
+      "end": 273.66,
+      "text": "all the red tape and the adoption"
+    },
+    {
+      "start": 273.66,
+      "end": 274.78,
+      "text": "and get implemented."
+    },
+    {
+      "start": 274.78,
+      "end": 277.02,
+      "text": "And if they can keep making those strides,"
+    },
+    {
+      "start": 277.02,
+      "end": 279.58,
+      "text": "they're going to be widening that gap."
+    },
+    {
+      "start": 279.58,
+      "end": 281.5,
+      "text": "So if what I'm saying,"
+    },
+    {
+      "start": 281.5,
+      "end": 283.9,
+      "text": "you feel anxious inside, you should."
+    },
+    {
+      "start": 285.26,
+      "end": 287.74,
+      "text": "And so I'm just trying to encourage all to take action."
+    },
+    {
+      "start": 287.74,
+      "end": 288.38,
+      "text": "So."
+    },
+    {
+      "start": 288.38,
+      "end": 289.66,
+      "text": "I cannot agree more."
+    },
+    {
+      "start": 289.66,
+      "end": 291.9,
+      "text": "There is definitely so much manual work"
+    },
+    {
+      "start": 291.9,
+      "end": 294.46,
+      "text": "that doesn't need to be done in the same way."
+    },
+    {
+      "start": 294.46,
+      "end": 296.14,
+      "text": "But we are not actually stopping people"
+    },
+    {
+      "start": 296.14,
+      "end": 297.18,
+      "text": "from using Excel."
+    },
+    {
+      "start": 297.18,
+      "end": 299.5,
+      "text": "Still live in what you're familiar."
+    },
+    {
+      "start": 299.5,
+      "end": 302.86,
+      "text": "But now use our app and solve that problem"
+    },
+    {
+      "start": 302.86,
+      "end": 304.62,
+      "text": "because we'll harmonize your data,"
+    },
+    {
+      "start": 304.62,
+      "end": 305.58,
+      "text": "automate those things."
+    },
+    {
+      "start": 305.58,
+      "end": 307.58,
+      "text": "But you're still in control of the output"
+    },
+    {
+      "start": 307.58,
+      "end": 309.98,
+      "text": "and now you can actually talk to this data"
+    },
+    {
+      "start": 309.98,
+      "end": 311.58,
+      "text": "and you can actually create the graph"
+    },
+    {
+      "start": 311.58,
+      "end": 313.34,
+      "text": "and start its own demand."
+    },
+    {
+      "start": 313.34,
+      "end": 314.46,
+      "text": "It's not fixed."
+    },
+    {
+      "start": 314.46,
+      "end": 317.5,
+      "text": "That's another area that I've touched on a little bit is"
+    },
+    {
+      "start": 318.06,
+      "end": 321.02,
+      "text": "snapshots of data is not a report."
+    },
+    {
+      "start": 321.02,
+      "end": 323.58,
+      "text": "There's no insights associated with that."
+    },
+    {
+      "start": 323.58,
+      "end": 326.06,
+      "text": "So you can get insights"
+    },
+    {
+      "start": 326.06,
+      "end": 328.3,
+      "text": "and you can get customer reports"
+    },
+    {
+      "start": 328.3,
+      "end": 329.5,
+      "text": "through these LLMs"
+    },
+    {
+      "start": 329.5,
+      "end": 332.14,
+      "text": "where it can produce a graphic for you"
+    },
+    {
+      "start": 332.14,
+      "end": 334.86,
+      "text": "if you're doing a presentation based on the data."
+    },
+    {
+      "start": 334.86,
+      "end": 336.22,
+      "text": "There's so many applications."
+    },
+    {
+      "start": 336.22,
+      "end": 339.18,
+      "text": "I would love for you to go through some other use cases"
+    },
+    {
+      "start": 339.18,
+      "end": 342.38,
+      "text": "that you all have implemented because there's so many."
+    },
+    {
+      "start": 343.02,
+      "end": 344.22,
+      "text": "I can tell you many stories,"
+    },
+    {
+      "start": 344.22,
+      "end": 347.9,
+      "text": "but one of the really common and valuable"
+    },
+    {
+      "start": 347.9,
+      "end": 350.14,
+      "text": "is there is a lot of internal documentation"
+    },
+    {
+      "start": 350.14,
+      "end": 351.42,
+      "text": "that companies have."
+    },
+    {
+      "start": 351.42,
+      "end": 353.66,
+      "text": "And whether they're SDKs, SOPs,"
+    },
+    {
+      "start": 353.66,
+      "end": 355.5,
+      "text": "all the documentation that internally,"
+    },
+    {
+      "start": 355.5,
+      "end": 356.54,
+      "text": "maybe even externally,"
+    },
+    {
+      "start": 356.54,
+      "end": 358.62,
+      "text": "you need to share with the parties and vendors."
+    },
+    {
+      "start": 359.18,
+      "end": 361.1,
+      "text": "And that is very tedious process"
+    },
+    {
+      "start": 361.1,
+      "end": 363.82,
+      "text": "because there's a lot of textual PDF documents"
+    },
+    {
+      "start": 363.82,
+      "end": 365.98,
+      "text": "and maybe graphs and charts."
+    },
+    {
+      "start": 365.98,
+      "end": 367.58,
+      "text": "And for human to go through that"
+    },
+    {
+      "start": 367.58,
+      "end": 369.74,
+      "text": "and be very efficient in managing that"
+    },
+    {
+      "start": 369.74,
+      "end": 371.9,
+      "text": "and really transferring this data and knowledge,"
+    },
+    {
+      "start": 372.54,
+      "end": 376.3,
+      "text": "chatbots and conversational AI can really be helpful."
+    },
+    {
+      "start": 376.3,
+      "end": 377.82,
+      "text": "So we build those systems"
+    },
+    {
+      "start": 377.82,
+      "end": 380.06,
+      "text": "and we actually lock them down on that data"
+    },
+    {
+      "start": 380.14,
+      "end": 382.38,
+      "text": "alone so it doesn't go to tell you anything"
+    },
+    {
+      "start": 382.38,
+      "end": 384.46,
+      "text": "about Superman or your competition."
+    },
+    {
+      "start": 384.46,
+      "end": 386.38,
+      "text": "It's really going to give you only the answers"
+    },
+    {
+      "start": 386.38,
+      "end": 387.82,
+      "text": "which is relevant to that data."
+    },
+    {
+      "start": 388.62,
+      "end": 390.06,
+      "text": "And before that,"
+    },
+    {
+      "start": 390.06,
+      "end": 392.06,
+      "text": "this was still happening with machine learning,"
+    },
+    {
+      "start": 392.06,
+      "end": 394.38,
+      "text": "but it was a very slow process."
+    },
+    {
+      "start": 394.38,
+      "end": 397.1,
+      "text": "And there was a lot of data labeling that happened."
+    },
+    {
+      "start": 397.1,
+      "end": 399.98,
+      "text": "And for sales and marketing people,"
+    },
+    {
+      "start": 399.98,
+      "end": 402.62,
+      "text": "data labeling wasn't like the most fun."
+    },
+    {
+      "start": 402.62,
+      "end": 405.66,
+      "text": "And so it slowed down the excitement"
+    },
+    {
+      "start": 405.66,
+      "end": 408.38,
+      "text": "now that you can take structured and unstructured data."
+    },
+    {
+      "start": 408.46,
+      "end": 410.22,
+      "text": "And again, the better labeled it is,"
+    },
+    {
+      "start": 410.22,
+      "end": 413.9,
+      "text": "the more trust that the LLMs know what's what is helpful."
+    },
+    {
+      "start": 413.9,
+      "end": 416.78,
+      "text": "We were even talking about the identity issues"
+    },
+    {
+      "start": 416.78,
+      "end": 420.78,
+      "text": "that like LLM visibility is what EWR is solving for"
+    },
+    {
+      "start": 420.78,
+      "end": 425.1,
+      "text": "to show up and chat GBT to understand your entity"
+    },
+    {
+      "start": 425.1,
+      "end": 427.02,
+      "text": "might be different from somebody else,"
+    },
+    {
+      "start": 427.02,
+      "end": 429.1,
+      "text": "how those differences take effect"
+    },
+    {
+      "start": 429.1,
+      "end": 430.78,
+      "text": "and feed that into the LLMs"
+    },
+    {
+      "start": 430.78,
+      "end": 433.82,
+      "text": "based upon the transactional selection, right?"
+    },
+    {
+      "start": 433.82,
+      "end": 436.86,
+      "text": "There's a lot of times ways to surface information"
+    },
+    {
+      "start": 436.86,
+      "end": 439.58,
+      "text": "and sales and marketing and reach out to people,"
+    },
+    {
+      "start": 439.58,
+      "end": 442.46,
+      "text": "but you really want to have it tight"
+    },
+    {
+      "start": 442.46,
+      "end": 445.18,
+      "text": "in your messaging and your brand positioning"
+    },
+    {
+      "start": 445.82,
+      "end": 447.1,
+      "text": "when someone's looking to buy"
+    },
+    {
+      "start": 447.1,
+      "end": 450.78,
+      "text": "and you're in that selection process versus another vendor."
+    },
+    {
+      "start": 450.78,
+      "end": 451.82,
+      "text": "Yeah, absolutely."
+    },
+    {
+      "start": 451.82,
+      "end": 455.98,
+      "text": "And we don't stay only in the Excel or any spreadsheets format."
+    },
+    {
+      "start": 455.98,
+      "end": 458.06,
+      "text": "We really ingest all the other data as well,"
+    },
+    {
+      "start": 458.06,
+      "end": 460.78,
+      "text": "which is a context like exactly what you said"
+    },
+    {
+      "start": 460.78,
+      "end": 462.14,
+      "text": "needs to be contextualized"
+    },
+    {
+      "start": 462.14,
+      "end": 464.62,
+      "text": "so the LLMs can really give you the answer"
+    },
+    {
+      "start": 464.62,
+      "end": 467.74,
+      "text": "that's irrelevant to you and the data you have."
+    },
+    {
+      "start": 467.74,
+      "end": 469.9,
+      "text": "And what you were talking about is developing"
+    },
+    {
+      "start": 469.9,
+      "end": 471.58,
+      "text": "maybe like a custom GPT"
+    },
+    {
+      "start": 471.58,
+      "end": 475.1,
+      "text": "or you were tuning like one of the foundational LLMs"
+    },
+    {
+      "start": 475.1,
+      "end": 477.58,
+      "text": "and then you're building workflows"
+    },
+    {
+      "start": 477.58,
+      "end": 480.78,
+      "text": "and you're providing data governance around that"
+    },
+    {
+      "start": 480.78,
+      "end": 482.78,
+      "text": "as well as segregating that data"
+    },
+    {
+      "start": 482.78,
+      "end": 484.7,
+      "text": "because I think the biggest issue is well,"
+    },
+    {
+      "start": 484.7,
+      "end": 488.62,
+      "text": "security and confidence of proprietary data externally"
+    },
+    {
+      "start": 488.62,
+      "end": 489.9,
+      "text": "and internally."
+    },
+    {
+      "start": 489.9,
+      "end": 492.7,
+      "text": "Could you go into more details on how you solve that"
+    },
+    {
+      "start": 492.7,
+      "end": 495.66,
+      "text": "without maybe giving away the recipes that you use?"
+    },
+    {
+      "start": 496.7,
+      "end": 500.14,
+      "text": "Can I, in broader terms, we follow from day one"
+    },
+    {
+      "start": 500.14,
+      "end": 502.54,
+      "text": "this decided to actually be SOC2."
+    },
+    {
+      "start": 502.54,
+      "end": 504.86,
+      "text": "So we're using all the government's principles"
+    },
+    {
+      "start": 504.86,
+      "end": 507.34,
+      "text": "what requires for the SOC2."
+    },
+    {
+      "start": 507.34,
+      "end": 510.3,
+      "text": "But also we make sure that any data that is sensitive"
+    },
+    {
+      "start": 510.3,
+      "end": 512.06,
+      "text": "is actually mask or eliminated"
+    },
+    {
+      "start": 512.06,
+      "end": 514.38,
+      "text": "before we untouch is going to LLMs."
+    },
+    {
+      "start": 514.38,
+      "end": 516.06,
+      "text": "So you are in charge as a user"
+    },
+    {
+      "start": 516.06,
+      "end": 518.62,
+      "text": "to make sure that doesn't go any further."
+    },
+    {
+      "start": 518.62,
+      "end": 522.22,
+      "text": "And then whatever you need to have governed,"
+    },
+    {
+      "start": 522.22,
+      "end": 524.3,
+      "text": "we also work with you on your end, you know,"
+    },
+    {
+      "start": 524.3,
+      "end": 526.78,
+      "text": "what your team understands, how needs to be divided."
+    },
+    {
+      "start": 526.78,
+      "end": 528.62,
+      "text": "It's a role-based login."
+    },
+    {
+      "start": 528.62,
+      "end": 530.78,
+      "text": "So we keep everything in the line"
+    },
+    {
+      "start": 530.78,
+      "end": 532.94,
+      "text": "your expectation for the company is."
+    },
+    {
+      "start": 532.94,
+      "end": 535.5,
+      "text": "I think that's probably one of the most important things"
+    },
+    {
+      "start": 535.5,
+      "end": 537.5,
+      "text": "is figuring out how to map it."
+    },
+    {
+      "start": 537.5,
+      "end": 539.82,
+      "text": "A lot of people just want to jump in"
+    },
+    {
+      "start": 539.82,
+      "end": 541.18,
+      "text": "the analogy of building a house."
+    },
+    {
+      "start": 541.18,
+      "end": 542.78,
+      "text": "People want to jump in to build a house."
+    },
+    {
+      "start": 542.78,
+      "end": 544.3,
+      "text": "You might want to have an architect."
+    },
+    {
+      "start": 545.42,
+      "end": 548.06,
+      "text": "You might want to have blueprints of what you're going to build."
+    },
+    {
+      "start": 548.78,
+      "end": 551.42,
+      "text": "And I think that one of the things also"
+    },
+    {
+      "start": 551.98,
+      "end": 553.18,
+      "text": "even building a house,"
+    },
+    {
+      "start": 553.18,
+      "end": 555.66,
+      "text": "there's a lot of opportunity for AI and construction."
+    },
+    {
+      "start": 555.66,
+      "end": 557.34,
+      "text": "But scheduling, okay?"
+    },
+    {
+      "start": 557.34,
+      "end": 559.74,
+      "text": "Understanding what needs to happen when."
+    },
+    {
+      "start": 559.74,
+      "end": 560.22,
+      "text": "Correct."
+    },
+    {
+      "start": 560.22,
+      "end": 563.26,
+      "text": "Because for you to do things correctly"
+    },
+    {
+      "start": 563.26,
+      "end": 566.86,
+      "text": "and also not have employees circumvent"
+    },
+    {
+      "start": 566.86,
+      "end": 569.5,
+      "text": "what you're doing and using these kind of open source"
+    },
+    {
+      "start": 569.5,
+      "end": 571.82,
+      "text": "and there's poorer stories around that,"
+    },
+    {
+      "start": 572.38,
+      "end": 574.38,
+      "text": "you need to get your governance in place."
+    },
+    {
+      "start": 574.38,
+      "end": 575.98,
+      "text": "You need to provide training,"
+    },
+    {
+      "start": 575.98,
+      "end": 578.06,
+      "text": "not just top down but bottom up."
+    },
+    {
+      "start": 578.06,
+      "end": 580.46,
+      "text": "There should be champions for some of this stuff."
+    },
+    {
+      "start": 580.54,
+      "end": 583.9,
+      "text": "And you got to really take the time to get it mapped out"
+    },
+    {
+      "start": 583.9,
+      "end": 586.94,
+      "text": "because once it's all plugged in properly,"
+    },
+    {
+      "start": 587.5,
+      "end": 589.26,
+      "text": "it's a supercharged environment."
+    },
+    {
+      "start": 589.26,
+      "end": 592.38,
+      "text": "But if you're not getting the foundation down"
+    },
+    {
+      "start": 592.38,
+      "end": 594.06,
+      "text": "and not getting the basics down,"
+    },
+    {
+      "start": 594.62,
+      "end": 596.38,
+      "text": "you're flying by the seat of your pants."
+    },
+    {
+      "start": 596.38,
+      "end": 597.74,
+      "text": "You don't know what you don't know."
+    },
+    {
+      "start": 597.74,
+      "end": 599.82,
+      "text": "And that's when all these problems come out, come down."
+    },
+    {
+      "start": 599.82,
+      "end": 601.58,
+      "text": "Yeah, I can agree with you more."
+    },
+    {
+      "start": 601.58,
+      "end": 604.3,
+      "text": "And that is one of the things also we approach"
+    },
+    {
+      "start": 604.3,
+      "end": 605.9,
+      "text": "when we work with a company."
+    },
+    {
+      "start": 605.9,
+      "end": 609.1,
+      "text": "We have a kind of 30, 60, 90 day success plan"
+    },
+    {
+      "start": 609.1,
+      "end": 612.06,
+      "text": "because we can deliver results in the first quarter,"
+    },
+    {
+      "start": 612.06,
+      "end": 614.54,
+      "text": "but we really want to solid foundation"
+    },
+    {
+      "start": 614.54,
+      "end": 616.54,
+      "text": "to understand the company maturity,"
+    },
+    {
+      "start": 616.54,
+      "end": 618.7,
+      "text": "that there is a team, there are ambassadors."
+    },
+    {
+      "start": 618.7,
+      "end": 621.34,
+      "text": "There is actually governance they have for the data"
+    },
+    {
+      "start": 621.34,
+      "end": 625.74,
+      "text": "and then it will be helpful for us to execute as well"
+    },
+    {
+      "start": 625.74,
+      "end": 628.78,
+      "text": "and have tool deliver what they need exactly."
+    },
+    {
+      "start": 628.78,
+      "end": 631.9,
+      "text": "And from a language standpoint or a vocabulary standpoint,"
+    },
+    {
+      "start": 631.9,
+      "end": 634.3,
+      "text": "I've been talking about like a data layer,"
+    },
+    {
+      "start": 634.3,
+      "end": 637.02,
+      "text": "like businesses need some kind of data layer"
+    },
+    {
+      "start": 637.02,
+      "end": 638.94,
+      "text": "where AI is integrated into it."
+    },
+    {
+      "start": 638.94,
+      "end": 641.66,
+      "text": "It's certainly people are using it again fragmentedly"
+    },
+    {
+      "start": 641.66,
+      "end": 644.38,
+      "text": "to enhance certain things, which is super helpful."
+    },
+    {
+      "start": 644.38,
+      "end": 646.3,
+      "text": "But when you build it into the workflow,"
+    },
+    {
+      "start": 646.3,
+      "end": 647.66,
+      "text": "is really that next step."
+    },
+    {
+      "start": 648.22,
+      "end": 650.14,
+      "text": "What is the vocabulary or language around that?"
+    },
+    {
+      "start": 650.14,
+      "end": 653.18,
+      "text": "So I'm speaking properly when it relates to this."
+    },
+    {
+      "start": 653.82,
+      "end": 657.1,
+      "text": "So the idea is companies should develop a data layer,"
+    },
+    {
+      "start": 657.1,
+      "end": 659.9,
+      "text": "which can be sometimes very tedious and hard"
+    },
+    {
+      "start": 659.9,
+      "end": 661.58,
+      "text": "for small companies."
+    },
+    {
+      "start": 661.58,
+      "end": 664.46,
+      "text": "So we start sometimes just for that workflow layer."
+    },
+    {
+      "start": 664.54,
+      "end": 668.94,
+      "text": "So let's figure out and ingest that first without integration."
+    },
+    {
+      "start": 668.94,
+      "end": 671.34,
+      "text": "Yes, to scale it across the company,"
+    },
+    {
+      "start": 671.34,
+      "end": 673.66,
+      "text": "ideally you want to integrate in different system,"
+    },
+    {
+      "start": 673.66,
+      "end": 676.22,
+      "text": "pull this data and have your data lake"
+    },
+    {
+      "start": 676.22,
+      "end": 678.54,
+      "text": "and continuously maintain and clean that."
+    },
+    {
+      "start": 678.54,
+      "end": 680.06,
+      "text": "We can provide some of that service,"
+    },
+    {
+      "start": 680.06,
+      "end": 683.1,
+      "text": "but this is also a ground foundational groundwork"
+    },
+    {
+      "start": 683.1,
+      "end": 685.9,
+      "text": "for the company to have a long-term vision as well."
+    },
+    {
+      "start": 685.9,
+      "end": 687.98,
+      "text": "So we work hand in hand with companies"
+    },
+    {
+      "start": 687.98,
+      "end": 691.02,
+      "text": "who develop infrastructure support and data lakes"
+    },
+    {
+      "start": 691.02,
+      "end": 693.18,
+      "text": "as much as we are on the application side,"
+    },
+    {
+      "start": 693.18,
+      "end": 694.46,
+      "text": "solving the business problems"
+    },
+    {
+      "start": 694.46,
+      "end": 698.14,
+      "text": "and really create efficiencies and cost savings."
+    },
+    {
+      "start": 698.14,
+      "end": 700.7,
+      "text": "I've actually mentioned this, I believe on this podcast."
+    },
+    {
+      "start": 700.7,
+      "end": 703.5,
+      "text": "I sat down with a VP of innovation"
+    },
+    {
+      "start": 704.06,
+      "end": 706.38,
+      "text": "and they had data lakes, they had data,"
+    },
+    {
+      "start": 707.02,
+      "end": 709.9,
+      "text": "but they were missing that piece of understanding"
+    },
+    {
+      "start": 709.9,
+      "end": 712.3,
+      "text": "the LLMs of the applications."
+    },
+    {
+      "start": 712.3,
+      "end": 717.74,
+      "text": "And he was like, I'm not sure what found any use cases for AI."
+    },
+    {
+      "start": 717.74,
+      "end": 720.62,
+      "text": "And we've invested a lot in all this data"
+    },
+    {
+      "start": 720.62,
+      "end": 721.34,
+      "text": "and we've queened it up."
+    },
+    {
+      "start": 721.34,
+      "end": 725.5,
+      "text": "And I said, let me tell you, let's add this last piece"
+    },
+    {
+      "start": 725.5,
+      "end": 728.14,
+      "text": "and that's what you do is you add that last piece."
+    },
+    {
+      "start": 728.14,
+      "end": 730.38,
+      "text": "So if you're out there and you have a lot of data"
+    },
+    {
+      "start": 730.38,
+      "end": 732.3,
+      "text": "and you're not sure what to do with it,"
+    },
+    {
+      "start": 732.3,
+      "end": 733.82,
+      "text": "LLMs are now on the scene"
+    },
+    {
+      "start": 733.82,
+      "end": 736.06,
+      "text": "and you can do a lot with it quickly"
+    },
+    {
+      "start": 736.06,
+      "end": 739.5,
+      "text": "and you can even start to add in unstructured data to that"
+    },
+    {
+      "start": 739.5,
+      "end": 742.14,
+      "text": "and blend it and get some phenomenal results."
+    },
+    {
+      "start": 742.14,
+      "end": 745.26,
+      "text": "And every company has so much data,"
+    },
+    {
+      "start": 745.26,
+      "end": 748.3,
+      "text": "they're just not, some are utilizing it and some are not."
+    },
+    {
+      "start": 749.1,
+      "end": 751.9,
+      "text": "Developing use cases, I think it's one of the key components"
+    },
+    {
+      "start": 751.9,
+      "end": 754.54,
+      "text": "because not every use case need to be developed"
+    },
+    {
+      "start": 754.54,
+      "end": 756.22,
+      "text": "and then need to be some priority."
+    },
+    {
+      "start": 756.22,
+      "end": 757.74,
+      "text": "And I think that is the conversation"
+    },
+    {
+      "start": 757.74,
+      "end": 761.42,
+      "text": "that a lot of times in the news, oh, the fail AI."
+    },
+    {
+      "start": 761.42,
+      "end": 762.54,
+      "text": "And I've seen that, yeah."
+    },
+    {
+      "start": 762.54,
+      "end": 764.14,
+      "text": "I don't know where that's coming from."
+    },
+    {
+      "start": 764.14,
+      "end": 766.46,
+      "text": "I'm a believer it's really not so much technology"
+    },
+    {
+      "start": 766.46,
+      "end": 767.34,
+      "text": "that is failing."
+    },
+    {
+      "start": 767.34,
+      "end": 769.1,
+      "text": "It is really how it's implemented."
+    },
+    {
+      "start": 769.1,
+      "end": 772.94,
+      "text": "What use cases have been selected to really get to ROI?"
+    },
+    {
+      "start": 772.94,
+      "end": 775.18,
+      "text": "Because not every use case in every company"
+    },
+    {
+      "start": 775.18,
+      "end": 777.82,
+      "text": "can generate that in a very quick turnaround."
+    },
+    {
+      "start": 779.18,
+      "end": 780.54,
+      "text": "And in some of that research,"
+    },
+    {
+      "start": 780.54,
+      "end": 782.46,
+      "text": "I think this happened with the internet too."
+    },
+    {
+      "start": 782.46,
+      "end": 784.3,
+      "text": "When the internet was adopted,"
+    },
+    {
+      "start": 784.3,
+      "end": 786.46,
+      "text": "companies couldn't see it in their bottom line"
+    },
+    {
+      "start": 786.46,
+      "end": 789.26,
+      "text": "or they didn't have metrics to track it."
+    },
+    {
+      "start": 789.26,
+      "end": 791.5,
+      "text": "And then in the next five or 10 years,"
+    },
+    {
+      "start": 791.5,
+      "end": 795.58,
+      "text": "that's when you saw that real investment in growth."
+    },
+    {
+      "start": 795.58,
+      "end": 800.54,
+      "text": "I would love for you to maybe go through some major use cases"
+    },
+    {
+      "start": 800.54,
+      "end": 802.7,
+      "text": "so people can latch on to say,"
+    },
+    {
+      "start": 802.7,
+      "end": 804.7,
+      "text": "hey, that could be a problem for me."
+    },
+    {
+      "start": 804.7,
+      "end": 806.46,
+      "text": "That could help because I think"
+    },
+    {
+      "start": 806.46,
+      "end": 809.82,
+      "text": "we just need to get people thinking in terms of AI first."
+    },
+    {
+      "start": 809.82,
+      "end": 812.62,
+      "text": "And I think once you put those AI first glasses on,"
+    },
+    {
+      "start": 813.42,
+      "end": 815.98,
+      "text": "now you can look around and see all kinds of use cases."
+    },
+    {
+      "start": 816.62,
+      "end": 818.54,
+      "text": "One of the use cases which was really,"
+    },
+    {
+      "start": 818.54,
+      "end": 821.98,
+      "text": "I think for us is one of the focus areas"
+    },
+    {
+      "start": 821.98,
+      "end": 824.3,
+      "text": "in companies which have a lot of assets"
+    },
+    {
+      "start": 824.3,
+      "end": 826.46,
+      "text": "and they need to manage this relationship"
+    },
+    {
+      "start": 826.46,
+      "end": 827.9,
+      "text": "on the covenants and those assets"
+    },
+    {
+      "start": 827.9,
+      "end": 830.3,
+      "text": "with their financial providers, banks."
+    },
+    {
+      "start": 830.3,
+      "end": 832.7,
+      "text": "Sometimes that's reporting is still a very manual."
+    },
+    {
+      "start": 832.7,
+      "end": 835.1,
+      "text": "And you're collating data from different departments,"
+    },
+    {
+      "start": 835.18,
+      "end": 836.7,
+      "text": "putting in Excel spreadsheets,"
+    },
+    {
+      "start": 836.7,
+      "end": 839.42,
+      "text": "analyzing and then sending reports to the bank."
+    },
+    {
+      "start": 839.42,
+      "end": 840.62,
+      "text": "There is lots of errors."
+    },
+    {
+      "start": 840.62,
+      "end": 843.82,
+      "text": "There is probably stale information in those reports."
+    },
+    {
+      "start": 843.82,
+      "end": 846.06,
+      "text": "And your forecasting financial planning"
+    },
+    {
+      "start": 846.06,
+      "end": 849.1,
+      "text": "is becoming really erroneous."
+    },
+    {
+      "start": 849.1,
+      "end": 852.22,
+      "text": "And you could be missing some serious numbers,"
+    },
+    {
+      "start": 852.22,
+      "end": 854.14,
+      "text": "especially if you have a large assets"
+    },
+    {
+      "start": 854.14,
+      "end": 857.34,
+      "text": "and you have a risk against those loans."
+    },
+    {
+      "start": 857.34,
+      "end": 858.94,
+      "text": "That is really a risky business."
+    },
+    {
+      "start": 858.94,
+      "end": 860.22,
+      "text": "And to grow the business,"
+    },
+    {
+      "start": 860.22,
+      "end": 863.1,
+      "text": "you need to have fast numbers and accurate numbers."
+    },
+    {
+      "start": 863.1,
+      "end": 865.02,
+      "text": "And that's what we are helping with,"
+    },
+    {
+      "start": 865.02,
+      "end": 866.94,
+      "text": "to have that clear picture."
+    },
+    {
+      "start": 866.94,
+      "end": 869.26,
+      "text": "And I think the technology enables that."
+    },
+    {
+      "start": 869.82,
+      "end": 870.7,
+      "text": "Yeah, awesome."
+    },
+    {
+      "start": 871.26,
+      "end": 873.74,
+      "text": "Ariana, one of the things that we ask"
+    },
+    {
+      "start": 873.74,
+      "end": 876.06,
+      "text": "as we're getting to wrapping up the show,"
+    },
+    {
+      "start": 876.06,
+      "end": 879.18,
+      "text": "is there a LinkedIn tip or fail of the week"
+    },
+    {
+      "start": 879.82,
+      "end": 882.94,
+      "text": "that you, something that in LinkedIn,"
+    },
+    {
+      "start": 882.94,
+      "end": 886.54,
+      "text": "someone's done really well that like you remembered"
+    },
+    {
+      "start": 886.54,
+      "end": 888.38,
+      "text": "or something that someone's done that you're like,"
+    },
+    {
+      "start": 888.38,
+      "end": 890.62,
+      "text": "ooh, I don't think that was very good."
+    },
+    {
+      "start": 890.62,
+      "end": 893.82,
+      "text": "And a lot of these things tie back to AI."
+    },
+    {
+      "start": 893.82,
+      "end": 897.34,
+      "text": "I'm seeing a lot of outreach happening with AI,"
+    },
+    {
+      "start": 897.34,
+      "end": 899.42,
+      "text": "which actually is against the terms,"
+    },
+    {
+      "start": 899.42,
+      "end": 901.9,
+      "text": "terms of service of LinkedIn for all of you"
+    },
+    {
+      "start": 901.9,
+      "end": 904.46,
+      "text": "that may be doing this en masse."
+    },
+    {
+      "start": 904.46,
+      "end": 905.74,
+      "text": "Not as much in oil and gas"
+    },
+    {
+      "start": 905.74,
+      "end": 908.22,
+      "text": "because there's a very targeted focus"
+    },
+    {
+      "start": 908.22,
+      "end": 910.86,
+      "text": "of people that can uptake your offering."
+    },
+    {
+      "start": 911.42,
+      "end": 914.06,
+      "text": "But I see on LinkedIn, it's very noisy."
+    },
+    {
+      "start": 914.06,
+      "end": 915.02,
+      "text": "They've started to,"
+    },
+    {
+      "start": 915.02,
+      "end": 917.58,
+      "text": "start to limit the number of requests that you can make."
+    },
+    {
+      "start": 918.22,
+      "end": 921.5,
+      "text": "But I see a lot of automation trying to be personalized"
+    },
+    {
+      "start": 921.5,
+      "end": 923.02,
+      "text": "or being used wrong."
+    },
+    {
+      "start": 923.02,
+      "end": 924.7,
+      "text": "I didn't know if you've seen somebody"
+    },
+    {
+      "start": 924.7,
+      "end": 926.22,
+      "text": "doing something really good"
+    },
+    {
+      "start": 926.22,
+      "end": 928.22,
+      "text": "or you've seen somebody doing something"
+    },
+    {
+      "start": 928.22,
+      "end": 929.82,
+      "text": "that you're like, I'm not sure about."
+    },
+    {
+      "start": 929.82,
+      "end": 931.1,
+      "text": "So I can tell you both."
+    },
+    {
+      "start": 931.1,
+      "end": 932.7,
+      "text": "The really good is unfortunately,"
+    },
+    {
+      "start": 932.7,
+      "end": 934.7,
+      "text": "you have to invest your personal time."
+    },
+    {
+      "start": 934.7,
+      "end": 938.86,
+      "text": "Even if you're a CEO or somebody who is in CEO level,"
+    },
+    {
+      "start": 938.86,
+      "end": 941.1,
+      "text": "you need to have that personal presence."
+    },
+    {
+      "start": 941.1,
+      "end": 943.26,
+      "text": "Maybe not every day if you don't have time,"
+    },
+    {
+      "start": 943.26,
+      "end": 944.86,
+      "text": "but at least once, twice a week."
+    },
+    {
+      "start": 945.42,
+      "end": 947.66,
+      "text": "Comments, you know, more and more."
+    },
+    {
+      "start": 947.66,
+      "end": 949.26,
+      "text": "You need to have a spokesperson."
+    },
+    {
+      "start": 949.26,
+      "end": 951.98,
+      "text": "And usually it's the CEO for the brand."
+    },
+    {
+      "start": 951.98,
+      "end": 953.42,
+      "text": "It needs to be a public figure"
+    },
+    {
+      "start": 953.42,
+      "end": 954.62,
+      "text": "and needs to be out there."
+    },
+    {
+      "start": 954.62,
+      "end": 956.22,
+      "text": "That's what a lot of people are requesting."
+    },
+    {
+      "start": 956.22,
+      "end": 958.46,
+      "text": "I've written some books on Build Your Grand Mania"
+    },
+    {
+      "start": 958.46,
+      "end": 959.98,
+      "text": "and No Light Trust."
+    },
+    {
+      "start": 959.98,
+      "end": 964.78,
+      "text": "And these are things that were nice to have in the past,"
+    },
+    {
+      "start": 964.78,
+      "end": 967.58,
+      "text": "but they're a need to have today"
+    },
+    {
+      "start": 967.58,
+      "end": 970.7,
+      "text": "because there's a level of trust of acceptance."
+    },
+    {
+      "start": 970.7,
+      "end": 973.1,
+      "text": "And they want to know who's leading this company"
+    },
+    {
+      "start": 973.1,
+      "end": 974.46,
+      "text": "and what do they believe?"
+    },
+    {
+      "start": 974.46,
+      "end": 975.5,
+      "text": "And what about them?"
+    },
+    {
+      "start": 975.5,
+      "end": 976.46,
+      "text": "What are they thinking?"
+    },
+    {
+      "start": 976.46,
+      "end": 977.66,
+      "text": "All that sort of thing."
+    },
+    {
+      "start": 977.66,
+      "end": 979.58,
+      "text": "And the bad side is this automation"
+    },
+    {
+      "start": 979.58,
+      "end": 982.78,
+      "text": "that they also get a lot of DMs and they're just so generic"
+    },
+    {
+      "start": 982.78,
+      "end": 984.46,
+      "text": "or they're completely missed about, you know,"
+    },
+    {
+      "start": 984.46,
+      "end": 987.26,
+      "text": "what a person actually me in doing."
+    },
+    {
+      "start": 987.26,
+      "end": 989.66,
+      "text": "And they're offering something that's completely relevant."
+    },
+    {
+      "start": 989.66,
+      "end": 991.18,
+      "text": "And it's really disturbing"
+    },
+    {
+      "start": 991.18,
+      "end": 993.74,
+      "text": "because I am very much present in LinkedIn."
+    },
+    {
+      "start": 993.74,
+      "end": 996.38,
+      "text": "I see that as a tool, like you said, as a CEO"
+    },
+    {
+      "start": 996.38,
+      "end": 999.18,
+      "text": "to be present, representing brand, my company,"
+    },
+    {
+      "start": 999.18,
+      "end": 1000.46,
+      "text": "and what we stand for."
+    },
+    {
+      "start": 1000.46,
+      "end": 1001.98,
+      "text": "But it is really noisy"
+    },
+    {
+      "start": 1001.98,
+      "end": 1003.5,
+      "text": "and it's hard to read all of that."
+    },
+    {
+      "start": 1004.3,
+      "end": 1006.62,
+      "text": "Awesome. Adriana, is there anything else"
+    },
+    {
+      "start": 1006.62,
+      "end": 1009.18,
+      "text": "that we didn't cover that you wanted to make sure"
+    },
+    {
+      "start": 1009.18,
+      "end": 1010.46,
+      "text": "to mention to the audience,"
+    },
+    {
+      "start": 1010.46,
+      "end": 1012.14,
+      "text": "as well as how to get in touch with you"
+    },
+    {
+      "start": 1012.14,
+      "end": 1014.38,
+      "text": "and maybe follow you on LinkedIn?"
+    },
+    {
+      "start": 1014.38,
+      "end": 1015.34,
+      "text": "Yes, absolutely."
+    },
+    {
+      "start": 1015.34,
+      "end": 1017.1,
+      "text": "Please follow me on LinkedIn."
+    },
+    {
+      "start": 1017.1,
+      "end": 1020.06,
+      "text": "Ariana Smetana, probably easy to find."
+    },
+    {
+      "start": 1020.06,
+      "end": 1024.38,
+      "text": "And you can find me also on the website, company, brand name."
+    },
+    {
+      "start": 1024.38,
+      "end": 1027.1,
+      "text": "It's called Excel IQ Digital,"
+    },
+    {
+      "start": 1027.1,
+      "end": 1029.5,
+      "text": "the product we are launching and working on."
+    },
+    {
+      "start": 1029.5,
+      "end": 1033.34,
+      "text": "It's Excel Insight because we want to provide insight"
+    },
+    {
+      "start": 1033.34,
+      "end": 1035.26,
+      "text": "to every company on demand."
+    },
+    {
+      "start": 1035.26,
+      "end": 1036.54,
+      "text": "I love it. I love it."
+    },
+    {
+      "start": 1036.54,
+      "end": 1038.22,
+      "text": "Thank you so much for coming on the show."
+    },
+    {
+      "start": 1038.22,
+      "end": 1039.26,
+      "text": "Thank you, Matt. Pleasure."
+    },
+    {
+      "start": 1039.82,
+      "end": 1042.78,
+      "text": "Everyone remember, make a difference, not a sale."
+    },
+    {
+      "start": 1059.5,
+      "end": 1062.3,
+      "text": "The show has been a production of the Oil and Gas Global Network."
+    }
+  ]
+}

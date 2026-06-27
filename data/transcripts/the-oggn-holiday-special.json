@@ -1,0 +1,555 @@
+{
+  "slug": "the-oggn-holiday-special",
+  "title": "The OGGN Holiday Special",
+  "episode": "36",
+  "audio": "https://media.blubrry.com/oil_and_gas_this_week/media.blubrry.com/oilandgassalesandmarketing/ins.blubrry.com/oilandgassalesandmarketing/ogsm036.mp3",
+  "duration": 408.4,
+  "text": "Welcome to the Oil and Gas Sales and Marketing podcast, where every week your hosts, Mark LaCour and Matt Bertram share proven strategies and real-world tactics to help you connect with customers and close more deals. Let's do this. Hey, everybody. Welcome back to the OGDN Holiday Special. We know our listeners look forward to this like crazy. It's probably the high point of your entire year. So I want to start with what do the holidays mean to each one of us? To me, personally, the holidays mean generosity and family. Matt Bertram, what the holidays mean to you? Well, it's the birth of Christ for sure. And then time with family and friends. Absolutely. Yeah. Russell Stewart. Well, when I think of Christmas, I'm afraid my thoughts wouldn't be considered very politically correct today. So I might best keep them to myself. Nope. This is not a politically correct organization. I'm just going to say that Christmas is no longer about the past or the future. It's all about the present. I love that. And the best. And you know what the best Christmas present is? What? A broken drum. You can't beat it. But to George Driscoll. Christmas is a period of roughly 48 hours that nobody bothers me from work. And boy, that's near and dear to my heart. Paige Wilson, what does holidays mean to you? Jesus and Tucker. Love it. Warren. Yes. The whole holiday season for me is a big deal. I think it's a reminder for all of us to kind of balance our family life and what we do, you know, with the people we care about the most, taking that time off and really focusing on not just the, you know, the grist smell that we're usually in with work and it's everything's fast-paced, but just a reminder to take some time and be with the people we all love the most. Delfina, what do the holidays mean to you? The holidays for me are about the children. It starts with the child Jesus being brought into this world, our Savior, and beyond us remembering what this holiday is supposed to be all about, it is about bringing joy to the children that we have brought in this world and making sure that their lives are as wonderful as we can make them. I love that. Come all. What does the holidays mean? Holidays, to me, means friends and families and everything bright and sweet and the time that we spend with each other and the memories that we make. Love it. Joe. Holidays for me mean eggnog, extra cooking, happy birthday, Jesus, and getting dolled up, getting to wear fine clothes that you only get to wear once or twice a year. Mr. Duff, what do the holidays mean to you? Family for me. I'm getting the people that travel from around the globe coming together and then thinking about the people that are gone that are not longer here and some good memories as a child and also great-grandparents, etc. Yeah, so time away from work, a bit like Jordan, no one touches you, but a lot more family time, rest, be thankful, and then think about the ones that we've lost. And Audrey, not least, but last. Well, I'm Jewish, so Christmas means nothing to me. I guess Chinese food and gone in movies, man. Perfect. All right, so we're now going to serrate you audience while Jordan reads poetry, which will probably be the first and most likely last time you've heard they're going to read poetry. Right, let's read the jingle bell thing. To us the night before Christmas and all the studio mics were ready for business. The headphones were set by the Mixers with Care and hopes that some listeners would soon be there. The podcast hosts were nestled all snug in their chairs while visions of viral episodes danced in their heads. I had my mic warmed up for a holiday theme and hoped I could set a festive podcasting theme. When out of the channels arose such a clatter, I turned up the sound to hear what was the matter. Tune to the frequency I heard a jolly laugh. Was good old St. Nick come to join on our behalf? He had a voice perfect for radio fame and cheerfully called out each podcaster by name. Now Paige, now Joe, now Jordan and Russell. There's a reason you're the best so you'd better hustle. To top off iTunes ranks higher we fly with professional hosts and downloads head for the sky. So up the stairs St. Nicky flew with a slayful of toys and proud podcasters too. And I heard him exclaim as he drove out of sight, Merry Christmas to all and keep your mics bright. This is great. Great job Jordan. Hey team, real quick. I have bought all of us a trip to go on a rig tour. Y'all don't know about this, you now know about it. So the entire team is going to tour a rig. We'll work out the details later but that is my Christmas present to you is let's get on a rig and look at some dirty steel drill and punch of holes in the ground in the new year. It's going to be a blast. All right, for all our listeners thank you so much for listening to our podcast without you. It would just be a bunch of weird people sitting here talking to themselves. We appreciate each and every one of you. Merry Christmas, Happy New Year. Happy holidays. Merry Christmas, Merry Christmas, Happy New Year. Happy Holidays. This is everybody. I'm late.",
+  "segments": [
+    {
+      "start": 5.2,
+      "end": 9.2,
+      "text": "Welcome to the Oil and Gas Sales and Marketing podcast,"
+    },
+    {
+      "start": 9.2,
+      "end": 13.0,
+      "text": "where every week your hosts, Mark LaCour and Matt Bertram"
+    },
+    {
+      "start": 13.0,
+      "end": 16.0,
+      "text": "share proven strategies and real-world tactics"
+    },
+    {
+      "start": 16.0,
+      "end": 19.8,
+      "text": "to help you connect with customers and close more deals."
+    },
+    {
+      "start": 19.8,
+      "end": 25.75,
+      "text": "Let's do this."
+    },
+    {
+      "start": 25.75,
+      "end": 28.75,
+      "text": "Hey, everybody. Welcome back to the OGDN Holiday Special."
+    },
+    {
+      "start": 28.75,
+      "end": 31.55,
+      "text": "We know our listeners look forward to this like crazy."
+    },
+    {
+      "start": 31.55,
+      "end": 34.55,
+      "text": "It's probably the high point of your entire year."
+    },
+    {
+      "start": 34.55,
+      "end": 38.75,
+      "text": "So I want to start with what do the holidays mean to each one of us?"
+    },
+    {
+      "start": 38.75,
+      "end": 42.75,
+      "text": "To me, personally, the holidays mean generosity and family."
+    },
+    {
+      "start": 42.75,
+      "end": 45.35,
+      "text": "Matt Bertram, what the holidays mean to you?"
+    },
+    {
+      "start": 45.35,
+      "end": 47.35,
+      "text": "Well, it's the birth of Christ for sure."
+    },
+    {
+      "start": 47.35,
+      "end": 50.95,
+      "text": "And then time with family and friends. Absolutely."
+    },
+    {
+      "start": 50.95,
+      "end": 54.15,
+      "text": "Yeah. Russell Stewart."
+    },
+    {
+      "start": 54.15,
+      "end": 58.95,
+      "text": "Well, when I think of Christmas, I'm afraid my thoughts wouldn't be considered very politically correct today."
+    },
+    {
+      "start": 58.95,
+      "end": 60.55,
+      "text": "So I might best keep them to myself."
+    },
+    {
+      "start": 60.55,
+      "end": 63.35,
+      "text": "Nope. This is not a politically correct organization."
+    },
+    {
+      "start": 63.35,
+      "end": 67.75,
+      "text": "I'm just going to say that Christmas is no longer about the past or the future."
+    },
+    {
+      "start": 67.75,
+      "end": 69.35,
+      "text": "It's all about the present."
+    },
+    {
+      "start": 69.35,
+      "end": 70.35,
+      "text": "I love that."
+    },
+    {
+      "start": 70.35,
+      "end": 73.35,
+      "text": "And the best. And you know what the best Christmas present is?"
+    },
+    {
+      "start": 73.35,
+      "end": 74.15,
+      "text": "What?"
+    },
+    {
+      "start": 74.15,
+      "end": 77.15,
+      "text": "A broken drum. You can't beat it."
+    },
+    {
+      "start": 77.15,
+      "end": 83.35,
+      "text": "But to George Driscoll."
+    },
+    {
+      "start": 83.35,
+      "end": 92.15,
+      "text": "Christmas is a period of roughly 48 hours that nobody bothers me from work."
+    },
+    {
+      "start": 92.15,
+      "end": 96.35,
+      "text": "And boy, that's near and dear to my heart."
+    },
+    {
+      "start": 96.35,
+      "end": 99.55,
+      "text": "Paige Wilson, what does holidays mean to you?"
+    },
+    {
+      "start": 99.55,
+      "end": 101.55,
+      "text": "Jesus and Tucker."
+    },
+    {
+      "start": 101.55,
+      "end": 102.75,
+      "text": "Love it."
+    },
+    {
+      "start": 102.75,
+      "end": 103.75,
+      "text": "Warren."
+    },
+    {
+      "start": 103.75,
+      "end": 104.95,
+      "text": "Yes."
+    },
+    {
+      "start": 104.95,
+      "end": 107.35,
+      "text": "The whole holiday season for me is a big deal."
+    },
+    {
+      "start": 107.35,
+      "end": 113.55,
+      "text": "I think it's a reminder for all of us to kind of balance our family life and what we do,"
+    },
+    {
+      "start": 113.55,
+      "end": 116.95,
+      "text": "you know, with the people we care about the most,"
+    },
+    {
+      "start": 116.95,
+      "end": 122.55,
+      "text": "taking that time off and really focusing on not just the, you know,"
+    },
+    {
+      "start": 122.55,
+      "end": 127.15,
+      "text": "the grist smell that we're usually in with work and it's everything's fast-paced,"
+    },
+    {
+      "start": 127.15,
+      "end": 132.15,
+      "text": "but just a reminder to take some time and be with the people we all love the most."
+    },
+    {
+      "start": 132.15,
+      "end": 134.35,
+      "text": "Delfina, what do the holidays mean to you?"
+    },
+    {
+      "start": 134.35,
+      "end": 137.35,
+      "text": "The holidays for me are about the children."
+    },
+    {
+      "start": 137.35,
+      "end": 142.55,
+      "text": "It starts with the child Jesus being brought into this world, our Savior,"
+    },
+    {
+      "start": 142.55,
+      "end": 149.75,
+      "text": "and beyond us remembering what this holiday is supposed to be all about,"
+    },
+    {
+      "start": 149.95,
+      "end": 155.35,
+      "text": "it is about bringing joy to the children that we have brought in this world"
+    },
+    {
+      "start": 155.35,
+      "end": 160.15,
+      "text": "and making sure that their lives are as wonderful as we can make them."
+    },
+    {
+      "start": 160.15,
+      "end": 161.15,
+      "text": "I love that."
+    },
+    {
+      "start": 161.15,
+      "end": 162.15,
+      "text": "Come all."
+    },
+    {
+      "start": 162.15,
+      "end": 163.55,
+      "text": "What does the holidays mean?"
+    },
+    {
+      "start": 163.55,
+      "end": 168.55,
+      "text": "Holidays, to me, means friends and families and everything bright and sweet"
+    },
+    {
+      "start": 168.55,
+      "end": 172.95,
+      "text": "and the time that we spend with each other and the memories that we make."
+    },
+    {
+      "start": 172.95,
+      "end": 174.75,
+      "text": "Love it. Joe."
+    },
+    {
+      "start": 174.75,
+      "end": 181.15,
+      "text": "Holidays for me mean eggnog, extra cooking, happy birthday, Jesus,"
+    },
+    {
+      "start": 181.15,
+      "end": 185.55,
+      "text": "and getting dolled up, getting to wear fine clothes"
+    },
+    {
+      "start": 185.55,
+      "end": 188.55,
+      "text": "that you only get to wear once or twice a year."
+    },
+    {
+      "start": 188.55,
+      "end": 191.55,
+      "text": "Mr. Duff, what do the holidays mean to you?"
+    },
+    {
+      "start": 191.55,
+      "end": 192.55,
+      "text": "Family for me."
+    },
+    {
+      "start": 192.55,
+      "end": 195.75,
+      "text": "I'm getting the people that travel from around the globe coming together"
+    },
+    {
+      "start": 195.75,
+      "end": 199.75,
+      "text": "and then thinking about the people that are gone that are not longer here"
+    },
+    {
+      "start": 199.75,
+      "end": 203.75,
+      "text": "and some good memories as a child and also great-grandparents, etc."
+    },
+    {
+      "start": 203.75,
+      "end": 209.35,
+      "text": "Yeah, so time away from work, a bit like Jordan, no one touches you,"
+    },
+    {
+      "start": 209.35,
+      "end": 212.75,
+      "text": "but a lot more family time, rest, be thankful,"
+    },
+    {
+      "start": 212.75,
+      "end": 214.75,
+      "text": "and then think about the ones that we've lost."
+    },
+    {
+      "start": 214.75,
+      "end": 217.75,
+      "text": "And Audrey, not least, but last."
+    },
+    {
+      "start": 217.75,
+      "end": 220.75,
+      "text": "Well, I'm Jewish, so Christmas means nothing to me."
+    },
+    {
+      "start": 224.75,
+      "end": 228.75,
+      "text": "I guess Chinese food and gone in movies, man."
+    },
+    {
+      "start": 229.75,
+      "end": 230.75,
+      "text": "Perfect."
+    },
+    {
+      "start": 230.75,
+      "end": 235.75,
+      "text": "All right, so we're now going to serrate you audience while Jordan reads poetry,"
+    },
+    {
+      "start": 235.75,
+      "end": 238.75,
+      "text": "which will probably be the first and most likely last time you've heard"
+    },
+    {
+      "start": 238.75,
+      "end": 240.75,
+      "text": "they're going to read poetry."
+    },
+    {
+      "start": 240.75,
+      "end": 242.75,
+      "text": "Right, let's read the jingle bell thing."
+    },
+    {
+      "start": 248.98,
+      "end": 254.98,
+      "text": "To us the night before Christmas and all the studio mics were ready for business."
+    },
+    {
+      "start": 254.98,
+      "end": 257.98,
+      "text": "The headphones were set by the Mixers with Care"
+    },
+    {
+      "start": 257.98,
+      "end": 260.98,
+      "text": "and hopes that some listeners would soon be there."
+    },
+    {
+      "start": 260.98,
+      "end": 264.98,
+      "text": "The podcast hosts were nestled all snug in their chairs"
+    },
+    {
+      "start": 264.98,
+      "end": 268.98,
+      "text": "while visions of viral episodes danced in their heads."
+    },
+    {
+      "start": 268.98,
+      "end": 272.98,
+      "text": "I had my mic warmed up for a holiday theme"
+    },
+    {
+      "start": 272.98,
+      "end": 276.98,
+      "text": "and hoped I could set a festive podcasting theme."
+    },
+    {
+      "start": 278.98,
+      "end": 281.98,
+      "text": "When out of the channels arose such a clatter,"
+    },
+    {
+      "start": 281.98,
+      "end": 284.98,
+      "text": "I turned up the sound to hear what was the matter."
+    },
+    {
+      "start": 284.98,
+      "end": 287.98,
+      "text": "Tune to the frequency I heard a jolly laugh."
+    },
+    {
+      "start": 287.98,
+      "end": 291.98,
+      "text": "Was good old St. Nick come to join on our behalf?"
+    },
+    {
+      "start": 291.98,
+      "end": 294.98,
+      "text": "He had a voice perfect for radio fame"
+    },
+    {
+      "start": 294.98,
+      "end": 297.98,
+      "text": "and cheerfully called out each podcaster by name."
+    },
+    {
+      "start": 297.98,
+      "end": 300.98,
+      "text": "Now Paige, now Joe, now Jordan and Russell."
+    },
+    {
+      "start": 300.98,
+      "end": 303.98,
+      "text": "There's a reason you're the best so you'd better hustle."
+    },
+    {
+      "start": 303.98,
+      "end": 307.98,
+      "text": "To top off iTunes ranks higher we fly"
+    },
+    {
+      "start": 307.98,
+      "end": 311.98,
+      "text": "with professional hosts and downloads head for the sky."
+    },
+    {
+      "start": 311.98,
+      "end": 314.98,
+      "text": "So up the stairs St. Nicky flew with a slayful of toys"
+    },
+    {
+      "start": 314.98,
+      "end": 317.98,
+      "text": "and proud podcasters too."
+    },
+    {
+      "start": 317.98,
+      "end": 320.98,
+      "text": "And I heard him exclaim as he drove out of sight,"
+    },
+    {
+      "start": 320.98,
+      "end": 324.98,
+      "text": "Merry Christmas to all and keep your mics bright."
+    },
+    {
+      "start": 324.98,
+      "end": 334.89,
+      "text": "This is great. Great job Jordan."
+    },
+    {
+      "start": 334.89,
+      "end": 337.89,
+      "text": "Hey team, real quick."
+    },
+    {
+      "start": 337.89,
+      "end": 341.89,
+      "text": "I have bought all of us a trip to go on a rig tour."
+    },
+    {
+      "start": 341.89,
+      "end": 343.89,
+      "text": "Y'all don't know about this, you now know about it."
+    },
+    {
+      "start": 343.89,
+      "end": 346.89,
+      "text": "So the entire team is going to tour a rig."
+    },
+    {
+      "start": 346.89,
+      "end": 348.89,
+      "text": "We'll work out the details later but that is"
+    },
+    {
+      "start": 348.89,
+      "end": 351.89,
+      "text": "my Christmas present to you is let's get on a rig"
+    },
+    {
+      "start": 351.89,
+      "end": 354.89,
+      "text": "and look at some dirty steel drill and punch of holes"
+    },
+    {
+      "start": 354.89,
+      "end": 357.89,
+      "text": "in the ground in the new year."
+    },
+    {
+      "start": 357.89,
+      "end": 360.89,
+      "text": "It's going to be a blast."
+    },
+    {
+      "start": 360.89,
+      "end": 363.89,
+      "text": "All right, for all our listeners thank you so much"
+    },
+    {
+      "start": 363.89,
+      "end": 365.89,
+      "text": "for listening to our podcast without you."
+    },
+    {
+      "start": 365.89,
+      "end": 367.89,
+      "text": "It would just be a bunch of weird people sitting here"
+    },
+    {
+      "start": 367.89,
+      "end": 369.89,
+      "text": "talking to themselves."
+    },
+    {
+      "start": 369.89,
+      "end": 372.89,
+      "text": "We appreciate each and every one of you."
+    },
+    {
+      "start": 372.89,
+      "end": 374.89,
+      "text": "Merry Christmas, Happy New Year."
+    },
+    {
+      "start": 374.89,
+      "end": 376.89,
+      "text": "Happy holidays."
+    },
+    {
+      "start": 376.89,
+      "end": 379.89,
+      "text": "Merry Christmas, Merry Christmas, Happy New Year."
+    },
+    {
+      "start": 379.89,
+      "end": 381.89,
+      "text": "Happy Holidays."
+    },
+    {
+      "start": 381.89,
+      "end": 401.82,
+      "text": "This is everybody. I'm late."
+    }
+  ]
+}

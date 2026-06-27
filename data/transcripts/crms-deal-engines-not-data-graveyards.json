@@ -1,0 +1,3895 @@
+{
+  "slug": "crms-deal-engines-not-data-graveyards",
+  "title": "CRMs: Deal Engines, Not Data Graveyards",
+  "episode": "87",
+  "audio": "https://media.blubrry.com/oil_and_gas_this_week/media.blubrry.com/oilandgassalesandmarketing/ins.blubrry.com/oilandgassalesandmarketing/OGSM87.mp3",
+  "duration": 1751.3,
+  "text": "Welcome to the Oil and Gas Sales and Marketing podcast, where every week your hosts, Mark LaCour and Matt Bertram share proven strategies and real-world tactics to help you connect with customers and close more deals. Let's do this. Howdy, welcome back to another episode of Oil and Gas Sales and Marketing. I am your host, Matt Bertram. I am having a great time at the CellWell Conference, meeting some great people. I encourage you all to go check it out next year. There's some great coaching going on. And I have Paul Fuller here with me today with Membrain, M-E-M, brain.com. It's a CRM, I'll let you actually... Yeah, think of it as a growth platform, everything. If you have salespeople that are struggling to follow process, that are struggling to learn and retain information, and you really feel that, like, having a really core sales process and growth process for your accounts, for your prospecting, that's what we do. We come in, we step in, we help you develop those and make them executable. Let's zoom out, okay? So a lot of salespeople have a distaste for CRMs, maybe, or data entry. Maybe explain why entering in data is valuable, because I think we got to explain why not just to do. Yeah, man, it's a great question. So let's dive on that. Let's dive on the purpose of most CRMs. The purpose of most CRMs is to aggregate data for a manager to be able to say, what the heck you're doing? And then for that to go up to companies and board levels, and so they can understand and make numbers up that really have nothing to do with what's actually forecast and what's actually coming. That's how most people use their CRMs, quite frankly. It's, get your dang info in the CRM so I can track you and then I can go to the board and tell you what's going on. And that's why I think salespeople have a distaste for it because they don't see the value of how it could help them close more deals and make more money. Amen, 100%. So you just talked about, that's our value problem. That's, so the reason CRMs are so misused, they started out great, like I loved, I was one of the initial implementers of Salesforce. I loved it, it was great, cause it helped me. I actually was a salesperson, but I just got a geeked out on this stuff and it helped me do my job. And it helped me think through things in a way that pen and paper didn't, but there's a challenge. Go into detail too. Let's not forget, if you don't want to talk about it now, I want to come back to it, but I want to hear the use cases. Like I want this podcast for you of you listening. I want you to be convinced by the end of this that you should be using a CRM. That is the goal. So if you do not want that to be your goal and know that it's valuable for you, you can just shut this off now because this is critical. You got to get the mindset right to use a CRM before any of these other things happen. They don't even matter if you're not on board with that concept. And that is the most critical concept out there. Like a CRM should be your argument for how and why you're going to close a deal. You as an individual, that should be your spot where you can go through to think through how do I get this done? Who do I need to talk to? Where do I need to talk? Why? And it should help you do that. Unfortunately, that's why most people hate them is because it has no help in it. But it gives you a roadmap. It helps give you a guideline if it's set up properly. If it's set up properly. And that's the big thing. Technology sometimes, even CRM tools and project management tools is what I meant is they're too overwhelming when you log in. There's too much functionality because they're not designed by a salesperson. They're designed by an engineer and they're saying this should work. And the brains think differently. There's two different brains that are working in this thing. Oh my gosh, I love this. Cause yeah, that is the reason. That is the gap, right? You start to see these and then you need to have this big playbook outside your CRM for how you're going to use your CRM and the data that you're supposed to be in it. And then you get yelled at for the data that you enter improperly. And it becomes a thing. There's a lot of friction around it. In rethinking this concept, in rethinking why and how we started working with a lot of sales transformation experts, like the people that really go in and say, let's rip apart what sales is doing and then let's make each individual more effective. And we built for that. That really is, and it becomes, when do you have a CRM that, whatever CRM you have, but when you have it that actually helps a salesperson perform their gig and do better and actually makes sense of the world, it's so helpful. Most often they are data graveyards that are built for the wrong people. And they're really using Excel. They're using Excel and then the most, here's a story, here's a good story. And there's actually a big company that's sold to oil and gas. So this is relevant, but talking to my buddy and he's in a company that sells to oil and gas and they have a CRM and he's a high level leader there. They have three levels of forecasting. So the first thing that they have to do is they force all their reps to put in data into the CRM and they do this with a stick, not a carrot. So we have to force people. We don't know how else. So they force them with things like, you're not gonna get your commission unless all the data's in there correctly and those type of things. Okay, they then take that to the CRM dashboards which they start to look at their forecasts and the dashboards and reports get pulled out. But in the deal flow or the deal amount, just make it up, just make it up. That's all made up usually. And then it goes to this. And then they look at those dashboards, then they pull them all out into Excel. And mind you, this is a company with about 400 reps. They pull that out to Excel and then each manager itself has to go in and modify the forecast in Excel based on what he knows about the reps before they even then report it up to the VP. Yes, yeah. How much BS is that? There's two, yeah. Oh, I see it all the time. I see it all the time. And it's such a waste of time energy effort because you're not solving the core fundamental problem, which is let's just help them sell more effectively. If I could do that with a structure that helps them sell more effectively and dives in and actually makes it worth your while to think through things. Yeah, let's talk about the sales transformation leaders. Or I wanna hear a little bit about just how you are using Salesforce effectively and where maybe some of those gaps were and when you decided to design this tool. So I'd love to hear a little bit of that origin story. Yes, I ran a sales as a service business for about 10 years. So we had hired, trained and managed teams for other organizations. The biggest initial thing that we found in doing that was we immediately became an implementer and use Salesforce because what was the deal there was if we used other people's systems to do our job, it was always a rough, we had to reform the system. We had to build it from the ground up. It caused more confusion. So what we ended up doing, we just figured out how to really modify Salesforce really well to our purposes and then dropped it in every single time we came into an organization. Give me some examples of those automation or bells and whistles of what you did that were just super effective. All right, so building a sales process is actually pretty tough in Salesforce, but we figured out a way to do it and we do it every single time. So what are the core and define things really well? What does it mean to do X, Y and Z? So if you're going to put something in one of Salesforce's five stages that they come, it's in prospecting. What does that mean? How do you use it? Where does that go? And then based on that, what are the things that you need to execute? What are the milestones you need to have to ensure that it's correct? And so nobody used it that way. Nobody said, oh man, it's in prospecting. It generally was, it's in prospecting, it's 10%, okay. What the hell does that mean? Nobody really thought that through, but we got really good at it because we had to, we stamped it out again. But the challenge was, is we had to go in and rebuild it every time. And this was for reps. We had teams of two reps. We had teams of 10 reps. We worked with teams of massive teams. We actually, one of the funnest, most fun, was working with a company called EWI, Edison Welding, and then Battelle. I don't know if you tell, but they're one of the largest think tanks in the entire world. They actually serve a lot of oil and gas. But we would help them create and be able to stamp out the best practices. And then you can modify it from there. But we had to rebuild every single time that we went in. I actually didn't found membrane, but I found these guys in 2019 after I left that other business for some health problems. I was thinking of becoming a sales transformation expert myself and that's what I was going into. And I found membrane and I fell in love. The reason I fell in love, it's the only CRM ever that I've found that you can actually build a process that incorporates sales and the buyer and replicate at a push of a button. Like best practices, be able to set down, here's the best practice, sales process, and then replicate, boom. So I just saw that as an amazing opportunity. So you start to look at verticals, verticals like oil and gas. There are best practices on how we go after. Like it's really critical. When I talk about oil and gas, it's perseverance. It's account mapping. You have to have it really well done. You have to have that professional persistence and that continual and how you're gonna do that, but you need a system that will actually help you do that rather than just send you a reminder here and there on a task you scheduled, right? So how do I stamp that out again and again for companies and help them with that? And I fell in love. It's just a great platform and great people that we work with. Okay, so let's zoom out a little bit and just talk about best practices for CRMs. I think that there's a lot of people dying in organizations because their CRMs are not set up properly. I do believe you need to get a CRM that's gonna actually help you sell, but sometimes salespeople that are listening can't control what tech stack they're stuck in, right? And so they build their own systems outside of that and they tend to move to Excel or just really rudimentary stuff and they're not even using the tech stack they have. So if they have a tech stack right now, a CRM, Salesforce, whatever, there's others, what do they need to make sure minimum viable product that is set up that they should be doing or they could get implemented to help improve the overall experience? Okay, can I flip the question really for a second? Because I'm gonna flip to what I see most generally. You said three, let a minimum viable product, right? What you generally find is the flip side. What you generally find is a maximally overbuilt behemoth that becomes really hard for the normal salesperson to execute. Or the CRM's just out of the box the way it is. Yeah, it's just overbuilt. It's like, how do I do it? I don't understand all these terms. The interesting contrast with CRMs is a lot of times, what you've seen is they have, most of them have evolved from- Too many bells and whistles. There's too many bells and whistles, but they're also the language that they have within them is built for the administrator and the IT person rather than the salesperson. So like- The end user. The end user. So that's what I generally see. What you need in a minimum viable product, something that is gonna help you follow your process, remind you to do that, keep that professional persistence, follow best practices, and then map your accounts. Go into each of those steps in detail. Let's do like a CRM 101. Break it down for everybody and what are those best practices? Like each stage of what you talked about just- So there's three main jobs to be done on the seller side. Let's just talk about jobs to be done. New business about, so prospecting. Let's just, my prospecting rhythm, how do I do that? So if you don't have the ability to map out your prospecting process and prospecting rhythm for different types of prospects and hold yourself accountable to that, you're gonna lose. What does that look like? Give me, describe that. For us, it looks like what is a, who are the people that I need to reach out to? What is the cadence that I need to reach out to the mem? And then how is my, Kate, how does that then appear for me in a manner that I can actually execute? So- How does that tie to your calendar? How does that tie to your calendar? How does that tie to your email? How does it tie to what marketing's doing? It's just, who are the people? How often, and the cadence? And it needs to help me do that. And if it's really good, it can actually help you with the best practices of how to reach out to them. It sounds like if you build that out, you could add AI to it. Yes, you can. Yes, you can. So that's the prospecting side. And yes, yeah. So it's AI enabled, it can help you with information. We're doing a lot of that right now is how do I pull in and what's relevant? So I can, the best thing for AI that I've found for a, if you're going with a B2B sales team that you're committed to actually making this work, they are going to do the work, is to empower them with the right information. It does decrease the research levels massively. Yeah. So there's that one. Then there's your pipeline. So how do I run deals? Pretty darn, like that's the second thing. So I need to find deals. I need to run deals. Give me an example of a simplistic workflow of running deals. Do you know a guy, have you ever heard of a guy named Dave Curlin? Name rings bell, but no. He wrote a book called Baseline Selling. It's a wonderful, I don't know that, but yeah. Great book to read. I love Dave. Baseline Selling. He has an analogy of the baseball diamond. Okay. Being able to define a workflow that simple in terms of how you actually walk through and what are the key milestones in your deal process. So what is a stage? What is a milestone buyer and seller milestone? What do we have to get through? What communication should I have at that stage? And then how do I move on? So being able to have a process very easily outlined, visual, able to execute that just walks you through and helps you close a deal. That's really important for a CEO. Whatever CRM you're using, right? And I don't, a lot of people try and mix it up. They say, you have to fill out this number of fields for it to be at this level and that type of stuff. If you're like, simplify minimum viable product. What I love about Dave and Baseline and a lot of others that follow that type of thing is did we take the actions that we need to take, the committed actions that we need to take? And did they take those actions that they need to take to move to second base? To move to third base. And the very simple actions like that, being able to define yourself a process so you know exactly where you are with all of your clients. That's a really big deal. That's how you determine how your pipeline is, right? And then you can get some visualizations. Yep. And if you're targeting the right kind of clients, the deal flows are gonna be shaped unless there's a super outlier. Yeah. Then you start to layer on top of that, like the actual people involved in the deals and where they are in the specific deal. When we're going to minimum viable product, I don't recommend that, but when you start to dive in more is where each person is in that deal and how you can layer in that in and how you visualize that and how you go, it becomes, you don't have to guess at forecasting. And that's what it confused the hell out of me for so many years. Why are people guessing at forecasting when they have things like a CRM built? And when you do it right, you don't need to guess, you don't have to guess, but the key is empowering that rep with a process that actually works. Paul, what's the next step? Next step is growing your accounts. That's what everybody wants to know. There you go. So what I find is really interesting is all CRMs promise this idea of a 360 view of your customer, right? It has been the most overused promise and most under leveraged promise in the world. Like I think it's, I'm gonna give you a 360 view of your customer. Bullshit. What they give you is a bunch of different things to click on. What you said, I want to key on this and just call it out. I think that's why there's this animosity towards CRMs. Because the promise of the CRM was broken to the sales person, at least in my case, that was the experience I had. Amen. And also getting everybody on the same page. If everybody's not entering the data the same way, it doesn't work. There's a lot of coordination that has to happen, but that promise being broken, I think it might be one of the root issues with why sales people just are like, oh, the CRM entering in data, I don't want to do it because it doesn't help me or they don't see it, but it should. 100% and it should. And the reason that it doesn't help is because people have used it and go back to some of the things we've used before, they've used it for the wrong reasons. They've gone to the idea of the person that needs to help, get me this data, get me this data. So it's got to help the seed level instead of the person that's actually acting on it. And so what happens is you get the crap data, right? But if it actually helps me map and understand an account and it brings me some value in terms of, I love a visual view of accounts and I love, personally, I love yearly planning for accounts. Let's talk about that. I want to dive deep on it, 360 view of the account. What does that mean to you? What's your definition of that? And then how do you project out what's going to happen with this account and growing this account? Let's go back to that. Yeah, it's interesting. You don't need to really stray much from a process-based view of life in terms of doing that. So a good 360 view of an account is gonna give me all of, I need a process to be able to get through who are the people in the account that I need to reach? What's my continual process for understanding new people in the account? Am I doing that or am I not doing that? And should I be doing that? And then what is the account actually doing with us? So that's one of the things that's really interesting in a lot of organizations is they can't show, like they give a CRM tool to somebody and they can't show actually what's happening in the account. Oh, account in the spot, they're doing account planning and trying to grow that what they end up showing is you got to go to the ERP for that. You got to go here for that. If you're going to look at call records, you got to go here. If you want to build, see all the processes and projects we're running, you got to look at our process management tool. So it becomes this thing where you start to give people homework that they hate. Nobody likes going in, pointing and clicking and doing all this stuff. But if you can literally give the people I need to talk to, the projects that we're running, the revenues that are coming in, and a cadence and a process for how I uncover more and better in the account, and then I can manage a pipeline through those accounts, it becomes something that's usable. And that's one of the biggest things in Orham Gas. These companies, depending on who you're targeting, is massive and there's buyers with different budgets all throughout the organization. So if you're in with one, I think you want to strengthen the champions you have internally, but also you're missing out on revenue and that's big account. People are going after it all the time. And we talked about this in a previous podcast. I think it's so funny that salespeople are like, I own this account like this, right? Yes. That is a great, I own Exxon, good luck with that. I think it comes down to, it's not mapped clearly, so you can't see what other people are doing and you don't want to step in on each other's shoes. That's why I think the rule came about. I would say, okay, if you do own this account, here are the things you have to do to keep ownership of this account. You need to be adding new people inside the organization. You need to be actively prospecting internally for you to hold on to that, right? I think there should be stipulations around that. When you look at these big accounts and it's actually really interesting that all those jobs to be done, think of everything that I said in those jobs to be done, account management of those big accounts should compose all of those different jobs. Like you have to prospect like crazy, right? But it's a different process and method. So why not be able to show my prospects that I have within an account and understand the relationship with those? I need to be finding that new business within accounts, right? As well as expanding and upselling to the current buyers that I already have, right? If I own that account, you better be doing that. So to be able to show that, I call it our one page account plan, but it's much more than that. To be able to show that visually and be able to show that in a way that actually helps people make decisions on what they're going to do and how they're gonna operate is really important. How do you get visuals on the upselling or cross-selling in a CRM to be able for the higher ups to know that's actually happening? Cause there seems to be a little bit of, people aren't doing that as much as like, they probably should be or bringing in other people to help if they don't have that expertise to do it. But how would you visually see and know that's happening if you're a sales manager looking at a CRM? We have, just probably get some of the details of what we offer there, but we have a very cool technology that I love. It's not a Kanban view, but it's, we can show, you can look at an account and then in that account, you can visually see the timeframe of every overlapping timeframes of all your prospects, all your deals, who's working them, how they're being worked, the time that you've worked with those people, the meetings that you've had. So you can see it in a very visual flow, color coded by who does it. And so when you get at that level, I think one of the mistakes that leaders make is they start to focus on, they still look at the mass numbers of their organization, like at a VP and the CEO, they start to look at the mass levels of the organization instead of diving in and looking very specifically at the account-based numbers on one particular plan and having those account battle plans. So if you can really start to see overlapping, who's, where's my prospecting happening, how it's happening, where are my net new deals, where are my other deals that I'm running with them, who's running each and how people are connected, it's really important. And so we do that at the account-based level and the account plan level that we like to incorporate. Paul, you're one of the sponsors here. So I would love for you to go into more detail on membrane and why it's different from the other CRMs are out there, because we've already talked about it a little bit and I know how passionate you are about it. So I would love for you to break it wide open and explain to people what a CRM should do and why membrane solves that problem. Why I like sell, why we're here is sell well should be, I really think that's what a CRM should help us do. Our mission is to elevate the sales profession. We take that very seriously. Like that truly is the mission behind this. And what we mean by that is by having a network of people that are really good experts that can help others and dive in. But also we're really firmly committed to process-based growth. And when we talk about process, it's how do I execute but how do I continually learn? How do I get coached on? How do I improve? How do I just continually get better? And so that's what the differentiation is that we see is that I can help you outline a process that works, that a salesperson really enjoys, that's not overwhelming, that I can actually make decisions on at a C level but actually dives in with a rep. And then we have a full coaching platform that we can dive in and coach the sales reps directly based on what's going on either in an individual prospect and deals or accounts. And it ties together. So we have a network essentially of sales experts that we absolutely love working with, a platform that enables them to do their job well and salespeople love. I don't, you could go on our G2 reviews, you can go on any of that stuff. Salespeople actually enjoy working with the platform. My own sales team, it's the, even when I was implementing Salesforce, my sales team didn't love it. They liked it, it was okay, but my own sales team loves working in the platform. Like they really do, it helps them close deals. And I get a good forecast because my salespeople get helped working deals through a platform that enables them to succeed. So that's our niche. If people have tried other things, if they are at a wit's end and they're like, man, I've tried all the training, I've tried the technology, I've tried all this, you want transformation, you want to dive deep with your sales team, dive deep with your sales processes and make them executable in platforms that people love, that's where we come. Awesome. Just to circle back before we end, we were talking about the process. I didn't know if there was any steps that we miss, that we want to go deep on, or if there's anything else that you think would be valuable to share in this conversation. I want to give you the floor. Yeah, another reason we're at SoWell, and why I really appreciate this is we've found a number of things. Like just by implementing a good sales process, you're going to increase the deals, deal flow by about 15 to 20% till success. It just, it's a proven number, it's out there. And if the better you do it, the more effective you can be. What people miss though, is coaching. What I really love, and we're talking about elevating the sales, is being able to dive in and help people not just follow the process as it stands in your CRM, but how do you dive and manipulate and mold that to how it helps you be most effective? And so if you are not doing coaching, we have a platform that ties our CRM that does coaching, but just the practice of continually, continual effective coaching, the numbers are astronomical. That investment in people that you actually have assessed and you've hired and you care about them enough to bring them onto your team, to give them that resource of a coach that can work them through how they achieve their goals, how they achieve it within the context of this company, how they achieve it with individual organizations, is massive. Because otherwise they sit inside themselves, they'll give their numbers to their manager, but that's about it. It becomes a number and pleasing game, instead of a growth game. And it is one of the biggest differentiators I've seen ever. It's fabulous. Awesome. So one of the things we do at the end of our show is we offer for the guests to give us a LinkedIn fail or tip. So when you just think about LinkedIn and what people are doing and what they should be doing, what are the things maybe good, bad or either that are sticking out to you as, because LinkedIn is like the primary platform, right? For B2B today. LinkedIn fail is, I hate to call out the automation and the AI people, but the biggest LinkedIn fail that I've had recently was I had a guy reach out to me. He said he was a CEO of an AI company. And I replied back to him and I was like, okay, so yeah, I'm interested, tell me what you do. And then it came back and said, this is actually Jan, John's CEO AI automation counterpart. What came back to me and said, I'm actually AI. I'm not really this guy. I can't tell you how much that turned me off. And it was one of the better AI written things. But if I want to talk to a person, LinkedIn for me is personal. If I want to talk to a person, I want to talk to a person. Like I really appreciate the opportunity to connect with people and dive in. If I get automated to death, I hate it. I just do. It's my own personal thing. So the more I can make it personal, the more I can dive in, comment on things that actually make sense and talk to people that are interesting, the better the platform is performed for me, rather than seeing it as this massive thing of prospects that I have to touch every single person. I just, I want to touch the people that are right that I'm interested in, find those and interact. Paul, how do people get in touch with you if they want to find out more about what your thoughts are on CRMs and what you're doing and what Membranes is? Actually, my own podcast as well. It's called the Art and Science of Complex Sales. So search for that. It's on all the platforms. I think, I'm on LinkedIn. I'm Paul Fuller. I'm the one that says elevate the sales profession in my bio. I think it's a black and white picture. Connect with me there. And paul.fuller at membrane.com, MEM, and then thebrain.com. And like insane in the membrane, except, anyway, yeah, just reach out to me via email. Paul, thank you so much for coming on the show. Remember everyone, make a difference, not a sale. Thanks for listening to OGGN, the world's largest and most listened to podcast network for the oil and energy industry. If you like this show, leave us a review and then go to oggn.com to learn about all our other shows. And don't forget to sign up for our weekly newsletter. This show has been a production of the Oil and Gas Global Network.",
+  "segments": [
+    {
+      "start": 7.09,
+      "end": 11.25,
+      "text": "Welcome to the Oil and Gas Sales and Marketing podcast,"
+    },
+    {
+      "start": 11.25,
+      "end": 14.97,
+      "text": "where every week your hosts, Mark LaCour and Matt Bertram"
+    },
+    {
+      "start": 14.97,
+      "end": 18.09,
+      "text": "share proven strategies and real-world tactics"
+    },
+    {
+      "start": 18.09,
+      "end": 21.77,
+      "text": "to help you connect with customers and close more deals."
+    },
+    {
+      "start": 21.77,
+      "end": 22.93,
+      "text": "Let's do this."
+    },
+    {
+      "start": 26.58,
+      "end": 29.7,
+      "text": "Howdy, welcome back to another episode"
+    },
+    {
+      "start": 29.7,
+      "end": 31.62,
+      "text": "of Oil and Gas Sales and Marketing."
+    },
+    {
+      "start": 31.62,
+      "end": 33.66,
+      "text": "I am your host, Matt Bertram."
+    },
+    {
+      "start": 33.66,
+      "end": 36.74,
+      "text": "I am having a great time at the CellWell Conference,"
+    },
+    {
+      "start": 36.74,
+      "end": 38.26,
+      "text": "meeting some great people."
+    },
+    {
+      "start": 38.26,
+      "end": 40.86,
+      "text": "I encourage you all to go check it out next year."
+    },
+    {
+      "start": 40.86,
+      "end": 43.02,
+      "text": "There's some great coaching going on."
+    },
+    {
+      "start": 43.02,
+      "end": 46.66,
+      "text": "And I have Paul Fuller here with me today"
+    },
+    {
+      "start": 46.66,
+      "end": 51.58,
+      "text": "with Membrain, M-E-M, brain.com."
+    },
+    {
+      "start": 51.58,
+      "end": 53.78,
+      "text": "It's a CRM, I'll let you actually..."
+    },
+    {
+      "start": 53.78,
+      "end": 55.98,
+      "text": "Yeah, think of it as a growth platform, everything."
+    },
+    {
+      "start": 55.98,
+      "end": 57.94,
+      "text": "If you have salespeople that are struggling"
+    },
+    {
+      "start": 57.94,
+      "end": 60.34,
+      "text": "to follow process, that are struggling to learn"
+    },
+    {
+      "start": 60.34,
+      "end": 63.34,
+      "text": "and retain information, and you really feel that,"
+    },
+    {
+      "start": 63.34,
+      "end": 66.26,
+      "text": "like, having a really core sales process"
+    },
+    {
+      "start": 66.26,
+      "end": 67.78,
+      "text": "and growth process for your accounts,"
+    },
+    {
+      "start": 67.78,
+      "end": 69.9,
+      "text": "for your prospecting, that's what we do."
+    },
+    {
+      "start": 69.9,
+      "end": 72.22,
+      "text": "We come in, we step in, we help you develop those"
+    },
+    {
+      "start": 72.22,
+      "end": 73.58,
+      "text": "and make them executable."
+    },
+    {
+      "start": 74.5,
+      "end": 75.9,
+      "text": "Let's zoom out, okay?"
+    },
+    {
+      "start": 75.9,
+      "end": 80.9,
+      "text": "So a lot of salespeople have a distaste for CRMs,"
+    },
+    {
+      "start": 81.38,
+      "end": 83.34,
+      "text": "maybe, or data entry."
+    },
+    {
+      "start": 83.34,
+      "end": 88.34,
+      "text": "Maybe explain why entering in data is valuable,"
+    },
+    {
+      "start": 89.62,
+      "end": 91.1,
+      "text": "because I think we got to explain"
+    },
+    {
+      "start": 91.1,
+      "end": 94.38,
+      "text": "why not just to do."
+    },
+    {
+      "start": 94.38,
+      "end": 96.7,
+      "text": "Yeah, man, it's a great question."
+    },
+    {
+      "start": 96.7,
+      "end": 97.94,
+      "text": "So let's dive on that."
+    },
+    {
+      "start": 97.94,
+      "end": 100.26,
+      "text": "Let's dive on the purpose of most CRMs."
+    },
+    {
+      "start": 100.26,
+      "end": 103.3,
+      "text": "The purpose of most CRMs is to aggregate data"
+    },
+    {
+      "start": 103.3,
+      "end": 106.74,
+      "text": "for a manager to be able to say,"
+    },
+    {
+      "start": 106.74,
+      "end": 107.82,
+      "text": "what the heck you're doing?"
+    },
+    {
+      "start": 107.82,
+      "end": 111.58,
+      "text": "And then for that to go up to companies and board levels,"
+    },
+    {
+      "start": 111.58,
+      "end": 115.18,
+      "text": "and so they can understand and make numbers up"
+    },
+    {
+      "start": 115.18,
+      "end": 118.02,
+      "text": "that really have nothing to do with what's actually forecast"
+    },
+    {
+      "start": 118.02,
+      "end": 118.86,
+      "text": "and what's actually coming."
+    },
+    {
+      "start": 118.86,
+      "end": 121.46,
+      "text": "That's how most people use their CRMs, quite frankly."
+    },
+    {
+      "start": 121.46,
+      "end": 123.74,
+      "text": "It's, get your dang info in the CRM"
+    },
+    {
+      "start": 123.78,
+      "end": 125.62,
+      "text": "so I can track you and then I can go to the board"
+    },
+    {
+      "start": 125.62,
+      "end": 126.46,
+      "text": "and tell you what's going on."
+    },
+    {
+      "start": 126.46,
+      "end": 130.06,
+      "text": "And that's why I think salespeople have a distaste for it"
+    },
+    {
+      "start": 130.06,
+      "end": 133.26,
+      "text": "because they don't see the value"
+    },
+    {
+      "start": 133.26,
+      "end": 135.7,
+      "text": "of how it could help them close more deals"
+    },
+    {
+      "start": 135.7,
+      "end": 137.1,
+      "text": "and make more money."
+    },
+    {
+      "start": 137.1,
+      "end": 138.5,
+      "text": "Amen, 100%."
+    },
+    {
+      "start": 138.5,
+      "end": 140.9,
+      "text": "So you just talked about, that's our value problem."
+    },
+    {
+      "start": 140.9,
+      "end": 145.22,
+      "text": "That's, so the reason CRMs are so misused,"
+    },
+    {
+      "start": 145.22,
+      "end": 147.1,
+      "text": "they started out great, like I loved,"
+    },
+    {
+      "start": 147.1,
+      "end": 150.66,
+      "text": "I was one of the initial implementers of Salesforce."
+    },
+    {
+      "start": 150.66,
+      "end": 153.26,
+      "text": "I loved it, it was great, cause it helped me."
+    },
+    {
+      "start": 153.26,
+      "end": 154.7,
+      "text": "I actually was a salesperson,"
+    },
+    {
+      "start": 154.7,
+      "end": 156.5,
+      "text": "but I just got a geeked out on this stuff"
+    },
+    {
+      "start": 156.5,
+      "end": 158.1,
+      "text": "and it helped me do my job."
+    },
+    {
+      "start": 158.1,
+      "end": 159.58,
+      "text": "And it helped me think through things"
+    },
+    {
+      "start": 159.58,
+      "end": 162.46,
+      "text": "in a way that pen and paper didn't, but there's a challenge."
+    },
+    {
+      "start": 162.46,
+      "end": 163.78,
+      "text": "Go into detail too."
+    },
+    {
+      "start": 163.78,
+      "end": 165.58,
+      "text": "Let's not forget, if you don't want to talk about it now,"
+    },
+    {
+      "start": 165.58,
+      "end": 166.54,
+      "text": "I want to come back to it,"
+    },
+    {
+      "start": 166.54,
+      "end": 168.5,
+      "text": "but I want to hear the use cases."
+    },
+    {
+      "start": 168.5,
+      "end": 172.14,
+      "text": "Like I want this podcast for you of you listening."
+    },
+    {
+      "start": 172.14,
+      "end": 175.02,
+      "text": "I want you to be convinced by the end of this"
+    },
+    {
+      "start": 175.02,
+      "end": 177.74,
+      "text": "that you should be using a CRM."
+    },
+    {
+      "start": 177.74,
+      "end": 178.58,
+      "text": "That is the goal."
+    },
+    {
+      "start": 178.58,
+      "end": 181.86,
+      "text": "So if you do not want that to be your goal"
+    },
+    {
+      "start": 181.86,
+      "end": 183.62,
+      "text": "and know that it's valuable for you,"
+    },
+    {
+      "start": 183.62,
+      "end": 186.94,
+      "text": "you can just shut this off now because this is critical."
+    },
+    {
+      "start": 186.94,
+      "end": 191.54,
+      "text": "You got to get the mindset right to use a CRM"
+    },
+    {
+      "start": 191.54,
+      "end": 192.98,
+      "text": "before any of these other things happen."
+    },
+    {
+      "start": 192.98,
+      "end": 195.22,
+      "text": "They don't even matter if you're not on board"
+    },
+    {
+      "start": 195.22,
+      "end": 197.02,
+      "text": "with that concept."
+    },
+    {
+      "start": 197.02,
+      "end": 199.18,
+      "text": "And that is the most critical concept out there."
+    },
+    {
+      "start": 199.18,
+      "end": 201.1,
+      "text": "Like a CRM should be your argument"
+    },
+    {
+      "start": 201.1,
+      "end": 203.78,
+      "text": "for how and why you're going to close a deal."
+    },
+    {
+      "start": 203.78,
+      "end": 207.1,
+      "text": "You as an individual, that should be your spot"
+    },
+    {
+      "start": 207.1,
+      "end": 208.7,
+      "text": "where you can go through to think through"
+    },
+    {
+      "start": 208.7,
+      "end": 210.94,
+      "text": "how do I get this done?"
+    },
+    {
+      "start": 210.94,
+      "end": 211.78,
+      "text": "Who do I need to talk to?"
+    },
+    {
+      "start": 211.78,
+      "end": 212.62,
+      "text": "Where do I need to talk?"
+    },
+    {
+      "start": 212.62,
+      "end": 213.46,
+      "text": "Why?"
+    },
+    {
+      "start": 213.46,
+      "end": 216.02,
+      "text": "And it should help you do that."
+    },
+    {
+      "start": 216.02,
+      "end": 219.22,
+      "text": "Unfortunately, that's why most people hate them"
+    },
+    {
+      "start": 219.22,
+      "end": 221.7,
+      "text": "is because it has no help in it."
+    },
+    {
+      "start": 221.7,
+      "end": 222.9,
+      "text": "But it gives you a roadmap."
+    },
+    {
+      "start": 222.9,
+      "end": 225.5,
+      "text": "It helps give you a guideline if it's set up properly."
+    },
+    {
+      "start": 225.5,
+      "end": 226.34,
+      "text": "If it's set up properly."
+    },
+    {
+      "start": 226.34,
+      "end": 227.54,
+      "text": "And that's the big thing."
+    },
+    {
+      "start": 227.54,
+      "end": 230.46,
+      "text": "Technology sometimes, even CRM tools"
+    },
+    {
+      "start": 230.46,
+      "end": 233.02,
+      "text": "and project management tools is what I meant is"
+    },
+    {
+      "start": 233.02,
+      "end": 235.46,
+      "text": "they're too overwhelming when you log in."
+    },
+    {
+      "start": 235.46,
+      "end": 236.54,
+      "text": "There's too much functionality"
+    },
+    {
+      "start": 236.54,
+      "end": 239.26,
+      "text": "because they're not designed by a salesperson."
+    },
+    {
+      "start": 239.26,
+      "end": 241.3,
+      "text": "They're designed by an engineer"
+    },
+    {
+      "start": 241.3,
+      "end": 242.94,
+      "text": "and they're saying this should work."
+    },
+    {
+      "start": 242.94,
+      "end": 244.46,
+      "text": "And the brains think differently."
+    },
+    {
+      "start": 244.46,
+      "end": 245.62,
+      "text": "There's two different brains"
+    },
+    {
+      "start": 245.62,
+      "end": 246.54,
+      "text": "that are working in this thing."
+    },
+    {
+      "start": 246.54,
+      "end": 248.42,
+      "text": "Oh my gosh, I love this."
+    },
+    {
+      "start": 248.42,
+      "end": 250.06,
+      "text": "Cause yeah, that is the reason."
+    },
+    {
+      "start": 250.06,
+      "end": 251.26,
+      "text": "That is the gap, right?"
+    },
+    {
+      "start": 251.26,
+      "end": 253.7,
+      "text": "You start to see these and then you need to have"
+    },
+    {
+      "start": 253.7,
+      "end": 255.66,
+      "text": "this big playbook outside your CRM"
+    },
+    {
+      "start": 255.66,
+      "end": 257.22,
+      "text": "for how you're going to use your CRM"
+    },
+    {
+      "start": 257.22,
+      "end": 258.74,
+      "text": "and the data that you're supposed to be in it."
+    },
+    {
+      "start": 258.74,
+      "end": 260.42,
+      "text": "And then you get yelled at for the data"
+    },
+    {
+      "start": 260.42,
+      "end": 263.02,
+      "text": "that you enter improperly."
+    },
+    {
+      "start": 263.02,
+      "end": 264.54,
+      "text": "And it becomes a thing."
+    },
+    {
+      "start": 264.54,
+      "end": 266.58,
+      "text": "There's a lot of friction around it."
+    },
+    {
+      "start": 266.58,
+      "end": 268.54,
+      "text": "In rethinking this concept,"
+    },
+    {
+      "start": 268.54,
+      "end": 270.78,
+      "text": "in rethinking why and how we started working"
+    },
+    {
+      "start": 270.78,
+      "end": 272.5,
+      "text": "with a lot of sales transformation experts,"
+    },
+    {
+      "start": 272.5,
+      "end": 275.3,
+      "text": "like the people that really go in and say,"
+    },
+    {
+      "start": 275.3,
+      "end": 277.1,
+      "text": "let's rip apart what sales is doing"
+    },
+    {
+      "start": 277.1,
+      "end": 280.7,
+      "text": "and then let's make each individual more effective."
+    },
+    {
+      "start": 280.7,
+      "end": 282.06,
+      "text": "And we built for that."
+    },
+    {
+      "start": 282.06,
+      "end": 284.82,
+      "text": "That really is, and it becomes,"
+    },
+    {
+      "start": 284.82,
+      "end": 287.7,
+      "text": "when do you have a CRM that, whatever CRM you have,"
+    },
+    {
+      "start": 287.7,
+      "end": 290.1,
+      "text": "but when you have it that actually helps a salesperson"
+    },
+    {
+      "start": 290.1,
+      "end": 292.74,
+      "text": "perform their gig and do better"
+    },
+    {
+      "start": 292.74,
+      "end": 296.7,
+      "text": "and actually makes sense of the world, it's so helpful."
+    },
+    {
+      "start": 296.74,
+      "end": 299.34,
+      "text": "Most often they are data graveyards"
+    },
+    {
+      "start": 299.34,
+      "end": 301.7,
+      "text": "that are built for the wrong people."
+    },
+    {
+      "start": 301.7,
+      "end": 303.1,
+      "text": "And they're really using Excel."
+    },
+    {
+      "start": 303.1,
+      "end": 306.02,
+      "text": "They're using Excel and then the most,"
+    },
+    {
+      "start": 306.02,
+      "end": 307.38,
+      "text": "here's a story, here's a good story."
+    },
+    {
+      "start": 307.38,
+      "end": 310.34,
+      "text": "And there's actually a big company"
+    },
+    {
+      "start": 310.34,
+      "end": 311.5,
+      "text": "that's sold to oil and gas."
+    },
+    {
+      "start": 311.5,
+      "end": 314.38,
+      "text": "So this is relevant, but talking to my buddy"
+    },
+    {
+      "start": 314.38,
+      "end": 317.26,
+      "text": "and he's in a company that sells to oil and gas"
+    },
+    {
+      "start": 317.26,
+      "end": 320.74,
+      "text": "and they have a CRM and he's a high level leader there."
+    },
+    {
+      "start": 320.74,
+      "end": 323.78,
+      "text": "They have three levels of forecasting."
+    },
+    {
+      "start": 323.78,
+      "end": 325.54,
+      "text": "So the first thing that they have to do"
+    },
+    {
+      "start": 325.62,
+      "end": 329.3,
+      "text": "is they force all their reps to put in data into the CRM"
+    },
+    {
+      "start": 329.3,
+      "end": 331.34,
+      "text": "and they do this with a stick, not a carrot."
+    },
+    {
+      "start": 331.34,
+      "end": 332.7,
+      "text": "So we have to force people."
+    },
+    {
+      "start": 332.7,
+      "end": 333.8,
+      "text": "We don't know how else."
+    },
+    {
+      "start": 334.86,
+      "end": 337.26,
+      "text": "So they force them with things like,"
+    },
+    {
+      "start": 337.26,
+      "end": 338.5,
+      "text": "you're not gonna get your commission"
+    },
+    {
+      "start": 338.5,
+      "end": 340.1,
+      "text": "unless all the data's in there correctly"
+    },
+    {
+      "start": 340.1,
+      "end": 341.58,
+      "text": "and those type of things."
+    },
+    {
+      "start": 341.58,
+      "end": 345.44,
+      "text": "Okay, they then take that to the CRM dashboards"
+    },
+    {
+      "start": 345.44,
+      "end": 348.02,
+      "text": "which they start to look at their forecasts"
+    },
+    {
+      "start": 348.02,
+      "end": 349.62,
+      "text": "and the dashboards and reports get pulled out."
+    },
+    {
+      "start": 349.62,
+      "end": 351.7,
+      "text": "But in the deal flow or the deal amount,"
+    },
+    {
+      "start": 351.7,
+      "end": 353.7,
+      "text": "just make it up, just make it up."
+    },
+    {
+      "start": 353.7,
+      "end": 355.06,
+      "text": "That's all made up usually."
+    },
+    {
+      "start": 355.06,
+      "end": 356.22,
+      "text": "And then it goes to this."
+    },
+    {
+      "start": 356.22,
+      "end": 359.06,
+      "text": "And then they look at those dashboards,"
+    },
+    {
+      "start": 359.06,
+      "end": 361.1,
+      "text": "then they pull them all out into Excel."
+    },
+    {
+      "start": 361.1,
+      "end": 363.56,
+      "text": "And mind you, this is a company with about 400 reps."
+    },
+    {
+      "start": 363.56,
+      "end": 367.94,
+      "text": "They pull that out to Excel and then each manager itself"
+    },
+    {
+      "start": 367.94,
+      "end": 371.7,
+      "text": "has to go in and modify the forecast in Excel"
+    },
+    {
+      "start": 371.7,
+      "end": 373.66,
+      "text": "based on what he knows about the reps"
+    },
+    {
+      "start": 373.66,
+      "end": 376.34,
+      "text": "before they even then report it up to the VP."
+    },
+    {
+      "start": 376.34,
+      "end": 377.18,
+      "text": "Yes, yeah."
+    },
+    {
+      "start": 377.18,
+      "end": 378.78,
+      "text": "How much BS is that?"
+    },
+    {
+      "start": 378.78,
+      "end": 379.86,
+      "text": "There's two, yeah."
+    },
+    {
+      "start": 379.86,
+      "end": 380.98,
+      "text": "Oh, I see it all the time."
+    },
+    {
+      "start": 380.98,
+      "end": 382.04,
+      "text": "I see it all the time."
+    },
+    {
+      "start": 382.04,
+      "end": 384.46,
+      "text": "And it's such a waste of time energy effort"
+    },
+    {
+      "start": 384.46,
+      "end": 387.3,
+      "text": "because you're not solving the core fundamental problem,"
+    },
+    {
+      "start": 387.3,
+      "end": 389.98,
+      "text": "which is let's just help them sell more effectively."
+    },
+    {
+      "start": 389.98,
+      "end": 391.78,
+      "text": "If I could do that with a structure"
+    },
+    {
+      "start": 391.78,
+      "end": 394.1,
+      "text": "that helps them sell more effectively and dives in"
+    },
+    {
+      "start": 394.1,
+      "end": 395.7,
+      "text": "and actually makes it worth your while"
+    },
+    {
+      "start": 395.7,
+      "end": 398.02,
+      "text": "to think through things."
+    },
+    {
+      "start": 398.02,
+      "end": 401.38,
+      "text": "Yeah, let's talk about the sales transformation leaders."
+    },
+    {
+      "start": 401.38,
+      "end": 404.7,
+      "text": "Or I wanna hear a little bit about just how you are using"
+    },
+    {
+      "start": 404.7,
+      "end": 407.98,
+      "text": "Salesforce effectively and where maybe some of those gaps were"
+    },
+    {
+      "start": 407.98,
+      "end": 409.82,
+      "text": "and when you decided to design this tool."
+    },
+    {
+      "start": 409.82,
+      "end": 411.94,
+      "text": "So I'd love to hear a little bit of that origin story."
+    },
+    {
+      "start": 411.94,
+      "end": 414.14,
+      "text": "Yes, I ran a sales as a service business"
+    },
+    {
+      "start": 414.14,
+      "end": 415.14,
+      "text": "for about 10 years."
+    },
+    {
+      "start": 415.14,
+      "end": 416.9,
+      "text": "So we had hired, trained and managed teams"
+    },
+    {
+      "start": 416.9,
+      "end": 419.18,
+      "text": "for other organizations."
+    },
+    {
+      "start": 419.18,
+      "end": 422.94,
+      "text": "The biggest initial thing that we found in doing that"
+    },
+    {
+      "start": 422.94,
+      "end": 425.74,
+      "text": "was we immediately became an implementer"
+    },
+    {
+      "start": 425.74,
+      "end": 429.58,
+      "text": "and use Salesforce because what was the deal there was"
+    },
+    {
+      "start": 429.58,
+      "end": 432.9,
+      "text": "if we used other people's systems to do our job,"
+    },
+    {
+      "start": 432.9,
+      "end": 436.06,
+      "text": "it was always a rough, we had to reform the system."
+    },
+    {
+      "start": 436.06,
+      "end": 437.74,
+      "text": "We had to build it from the ground up."
+    },
+    {
+      "start": 437.74,
+      "end": 439.02,
+      "text": "It caused more confusion."
+    },
+    {
+      "start": 439.02,
+      "end": 440.62,
+      "text": "So what we ended up doing,"
+    },
+    {
+      "start": 440.66,
+      "end": 444.26,
+      "text": "we just figured out how to really modify Salesforce"
+    },
+    {
+      "start": 444.26,
+      "end": 446.54,
+      "text": "really well to our purposes"
+    },
+    {
+      "start": 446.54,
+      "end": 449.42,
+      "text": "and then dropped it in every single time"
+    },
+    {
+      "start": 449.42,
+      "end": 450.74,
+      "text": "we came into an organization."
+    },
+    {
+      "start": 450.74,
+      "end": 452.62,
+      "text": "Give me some examples of those automation"
+    },
+    {
+      "start": 452.62,
+      "end": 454.18,
+      "text": "or bells and whistles of what you did"
+    },
+    {
+      "start": 454.18,
+      "end": 456.5,
+      "text": "that were just super effective."
+    },
+    {
+      "start": 456.5,
+      "end": 458.58,
+      "text": "All right, so building a sales process"
+    },
+    {
+      "start": 458.58,
+      "end": 460.22,
+      "text": "is actually pretty tough in Salesforce,"
+    },
+    {
+      "start": 460.22,
+      "end": 461.38,
+      "text": "but we figured out a way to do it"
+    },
+    {
+      "start": 461.38,
+      "end": 462.54,
+      "text": "and we do it every single time."
+    },
+    {
+      "start": 462.54,
+      "end": 465.7,
+      "text": "So what are the core and define things really well?"
+    },
+    {
+      "start": 465.7,
+      "end": 468.34,
+      "text": "What does it mean to do X, Y and Z?"
+    },
+    {
+      "start": 468.34,
+      "end": 469.7,
+      "text": "So if you're going to put something"
+    },
+    {
+      "start": 469.74,
+      "end": 472.1,
+      "text": "in one of Salesforce's five stages that they come,"
+    },
+    {
+      "start": 472.1,
+      "end": 473.06,
+      "text": "it's in prospecting."
+    },
+    {
+      "start": 473.06,
+      "end": 474.46,
+      "text": "What does that mean?"
+    },
+    {
+      "start": 474.46,
+      "end": 475.58,
+      "text": "How do you use it?"
+    },
+    {
+      "start": 475.58,
+      "end": 476.42,
+      "text": "Where does that go?"
+    },
+    {
+      "start": 476.42,
+      "end": 478.1,
+      "text": "And then based on that,"
+    },
+    {
+      "start": 478.1,
+      "end": 480.1,
+      "text": "what are the things that you need to execute?"
+    },
+    {
+      "start": 480.1,
+      "end": 482.06,
+      "text": "What are the milestones you need to have"
+    },
+    {
+      "start": 482.06,
+      "end": 483.66,
+      "text": "to ensure that it's correct?"
+    },
+    {
+      "start": 483.66,
+      "end": 486.34,
+      "text": "And so nobody used it that way."
+    },
+    {
+      "start": 486.34,
+      "end": 489.02,
+      "text": "Nobody said, oh man, it's in prospecting."
+    },
+    {
+      "start": 489.02,
+      "end": 492.02,
+      "text": "It generally was, it's in prospecting, it's 10%, okay."
+    },
+    {
+      "start": 492.02,
+      "end": 493.62,
+      "text": "What the hell does that mean?"
+    },
+    {
+      "start": 493.62,
+      "end": 496.1,
+      "text": "Nobody really thought that through,"
+    },
+    {
+      "start": 496.1,
+      "end": 497.82,
+      "text": "but we got really good at it"
+    },
+    {
+      "start": 497.82,
+      "end": 499.62,
+      "text": "because we had to, we stamped it out again."
+    },
+    {
+      "start": 499.62,
+      "end": 501.94,
+      "text": "But the challenge was, is we had to go in"
+    },
+    {
+      "start": 501.94,
+      "end": 503.42,
+      "text": "and rebuild it every time."
+    },
+    {
+      "start": 503.42,
+      "end": 504.66,
+      "text": "And this was for reps."
+    },
+    {
+      "start": 504.66,
+      "end": 506.64,
+      "text": "We had teams of two reps."
+    },
+    {
+      "start": 506.64,
+      "end": 508.26,
+      "text": "We had teams of 10 reps."
+    },
+    {
+      "start": 508.26,
+      "end": 511.06,
+      "text": "We worked with teams of massive teams."
+    },
+    {
+      "start": 511.06,
+      "end": 513.58,
+      "text": "We actually, one of the funnest, most fun,"
+    },
+    {
+      "start": 513.58,
+      "end": 516.98,
+      "text": "was working with a company called EWI, Edison Welding,"
+    },
+    {
+      "start": 516.98,
+      "end": 517.9,
+      "text": "and then Battelle."
+    },
+    {
+      "start": 517.9,
+      "end": 518.74,
+      "text": "I don't know if you tell,"
+    },
+    {
+      "start": 518.74,
+      "end": 520.86,
+      "text": "but they're one of the largest think tanks"
+    },
+    {
+      "start": 520.86,
+      "end": 521.9,
+      "text": "in the entire world."
+    },
+    {
+      "start": 521.9,
+      "end": 523.78,
+      "text": "They actually serve a lot of oil and gas."
+    },
+    {
+      "start": 523.78,
+      "end": 526.58,
+      "text": "But we would help them create"
+    },
+    {
+      "start": 526.58,
+      "end": 528.78,
+      "text": "and be able to stamp out the best practices."
+    },
+    {
+      "start": 528.78,
+      "end": 530.14,
+      "text": "And then you can modify it from there."
+    },
+    {
+      "start": 530.14,
+      "end": 532.86,
+      "text": "But we had to rebuild every single time that we went in."
+    },
+    {
+      "start": 533.86,
+      "end": 535.14,
+      "text": "I actually didn't found membrane,"
+    },
+    {
+      "start": 535.14,
+      "end": 537.5,
+      "text": "but I found these guys in 2019"
+    },
+    {
+      "start": 537.5,
+      "end": 540.98,
+      "text": "after I left that other business for some health problems."
+    },
+    {
+      "start": 540.98,
+      "end": 544.06,
+      "text": "I was thinking of becoming a sales transformation expert"
+    },
+    {
+      "start": 544.06,
+      "end": 546.14,
+      "text": "myself and that's what I was going into."
+    },
+    {
+      "start": 546.14,
+      "end": 548.7,
+      "text": "And I found membrane and I fell in love."
+    },
+    {
+      "start": 548.7,
+      "end": 550.3,
+      "text": "The reason I fell in love,"
+    },
+    {
+      "start": 550.3,
+      "end": 552.98,
+      "text": "it's the only CRM ever that I've found"
+    },
+    {
+      "start": 552.98,
+      "end": 554.82,
+      "text": "that you can actually build a process"
+    },
+    {
+      "start": 554.86,
+      "end": 557.62,
+      "text": "that incorporates sales and the buyer"
+    },
+    {
+      "start": 557.62,
+      "end": 560.02,
+      "text": "and replicate at a push of a button."
+    },
+    {
+      "start": 560.02,
+      "end": 564.06,
+      "text": "Like best practices, be able to set down,"
+    },
+    {
+      "start": 564.06,
+      "end": 565.66,
+      "text": "here's the best practice, sales process,"
+    },
+    {
+      "start": 565.66,
+      "end": 566.98,
+      "text": "and then replicate, boom."
+    },
+    {
+      "start": 566.98,
+      "end": 570.06,
+      "text": "So I just saw that as an amazing opportunity."
+    },
+    {
+      "start": 570.06,
+      "end": 571.94,
+      "text": "So you start to look at verticals,"
+    },
+    {
+      "start": 571.94,
+      "end": 573.7,
+      "text": "verticals like oil and gas."
+    },
+    {
+      "start": 573.7,
+      "end": 576.38,
+      "text": "There are best practices on how we go after."
+    },
+    {
+      "start": 576.38,
+      "end": 578.42,
+      "text": "Like it's really critical."
+    },
+    {
+      "start": 578.42,
+      "end": 580.74,
+      "text": "When I talk about oil and gas, it's perseverance."
+    },
+    {
+      "start": 580.74,
+      "end": 582.26,
+      "text": "It's account mapping."
+    },
+    {
+      "start": 582.26,
+      "end": 584.82,
+      "text": "You have to have it really well done."
+    },
+    {
+      "start": 584.82,
+      "end": 586.74,
+      "text": "You have to have that professional persistence"
+    },
+    {
+      "start": 586.74,
+      "end": 589.26,
+      "text": "and that continual and how you're gonna do that,"
+    },
+    {
+      "start": 589.26,
+      "end": 592.26,
+      "text": "but you need a system that will actually help you do that"
+    },
+    {
+      "start": 592.26,
+      "end": 594.94,
+      "text": "rather than just send you a reminder here and there"
+    },
+    {
+      "start": 594.94,
+      "end": 596.74,
+      "text": "on a task you scheduled, right?"
+    },
+    {
+      "start": 596.74,
+      "end": 599.54,
+      "text": "So how do I stamp that out again and again for companies"
+    },
+    {
+      "start": 599.54,
+      "end": 601.14,
+      "text": "and help them with that?"
+    },
+    {
+      "start": 601.14,
+      "end": 602.54,
+      "text": "And I fell in love."
+    },
+    {
+      "start": 602.54,
+      "end": 604.78,
+      "text": "It's just a great platform"
+    },
+    {
+      "start": 604.78,
+      "end": 606.22,
+      "text": "and great people that we work with."
+    },
+    {
+      "start": 606.22,
+      "end": 608.38,
+      "text": "Okay, so let's zoom out a little bit"
+    },
+    {
+      "start": 608.38,
+      "end": 612.78,
+      "text": "and just talk about best practices for CRMs."
+    },
+    {
+      "start": 612.78,
+      "end": 617.78,
+      "text": "I think that there's a lot of people dying in organizations"
+    },
+    {
+      "start": 618.42,
+      "end": 621.82,
+      "text": "because their CRMs are not set up properly."
+    },
+    {
+      "start": 621.82,
+      "end": 624.7,
+      "text": "I do believe you need to get a CRM"
+    },
+    {
+      "start": 624.7,
+      "end": 626.9,
+      "text": "that's gonna actually help you sell,"
+    },
+    {
+      "start": 626.9,
+      "end": 629.34,
+      "text": "but sometimes salespeople that are listening"
+    },
+    {
+      "start": 629.34,
+      "end": 633.5,
+      "text": "can't control what tech stack they're stuck in, right?"
+    },
+    {
+      "start": 633.5,
+      "end": 637.14,
+      "text": "And so they build their own systems outside of that"
+    },
+    {
+      "start": 637.14,
+      "end": 639.18,
+      "text": "and they tend to move to Excel"
+    },
+    {
+      "start": 639.18,
+      "end": 642.06,
+      "text": "or just really rudimentary stuff"
+    },
+    {
+      "start": 642.06,
+      "end": 643.98,
+      "text": "and they're not even using the tech stack they have."
+    },
+    {
+      "start": 643.98,
+      "end": 646.98,
+      "text": "So if they have a tech stack right now,"
+    },
+    {
+      "start": 646.98,
+      "end": 650.14,
+      "text": "a CRM, Salesforce, whatever, there's others,"
+    },
+    {
+      "start": 650.14,
+      "end": 653.58,
+      "text": "what do they need to make sure minimum viable product"
+    },
+    {
+      "start": 653.58,
+      "end": 655.86,
+      "text": "that is set up that they should be doing"
+    },
+    {
+      "start": 655.86,
+      "end": 657.62,
+      "text": "or they could get implemented"
+    },
+    {
+      "start": 657.62,
+      "end": 660.34,
+      "text": "to help improve the overall experience?"
+    },
+    {
+      "start": 660.34,
+      "end": 663.18,
+      "text": "Okay, can I flip the question really for a second?"
+    },
+    {
+      "start": 663.18,
+      "end": 665.86,
+      "text": "Because I'm gonna flip to what I see most generally."
+    },
+    {
+      "start": 665.9,
+      "end": 669.66,
+      "text": "You said three, let a minimum viable product, right?"
+    },
+    {
+      "start": 669.66,
+      "end": 672.1,
+      "text": "What you generally find is the flip side."
+    },
+    {
+      "start": 672.1,
+      "end": 676.58,
+      "text": "What you generally find is a maximally overbuilt behemoth"
+    },
+    {
+      "start": 676.58,
+      "end": 679.02,
+      "text": "that becomes really hard"
+    },
+    {
+      "start": 679.02,
+      "end": 681.62,
+      "text": "for the normal salesperson to execute."
+    },
+    {
+      "start": 681.62,
+      "end": 683.94,
+      "text": "Or the CRM's just out of the box the way it is."
+    },
+    {
+      "start": 683.94,
+      "end": 685.06,
+      "text": "Yeah, it's just overbuilt."
+    },
+    {
+      "start": 685.06,
+      "end": 686.1,
+      "text": "It's like, how do I do it?"
+    },
+    {
+      "start": 686.1,
+      "end": 687.78,
+      "text": "I don't understand all these terms."
+    },
+    {
+      "start": 687.78,
+      "end": 690.38,
+      "text": "The interesting contrast with CRMs is a lot of times,"
+    },
+    {
+      "start": 690.38,
+      "end": 692.02,
+      "text": "what you've seen is they have,"
+    },
+    {
+      "start": 692.02,
+      "end": 694.02,
+      "text": "most of them have evolved from-"
+    },
+    {
+      "start": 694.02,
+      "end": 695.14,
+      "text": "Too many bells and whistles."
+    },
+    {
+      "start": 695.18,
+      "end": 696.26,
+      "text": "There's too many bells and whistles,"
+    },
+    {
+      "start": 696.26,
+      "end": 698.86,
+      "text": "but they're also the language that they have within them"
+    },
+    {
+      "start": 698.86,
+      "end": 701.54,
+      "text": "is built for the administrator and the IT person"
+    },
+    {
+      "start": 701.54,
+      "end": 705.74,
+      "text": "rather than the salesperson."
+    },
+    {
+      "start": 705.74,
+      "end": 706.66,
+      "text": "So like-"
+    },
+    {
+      "start": 706.66,
+      "end": 707.5,
+      "text": "The end user."
+    },
+    {
+      "start": 707.5,
+      "end": 708.34,
+      "text": "The end user."
+    },
+    {
+      "start": 708.34,
+      "end": 709.3,
+      "text": "So that's what I generally see."
+    },
+    {
+      "start": 709.3,
+      "end": 711.14,
+      "text": "What you need in a minimum viable product,"
+    },
+    {
+      "start": 711.14,
+      "end": 713.82,
+      "text": "something that is gonna help you follow your process,"
+    },
+    {
+      "start": 713.82,
+      "end": 715.9,
+      "text": "remind you to do that,"
+    },
+    {
+      "start": 715.9,
+      "end": 718.22,
+      "text": "keep that professional persistence,"
+    },
+    {
+      "start": 718.22,
+      "end": 720.74,
+      "text": "follow best practices, and then map your accounts."
+    },
+    {
+      "start": 720.74,
+      "end": 723.06,
+      "text": "Go into each of those steps in detail."
+    },
+    {
+      "start": 723.06,
+      "end": 725.46,
+      "text": "Let's do like a CRM 101."
+    },
+    {
+      "start": 725.46,
+      "end": 727.3,
+      "text": "Break it down for everybody"
+    },
+    {
+      "start": 727.3,
+      "end": 729.26,
+      "text": "and what are those best practices?"
+    },
+    {
+      "start": 729.26,
+      "end": 731.26,
+      "text": "Like each stage of what you talked about just-"
+    },
+    {
+      "start": 731.26,
+      "end": 733.78,
+      "text": "So there's three main jobs to be done on the seller side."
+    },
+    {
+      "start": 733.78,
+      "end": 735.06,
+      "text": "Let's just talk about jobs to be done."
+    },
+    {
+      "start": 735.06,
+      "end": 737.62,
+      "text": "New business about, so prospecting."
+    },
+    {
+      "start": 737.62,
+      "end": 740.74,
+      "text": "Let's just, my prospecting rhythm, how do I do that?"
+    },
+    {
+      "start": 740.74,
+      "end": 743.9,
+      "text": "So if you don't have the ability to map out"
+    },
+    {
+      "start": 743.9,
+      "end": 746.62,
+      "text": "your prospecting process and prospecting rhythm"
+    },
+    {
+      "start": 746.62,
+      "end": 748.38,
+      "text": "for different types of prospects"
+    },
+    {
+      "start": 748.38,
+      "end": 751.62,
+      "text": "and hold yourself accountable to that, you're gonna lose."
+    },
+    {
+      "start": 751.62,
+      "end": 752.62,
+      "text": "What does that look like?"
+    },
+    {
+      "start": 752.62,
+      "end": 754.1,
+      "text": "Give me, describe that."
+    },
+    {
+      "start": 754.1,
+      "end": 756.02,
+      "text": "For us, it looks like what is a,"
+    },
+    {
+      "start": 756.02,
+      "end": 758.38,
+      "text": "who are the people that I need to reach out to?"
+    },
+    {
+      "start": 758.38,
+      "end": 760.86,
+      "text": "What is the cadence that I need to reach out to the mem?"
+    },
+    {
+      "start": 760.86,
+      "end": 762.62,
+      "text": "And then how is my, Kate,"
+    },
+    {
+      "start": 762.62,
+      "end": 764.94,
+      "text": "how does that then appear for me in a manner"
+    },
+    {
+      "start": 764.94,
+      "end": 766.38,
+      "text": "that I can actually execute?"
+    },
+    {
+      "start": 766.38,
+      "end": 767.58,
+      "text": "So- How does that tie to your calendar?"
+    },
+    {
+      "start": 767.58,
+      "end": 769.02,
+      "text": "How does that tie to your calendar?"
+    },
+    {
+      "start": 769.02,
+      "end": 770.42,
+      "text": "How does that tie to your email?"
+    },
+    {
+      "start": 770.42,
+      "end": 772.38,
+      "text": "How does it tie to what marketing's doing?"
+    },
+    {
+      "start": 772.38,
+      "end": 774.5,
+      "text": "It's just, who are the people?"
+    },
+    {
+      "start": 774.5,
+      "end": 776.58,
+      "text": "How often, and the cadence?"
+    },
+    {
+      "start": 776.58,
+      "end": 778.38,
+      "text": "And it needs to help me do that."
+    },
+    {
+      "start": 778.38,
+      "end": 779.58,
+      "text": "And if it's really good,"
+    },
+    {
+      "start": 779.58,
+      "end": 781.66,
+      "text": "it can actually help you with the best practices"
+    },
+    {
+      "start": 781.66,
+      "end": 782.78,
+      "text": "of how to reach out to them."
+    },
+    {
+      "start": 782.78,
+      "end": 784.74,
+      "text": "It sounds like if you build that out,"
+    },
+    {
+      "start": 784.74,
+      "end": 786.54,
+      "text": "you could add AI to it."
+    },
+    {
+      "start": 786.54,
+      "end": 788.86,
+      "text": "Yes, you can."
+    },
+    {
+      "start": 789.94,
+      "end": 790.78,
+      "text": "Yes, you can."
+    },
+    {
+      "start": 790.78,
+      "end": 792.54,
+      "text": "So that's the prospecting side."
+    },
+    {
+      "start": 792.54,
+      "end": 793.38,
+      "text": "And yes, yeah."
+    },
+    {
+      "start": 793.38,
+      "end": 796.74,
+      "text": "So it's AI enabled, it can help you with information."
+    },
+    {
+      "start": 796.74,
+      "end": 798.38,
+      "text": "We're doing a lot of that right now"
+    },
+    {
+      "start": 798.38,
+      "end": 800.86,
+      "text": "is how do I pull in and what's relevant?"
+    },
+    {
+      "start": 800.86,
+      "end": 804.9,
+      "text": "So I can, the best thing for AI that I've found for a,"
+    },
+    {
+      "start": 804.9,
+      "end": 806.42,
+      "text": "if you're going with a B2B sales team"
+    },
+    {
+      "start": 806.42,
+      "end": 809.38,
+      "text": "that you're committed to actually making this work,"
+    },
+    {
+      "start": 809.38,
+      "end": 810.58,
+      "text": "they are going to do the work,"
+    },
+    {
+      "start": 810.58,
+      "end": 812.66,
+      "text": "is to empower them with the right information."
+    },
+    {
+      "start": 812.66,
+      "end": 815.58,
+      "text": "It does decrease the research levels massively."
+    },
+    {
+      "start": 815.58,
+      "end": 816.42,
+      "text": "Yeah."
+    },
+    {
+      "start": 816.42,
+      "end": 817.26,
+      "text": "So there's that one."
+    },
+    {
+      "start": 817.26,
+      "end": 818.08,
+      "text": "Then there's your pipeline."
+    },
+    {
+      "start": 818.08,
+      "end": 820.02,
+      "text": "So how do I run deals?"
+    },
+    {
+      "start": 820.02,
+      "end": 821.7,
+      "text": "Pretty darn, like that's the second thing."
+    },
+    {
+      "start": 821.7,
+      "end": 823.46,
+      "text": "So I need to find deals."
+    },
+    {
+      "start": 823.46,
+      "end": 824.82,
+      "text": "I need to run deals."
+    },
+    {
+      "start": 824.82,
+      "end": 827.58,
+      "text": "Give me an example of a simplistic workflow"
+    },
+    {
+      "start": 827.58,
+      "end": 828.94,
+      "text": "of running deals."
+    },
+    {
+      "start": 828.94,
+      "end": 829.86,
+      "text": "Do you know a guy,"
+    },
+    {
+      "start": 829.86,
+      "end": 832.42,
+      "text": "have you ever heard of a guy named Dave Curlin?"
+    },
+    {
+      "start": 832.42,
+      "end": 833.66,
+      "text": "Name rings bell, but no."
+    },
+    {
+      "start": 833.66,
+      "end": 835.38,
+      "text": "He wrote a book called Baseline Selling."
+    },
+    {
+      "start": 835.38,
+      "end": 836.38,
+      "text": "It's a wonderful,"
+    },
+    {
+      "start": 836.38,
+      "end": 837.78,
+      "text": "I don't know that, but yeah."
+    },
+    {
+      "start": 837.78,
+      "end": 838.74,
+      "text": "Great book to read."
+    },
+    {
+      "start": 838.74,
+      "end": 839.58,
+      "text": "I love Dave."
+    },
+    {
+      "start": 839.58,
+      "end": 840.42,
+      "text": "Baseline Selling."
+    },
+    {
+      "start": 840.42,
+      "end": 842.74,
+      "text": "He has an analogy of the baseball diamond."
+    },
+    {
+      "start": 842.74,
+      "end": 843.58,
+      "text": "Okay."
+    },
+    {
+      "start": 843.58,
+      "end": 845.98,
+      "text": "Being able to define a workflow that simple"
+    },
+    {
+      "start": 845.98,
+      "end": 848.34,
+      "text": "in terms of how you actually walk through"
+    },
+    {
+      "start": 848.34,
+      "end": 851.1,
+      "text": "and what are the key milestones in your deal process."
+    },
+    {
+      "start": 851.1,
+      "end": 852.06,
+      "text": "So what is a stage?"
+    },
+    {
+      "start": 852.06,
+      "end": 854.5,
+      "text": "What is a milestone buyer and seller milestone?"
+    },
+    {
+      "start": 854.5,
+      "end": 855.98,
+      "text": "What do we have to get through?"
+    },
+    {
+      "start": 855.98,
+      "end": 857.94,
+      "text": "What communication should I have at that stage?"
+    },
+    {
+      "start": 857.94,
+      "end": 860.5,
+      "text": "And then how do I move on?"
+    },
+    {
+      "start": 860.5,
+      "end": 864.3,
+      "text": "So being able to have a process very easily outlined,"
+    },
+    {
+      "start": 864.3,
+      "end": 868.6,
+      "text": "visual, able to execute that just walks you through"
+    },
+    {
+      "start": 868.6,
+      "end": 870.64,
+      "text": "and helps you close a deal."
+    },
+    {
+      "start": 870.64,
+      "end": 871.92,
+      "text": "That's really important for a CEO."
+    },
+    {
+      "start": 871.92,
+      "end": 873.64,
+      "text": "Whatever CRM you're using, right?"
+    },
+    {
+      "start": 873.64,
+      "end": 876.56,
+      "text": "And I don't, a lot of people try and mix it up."
+    },
+    {
+      "start": 876.56,
+      "end": 879.6,
+      "text": "They say, you have to fill out this number of fields"
+    },
+    {
+      "start": 879.6,
+      "end": 881.68,
+      "text": "for it to be at this level and that type of stuff."
+    },
+    {
+      "start": 881.68,
+      "end": 884.36,
+      "text": "If you're like, simplify minimum viable product."
+    },
+    {
+      "start": 884.36,
+      "end": 886.64,
+      "text": "What I love about Dave and Baseline"
+    },
+    {
+      "start": 886.64,
+      "end": 889.08,
+      "text": "and a lot of others that follow that type of thing"
+    },
+    {
+      "start": 889.08,
+      "end": 891.94,
+      "text": "is did we take the actions that we need to take,"
+    },
+    {
+      "start": 891.94,
+      "end": 893.48,
+      "text": "the committed actions that we need to take?"
+    },
+    {
+      "start": 893.48,
+      "end": 896.0,
+      "text": "And did they take those actions that they need to take"
+    },
+    {
+      "start": 896.0,
+      "end": 897.12,
+      "text": "to move to second base?"
+    },
+    {
+      "start": 897.12,
+      "end": 898.36,
+      "text": "To move to third base."
+    },
+    {
+      "start": 898.36,
+      "end": 900.92,
+      "text": "And the very simple actions like that,"
+    },
+    {
+      "start": 900.92,
+      "end": 902.64,
+      "text": "being able to define yourself a process"
+    },
+    {
+      "start": 902.64,
+      "end": 906.96,
+      "text": "so you know exactly where you are with all of your clients."
+    },
+    {
+      "start": 906.96,
+      "end": 908.64,
+      "text": "That's a really big deal."
+    },
+    {
+      "start": 908.64,
+      "end": 911.4,
+      "text": "That's how you determine how your pipeline is, right?"
+    },
+    {
+      "start": 911.4,
+      "end": 914.0,
+      "text": "And then you can get some visualizations."
+    },
+    {
+      "start": 914.0,
+      "end": 914.84,
+      "text": "Yep."
+    },
+    {
+      "start": 914.84,
+      "end": 916.92,
+      "text": "And if you're targeting the right kind of clients,"
+    },
+    {
+      "start": 916.92,
+      "end": 919.0,
+      "text": "the deal flows are gonna be shaped"
+    },
+    {
+      "start": 919.0,
+      "end": 920.76,
+      "text": "unless there's a super outlier."
+    },
+    {
+      "start": 920.76,
+      "end": 921.8,
+      "text": "Yeah."
+    },
+    {
+      "start": 921.8,
+      "end": 924.04,
+      "text": "Then you start to layer on top of that,"
+    },
+    {
+      "start": 924.04,
+      "end": 925.92,
+      "text": "like the actual people involved in the deals"
+    },
+    {
+      "start": 925.92,
+      "end": 928.08,
+      "text": "and where they are in the specific deal."
+    },
+    {
+      "start": 928.08,
+      "end": 929.56,
+      "text": "When we're going to minimum viable product,"
+    },
+    {
+      "start": 929.56,
+      "end": 930.4,
+      "text": "I don't recommend that,"
+    },
+    {
+      "start": 930.4,
+      "end": 932.64,
+      "text": "but when you start to dive in more"
+    },
+    {
+      "start": 932.64,
+      "end": 934.76,
+      "text": "is where each person is in that deal"
+    },
+    {
+      "start": 934.76,
+      "end": 936.12,
+      "text": "and how you can layer in that in"
+    },
+    {
+      "start": 936.12,
+      "end": 938.36,
+      "text": "and how you visualize that and how you go,"
+    },
+    {
+      "start": 938.36,
+      "end": 942.08,
+      "text": "it becomes, you don't have to guess at forecasting."
+    },
+    {
+      "start": 942.08,
+      "end": 944.72,
+      "text": "And that's what it confused the hell out of me"
+    },
+    {
+      "start": 944.72,
+      "end": 945.56,
+      "text": "for so many years."
+    },
+    {
+      "start": 945.56,
+      "end": 947.72,
+      "text": "Why are people guessing at forecasting"
+    },
+    {
+      "start": 947.72,
+      "end": 949.84,
+      "text": "when they have things like a CRM built?"
+    },
+    {
+      "start": 949.84,
+      "end": 953.2,
+      "text": "And when you do it right, you don't need to guess,"
+    },
+    {
+      "start": 953.2,
+      "end": 954.44,
+      "text": "you don't have to guess,"
+    },
+    {
+      "start": 954.44,
+      "end": 956.32,
+      "text": "but the key is empowering that rep"
+    },
+    {
+      "start": 956.32,
+      "end": 958.12,
+      "text": "with a process that actually works."
+    },
+    {
+      "start": 958.12,
+      "end": 959.44,
+      "text": "Paul, what's the next step?"
+    },
+    {
+      "start": 959.44,
+      "end": 961.36,
+      "text": "Next step is growing your accounts."
+    },
+    {
+      "start": 961.36,
+      "end": 963.6,
+      "text": "That's what everybody wants to know."
+    },
+    {
+      "start": 963.6,
+      "end": 964.6,
+      "text": "There you go."
+    },
+    {
+      "start": 964.6,
+      "end": 967.12,
+      "text": "So what I find is really interesting"
+    },
+    {
+      "start": 967.12,
+      "end": 970.76,
+      "text": "is all CRMs promise this idea of a 360 view"
+    },
+    {
+      "start": 970.76,
+      "end": 971.96,
+      "text": "of your customer, right?"
+    },
+    {
+      "start": 971.96,
+      "end": 974.04,
+      "text": "It has been the most overused promise"
+    },
+    {
+      "start": 974.04,
+      "end": 977.28,
+      "text": "and most under leveraged promise in the world."
+    },
+    {
+      "start": 977.28,
+      "end": 978.12,
+      "text": "Like I think it's,"
+    },
+    {
+      "start": 978.12,
+      "end": 980.0,
+      "text": "I'm gonna give you a 360 view of your customer."
+    },
+    {
+      "start": 980.0,
+      "end": 980.84,
+      "text": "Bullshit."
+    },
+    {
+      "start": 980.84,
+      "end": 982.32,
+      "text": "What they give you is a bunch of different things"
+    },
+    {
+      "start": 982.32,
+      "end": 983.6,
+      "text": "to click on."
+    },
+    {
+      "start": 983.6,
+      "end": 986.76,
+      "text": "What you said, I want to key on this and just call it out."
+    },
+    {
+      "start": 986.76,
+      "end": 991.76,
+      "text": "I think that's why there's this animosity towards CRMs."
+    },
+    {
+      "start": 992.0,
+      "end": 996.8,
+      "text": "Because the promise of the CRM was broken"
+    },
+    {
+      "start": 996.8,
+      "end": 999.24,
+      "text": "to the sales person, at least in my case,"
+    },
+    {
+      "start": 999.24,
+      "end": 1001.28,
+      "text": "that was the experience I had."
+    },
+    {
+      "start": 1001.28,
+      "end": 1002.12,
+      "text": "Amen."
+    },
+    {
+      "start": 1002.12,
+      "end": 1004.56,
+      "text": "And also getting everybody on the same page."
+    },
+    {
+      "start": 1004.56,
+      "end": 1007.2,
+      "text": "If everybody's not entering the data the same way,"
+    },
+    {
+      "start": 1007.2,
+      "end": 1008.04,
+      "text": "it doesn't work."
+    },
+    {
+      "start": 1008.04,
+      "end": 1010.04,
+      "text": "There's a lot of coordination that has to happen,"
+    },
+    {
+      "start": 1010.04,
+      "end": 1012.04,
+      "text": "but that promise being broken,"
+    },
+    {
+      "start": 1012.04,
+      "end": 1015.52,
+      "text": "I think it might be one of the root issues"
+    },
+    {
+      "start": 1015.52,
+      "end": 1017.76,
+      "text": "with why sales people just are like,"
+    },
+    {
+      "start": 1017.76,
+      "end": 1020.08,
+      "text": "oh, the CRM entering in data, I don't want to do it"
+    },
+    {
+      "start": 1020.08,
+      "end": 1023.0,
+      "text": "because it doesn't help me or they don't see it,"
+    },
+    {
+      "start": 1023.0,
+      "end": 1024.64,
+      "text": "but it should."
+    },
+    {
+      "start": 1024.64,
+      "end": 1026.12,
+      "text": "100% and it should."
+    },
+    {
+      "start": 1026.12,
+      "end": 1028.56,
+      "text": "And the reason that it doesn't help"
+    },
+    {
+      "start": 1028.56,
+      "end": 1030.52,
+      "text": "is because people have used it"
+    },
+    {
+      "start": 1030.52,
+      "end": 1032.56,
+      "text": "and go back to some of the things we've used before,"
+    },
+    {
+      "start": 1032.56,
+      "end": 1034.2,
+      "text": "they've used it for the wrong reasons."
+    },
+    {
+      "start": 1034.2,
+      "end": 1037.64,
+      "text": "They've gone to the idea of the person that needs to help,"
+    },
+    {
+      "start": 1037.64,
+      "end": 1040.16,
+      "text": "get me this data, get me this data."
+    },
+    {
+      "start": 1040.2,
+      "end": 1041.68,
+      "text": "So it's got to help the seed level"
+    },
+    {
+      "start": 1041.68,
+      "end": 1044.72,
+      "text": "instead of the person that's actually acting on it."
+    },
+    {
+      "start": 1044.72,
+      "end": 1048.08,
+      "text": "And so what happens is you get the crap data, right?"
+    },
+    {
+      "start": 1048.08,
+      "end": 1050.72,
+      "text": "But if it actually helps me map and understand an account"
+    },
+    {
+      "start": 1050.72,
+      "end": 1053.32,
+      "text": "and it brings me some value in terms of,"
+    },
+    {
+      "start": 1053.32,
+      "end": 1055.36,
+      "text": "I love a visual view of accounts"
+    },
+    {
+      "start": 1055.36,
+      "end": 1059.52,
+      "text": "and I love, personally, I love yearly planning for accounts."
+    },
+    {
+      "start": 1059.52,
+      "end": 1060.36,
+      "text": "Let's talk about that."
+    },
+    {
+      "start": 1060.36,
+      "end": 1062.92,
+      "text": "I want to dive deep on it, 360 view of the account."
+    },
+    {
+      "start": 1062.92,
+      "end": 1063.92,
+      "text": "What does that mean to you?"
+    },
+    {
+      "start": 1063.92,
+      "end": 1065.32,
+      "text": "What's your definition of that?"
+    },
+    {
+      "start": 1065.32,
+      "end": 1067.96,
+      "text": "And then how do you project out"
+    },
+    {
+      "start": 1067.96,
+      "end": 1069.4,
+      "text": "what's going to happen with this account"
+    },
+    {
+      "start": 1069.4,
+      "end": 1070.48,
+      "text": "and growing this account?"
+    },
+    {
+      "start": 1070.48,
+      "end": 1071.84,
+      "text": "Let's go back to that."
+    },
+    {
+      "start": 1071.84,
+      "end": 1072.76,
+      "text": "Yeah, it's interesting."
+    },
+    {
+      "start": 1072.76,
+      "end": 1074.84,
+      "text": "You don't need to really stray much"
+    },
+    {
+      "start": 1074.84,
+      "end": 1078.48,
+      "text": "from a process-based view of life in terms of doing that."
+    },
+    {
+      "start": 1078.48,
+      "end": 1081.4,
+      "text": "So a good 360 view of an account is gonna give me all of,"
+    },
+    {
+      "start": 1081.4,
+      "end": 1083.96,
+      "text": "I need a process to be able to get through"
+    },
+    {
+      "start": 1083.96,
+      "end": 1086.36,
+      "text": "who are the people in the account that I need to reach?"
+    },
+    {
+      "start": 1086.36,
+      "end": 1087.96,
+      "text": "What's my continual process"
+    },
+    {
+      "start": 1087.96,
+      "end": 1090.84,
+      "text": "for understanding new people in the account?"
+    },
+    {
+      "start": 1090.84,
+      "end": 1092.8,
+      "text": "Am I doing that or am I not doing that?"
+    },
+    {
+      "start": 1092.8,
+      "end": 1094.52,
+      "text": "And should I be doing that?"
+    },
+    {
+      "start": 1094.52,
+      "end": 1097.12,
+      "text": "And then what is the account actually doing with us?"
+    },
+    {
+      "start": 1097.12,
+      "end": 1099.08,
+      "text": "So that's one of the things that's really interesting"
+    },
+    {
+      "start": 1099.08,
+      "end": 1102.44,
+      "text": "in a lot of organizations is they can't show,"
+    },
+    {
+      "start": 1102.44,
+      "end": 1105.24,
+      "text": "like they give a CRM tool to somebody"
+    },
+    {
+      "start": 1105.24,
+      "end": 1107.84,
+      "text": "and they can't show actually what's happening in the account."
+    },
+    {
+      "start": 1107.84,
+      "end": 1110.4,
+      "text": "Oh, account in the spot, they're doing account planning"
+    },
+    {
+      "start": 1110.4,
+      "end": 1112.8,
+      "text": "and trying to grow that what they end up showing is"
+    },
+    {
+      "start": 1112.8,
+      "end": 1114.36,
+      "text": "you got to go to the ERP for that."
+    },
+    {
+      "start": 1114.36,
+      "end": 1116.06,
+      "text": "You got to go here for that."
+    },
+    {
+      "start": 1116.06,
+      "end": 1117.32,
+      "text": "If you're going to look at call records,"
+    },
+    {
+      "start": 1117.32,
+      "end": 1118.56,
+      "text": "you got to go here."
+    },
+    {
+      "start": 1118.56,
+      "end": 1120.56,
+      "text": "If you want to build, see all the processes"
+    },
+    {
+      "start": 1120.56,
+      "end": 1121.48,
+      "text": "and projects we're running,"
+    },
+    {
+      "start": 1121.48,
+      "end": 1124.32,
+      "text": "you got to look at our process management tool."
+    },
+    {
+      "start": 1124.32,
+      "end": 1128.12,
+      "text": "So it becomes this thing where you start to give people"
+    },
+    {
+      "start": 1128.16,
+      "end": 1130.36,
+      "text": "homework that they hate."
+    },
+    {
+      "start": 1130.36,
+      "end": 1132.4,
+      "text": "Nobody likes going in, pointing and clicking"
+    },
+    {
+      "start": 1132.4,
+      "end": 1134.2,
+      "text": "and doing all this stuff."
+    },
+    {
+      "start": 1134.2,
+      "end": 1137.52,
+      "text": "But if you can literally give the people I need to talk to,"
+    },
+    {
+      "start": 1137.52,
+      "end": 1138.84,
+      "text": "the projects that we're running,"
+    },
+    {
+      "start": 1138.84,
+      "end": 1140.84,
+      "text": "the revenues that are coming in,"
+    },
+    {
+      "start": 1140.84,
+      "end": 1144.24,
+      "text": "and a cadence and a process for how I uncover more"
+    },
+    {
+      "start": 1144.24,
+      "end": 1146.28,
+      "text": "and better in the account,"
+    },
+    {
+      "start": 1146.28,
+      "end": 1148.64,
+      "text": "and then I can manage a pipeline through those accounts,"
+    },
+    {
+      "start": 1148.64,
+      "end": 1151.12,
+      "text": "it becomes something that's usable."
+    },
+    {
+      "start": 1151.12,
+      "end": 1152.8,
+      "text": "And that's one of the biggest things in Orham Gas."
+    },
+    {
+      "start": 1152.8,
+      "end": 1154.92,
+      "text": "These companies, depending on who you're targeting,"
+    },
+    {
+      "start": 1154.92,
+      "end": 1158.24,
+      "text": "is massive and there's buyers with different budgets"
+    },
+    {
+      "start": 1158.24,
+      "end": 1159.76,
+      "text": "all throughout the organization."
+    },
+    {
+      "start": 1159.76,
+      "end": 1161.88,
+      "text": "So if you're in with one,"
+    },
+    {
+      "start": 1161.88,
+      "end": 1164.12,
+      "text": "I think you want to strengthen the champions"
+    },
+    {
+      "start": 1164.12,
+      "end": 1165.36,
+      "text": "you have internally,"
+    },
+    {
+      "start": 1165.36,
+      "end": 1167.3,
+      "text": "but also you're missing out on revenue"
+    },
+    {
+      "start": 1167.3,
+      "end": 1168.76,
+      "text": "and that's big account."
+    },
+    {
+      "start": 1168.76,
+      "end": 1171.04,
+      "text": "People are going after it all the time."
+    },
+    {
+      "start": 1171.04,
+      "end": 1173.8,
+      "text": "And we talked about this in a previous podcast."
+    },
+    {
+      "start": 1173.8,
+      "end": 1176.36,
+      "text": "I think it's so funny that salespeople are like,"
+    },
+    {
+      "start": 1176.36,
+      "end": 1178.48,
+      "text": "I own this account like this, right?"
+    },
+    {
+      "start": 1178.48,
+      "end": 1179.82,
+      "text": "Yes."
+    },
+    {
+      "start": 1179.82,
+      "end": 1182.32,
+      "text": "That is a great, I own Exxon,"
+    },
+    {
+      "start": 1182.92,
+      "end": 1184.96,
+      "text": "good luck with that."
+    },
+    {
+      "start": 1184.96,
+      "end": 1187.12,
+      "text": "I think it comes down to,"
+    },
+    {
+      "start": 1187.12,
+      "end": 1188.92,
+      "text": "it's not mapped clearly,"
+    },
+    {
+      "start": 1188.92,
+      "end": 1190.84,
+      "text": "so you can't see what other people are doing"
+    },
+    {
+      "start": 1190.84,
+      "end": 1192.56,
+      "text": "and you don't want to step in on each other's shoes."
+    },
+    {
+      "start": 1192.56,
+      "end": 1194.88,
+      "text": "That's why I think the rule came about."
+    },
+    {
+      "start": 1194.88,
+      "end": 1197.4,
+      "text": "I would say, okay, if you do own this account,"
+    },
+    {
+      "start": 1197.4,
+      "end": 1200.16,
+      "text": "here are the things you have to do"
+    },
+    {
+      "start": 1200.16,
+      "end": 1202.08,
+      "text": "to keep ownership of this account."
+    },
+    {
+      "start": 1202.08,
+      "end": 1205.6,
+      "text": "You need to be adding new people inside the organization."
+    },
+    {
+      "start": 1205.6,
+      "end": 1209.12,
+      "text": "You need to be actively prospecting internally"
+    },
+    {
+      "start": 1209.12,
+      "end": 1211.2,
+      "text": "for you to hold on to that, right?"
+    },
+    {
+      "start": 1211.2,
+      "end": 1214.16,
+      "text": "I think there should be stipulations around that."
+    },
+    {
+      "start": 1214.16,
+      "end": 1215.48,
+      "text": "When you look at these big accounts"
+    },
+    {
+      "start": 1215.48,
+      "end": 1216.72,
+      "text": "and it's actually really interesting"
+    },
+    {
+      "start": 1216.72,
+      "end": 1218.6,
+      "text": "that all those jobs to be done,"
+    },
+    {
+      "start": 1218.6,
+      "end": 1221.72,
+      "text": "think of everything that I said in those jobs to be done,"
+    },
+    {
+      "start": 1221.72,
+      "end": 1223.4,
+      "text": "account management of those big accounts"
+    },
+    {
+      "start": 1223.4,
+      "end": 1226.04,
+      "text": "should compose all of those different jobs."
+    },
+    {
+      "start": 1226.04,
+      "end": 1229.12,
+      "text": "Like you have to prospect like crazy, right?"
+    },
+    {
+      "start": 1229.12,
+      "end": 1231.28,
+      "text": "But it's a different process and method."
+    },
+    {
+      "start": 1231.28,
+      "end": 1234.56,
+      "text": "So why not be able to show my prospects"
+    },
+    {
+      "start": 1234.56,
+      "end": 1236.08,
+      "text": "that I have within an account"
+    },
+    {
+      "start": 1236.08,
+      "end": 1238.72,
+      "text": "and understand the relationship with those?"
+    },
+    {
+      "start": 1238.76,
+      "end": 1241.8,
+      "text": "I need to be finding that new business within accounts, right?"
+    },
+    {
+      "start": 1241.8,
+      "end": 1243.28,
+      "text": "As well as expanding and upselling"
+    },
+    {
+      "start": 1243.28,
+      "end": 1245.52,
+      "text": "to the current buyers that I already have, right?"
+    },
+    {
+      "start": 1245.52,
+      "end": 1248.48,
+      "text": "If I own that account, you better be doing that."
+    },
+    {
+      "start": 1248.48,
+      "end": 1250.8,
+      "text": "So to be able to show that,"
+    },
+    {
+      "start": 1250.8,
+      "end": 1252.76,
+      "text": "I call it our one page account plan,"
+    },
+    {
+      "start": 1252.76,
+      "end": 1254.0,
+      "text": "but it's much more than that."
+    },
+    {
+      "start": 1254.0,
+      "end": 1255.64,
+      "text": "To be able to show that visually"
+    },
+    {
+      "start": 1255.64,
+      "end": 1257.52,
+      "text": "and be able to show that in a way"
+    },
+    {
+      "start": 1257.52,
+      "end": 1259.36,
+      "text": "that actually helps people make decisions"
+    },
+    {
+      "start": 1259.36,
+      "end": 1260.48,
+      "text": "on what they're going to do"
+    },
+    {
+      "start": 1260.48,
+      "end": 1263.2,
+      "text": "and how they're gonna operate is really important."
+    },
+    {
+      "start": 1263.2,
+      "end": 1266.16,
+      "text": "How do you get visuals on the upselling"
+    },
+    {
+      "start": 1266.16,
+      "end": 1268.04,
+      "text": "or cross-selling in a CRM"
+    },
+    {
+      "start": 1268.04,
+      "end": 1269.76,
+      "text": "to be able for the higher ups to know"
+    },
+    {
+      "start": 1269.76,
+      "end": 1270.64,
+      "text": "that's actually happening?"
+    },
+    {
+      "start": 1270.64,
+      "end": 1272.32,
+      "text": "Cause there seems to be a little bit of,"
+    },
+    {
+      "start": 1272.32,
+      "end": 1274.56,
+      "text": "people aren't doing that as much as like,"
+    },
+    {
+      "start": 1274.56,
+      "end": 1276.84,
+      "text": "they probably should be or bringing in other people"
+    },
+    {
+      "start": 1276.84,
+      "end": 1279.48,
+      "text": "to help if they don't have that expertise to do it."
+    },
+    {
+      "start": 1279.48,
+      "end": 1282.76,
+      "text": "But how would you visually see and know that's happening"
+    },
+    {
+      "start": 1282.76,
+      "end": 1285.4,
+      "text": "if you're a sales manager looking at a CRM?"
+    },
+    {
+      "start": 1285.4,
+      "end": 1287.28,
+      "text": "We have, just probably get some of the details"
+    },
+    {
+      "start": 1287.28,
+      "end": 1288.2,
+      "text": "of what we offer there,"
+    },
+    {
+      "start": 1288.2,
+      "end": 1291.16,
+      "text": "but we have a very cool technology that I love."
+    },
+    {
+      "start": 1291.16,
+      "end": 1293.48,
+      "text": "It's not a Kanban view, but it's, we can show,"
+    },
+    {
+      "start": 1293.48,
+      "end": 1295.8,
+      "text": "you can look at an account and then in that account,"
+    },
+    {
+      "start": 1295.84,
+      "end": 1298.28,
+      "text": "you can visually see the timeframe"
+    },
+    {
+      "start": 1298.28,
+      "end": 1300.88,
+      "text": "of every overlapping timeframes of all your prospects,"
+    },
+    {
+      "start": 1300.88,
+      "end": 1302.84,
+      "text": "all your deals, who's working them,"
+    },
+    {
+      "start": 1302.84,
+      "end": 1303.68,
+      "text": "how they're being worked,"
+    },
+    {
+      "start": 1303.68,
+      "end": 1305.72,
+      "text": "the time that you've worked with those people,"
+    },
+    {
+      "start": 1305.72,
+      "end": 1306.6,
+      "text": "the meetings that you've had."
+    },
+    {
+      "start": 1306.6,
+      "end": 1309.04,
+      "text": "So you can see it in a very visual flow,"
+    },
+    {
+      "start": 1309.04,
+      "end": 1310.52,
+      "text": "color coded by who does it."
+    },
+    {
+      "start": 1310.52,
+      "end": 1313.8,
+      "text": "And so when you get at that level,"
+    },
+    {
+      "start": 1313.8,
+      "end": 1317.16,
+      "text": "I think one of the mistakes that leaders make"
+    },
+    {
+      "start": 1317.16,
+      "end": 1319.6,
+      "text": "is they start to focus on,"
+    },
+    {
+      "start": 1319.6,
+      "end": 1323.08,
+      "text": "they still look at the mass numbers of their organization,"
+    },
+    {
+      "start": 1323.08,
+      "end": 1324.8,
+      "text": "like at a VP and the CEO,"
+    },
+    {
+      "start": 1324.8,
+      "end": 1326.92,
+      "text": "they start to look at the mass levels of the organization"
+    },
+    {
+      "start": 1326.92,
+      "end": 1329.48,
+      "text": "instead of diving in and looking very specifically"
+    },
+    {
+      "start": 1329.48,
+      "end": 1332.64,
+      "text": "at the account-based numbers on one particular plan"
+    },
+    {
+      "start": 1332.64,
+      "end": 1334.44,
+      "text": "and having those account battle plans."
+    },
+    {
+      "start": 1334.44,
+      "end": 1336.92,
+      "text": "So if you can really start to see overlapping,"
+    },
+    {
+      "start": 1336.92,
+      "end": 1339.04,
+      "text": "who's, where's my prospecting happening,"
+    },
+    {
+      "start": 1339.04,
+      "end": 1341.68,
+      "text": "how it's happening, where are my net new deals,"
+    },
+    {
+      "start": 1341.68,
+      "end": 1344.2,
+      "text": "where are my other deals that I'm running with them,"
+    },
+    {
+      "start": 1344.2,
+      "end": 1347.6,
+      "text": "who's running each and how people are connected,"
+    },
+    {
+      "start": 1347.6,
+      "end": 1348.96,
+      "text": "it's really important."
+    },
+    {
+      "start": 1348.96,
+      "end": 1350.96,
+      "text": "And so we do that at the account-based level"
+    },
+    {
+      "start": 1350.96,
+      "end": 1354.04,
+      "text": "and the account plan level that we like to incorporate."
+    },
+    {
+      "start": 1354.04,
+      "end": 1356.4,
+      "text": "Paul, you're one of the sponsors here."
+    },
+    {
+      "start": 1356.4,
+      "end": 1361.4,
+      "text": "So I would love for you to go into more detail on membrane"
+    },
+    {
+      "start": 1361.6,
+      "end": 1364.88,
+      "text": "and why it's different from the other CRMs are out there,"
+    },
+    {
+      "start": 1364.88,
+      "end": 1366.8,
+      "text": "because we've already talked about it a little bit"
+    },
+    {
+      "start": 1366.8,
+      "end": 1369.08,
+      "text": "and I know how passionate you are about it."
+    },
+    {
+      "start": 1369.08,
+      "end": 1371.4,
+      "text": "So I would love for you to break it wide open"
+    },
+    {
+      "start": 1371.4,
+      "end": 1374.48,
+      "text": "and explain to people what a CRM should do"
+    },
+    {
+      "start": 1374.48,
+      "end": 1377.04,
+      "text": "and why membrane solves that problem."
+    },
+    {
+      "start": 1377.04,
+      "end": 1381.0,
+      "text": "Why I like sell, why we're here is sell well should be,"
+    },
+    {
+      "start": 1381.0,
+      "end": 1383.08,
+      "text": "I really think that's what a CRM should help us do."
+    },
+    {
+      "start": 1383.08,
+      "end": 1385.64,
+      "text": "Our mission is to elevate the sales profession."
+    },
+    {
+      "start": 1385.64,
+      "end": 1386.92,
+      "text": "We take that very seriously."
+    },
+    {
+      "start": 1386.92,
+      "end": 1389.16,
+      "text": "Like that truly is the mission behind this."
+    },
+    {
+      "start": 1389.16,
+      "end": 1392.0,
+      "text": "And what we mean by that is by having a network of people"
+    },
+    {
+      "start": 1392.0,
+      "end": 1393.12,
+      "text": "that are really good experts"
+    },
+    {
+      "start": 1393.12,
+      "end": 1395.28,
+      "text": "that can help others and dive in."
+    },
+    {
+      "start": 1395.28,
+      "end": 1397.56,
+      "text": "But also we're really firmly committed"
+    },
+    {
+      "start": 1397.56,
+      "end": 1399.4,
+      "text": "to process-based growth."
+    },
+    {
+      "start": 1399.4,
+      "end": 1401.72,
+      "text": "And when we talk about process, it's how do I execute"
+    },
+    {
+      "start": 1401.72,
+      "end": 1403.52,
+      "text": "but how do I continually learn?"
+    },
+    {
+      "start": 1403.52,
+      "end": 1404.6,
+      "text": "How do I get coached on?"
+    },
+    {
+      "start": 1404.6,
+      "end": 1405.88,
+      "text": "How do I improve?"
+    },
+    {
+      "start": 1405.88,
+      "end": 1407.68,
+      "text": "How do I just continually get better?"
+    },
+    {
+      "start": 1407.68,
+      "end": 1410.68,
+      "text": "And so that's what the differentiation is that we see"
+    },
+    {
+      "start": 1410.72,
+      "end": 1414.24,
+      "text": "is that I can help you outline a process that works,"
+    },
+    {
+      "start": 1414.24,
+      "end": 1417.68,
+      "text": "that a salesperson really enjoys, that's not overwhelming,"
+    },
+    {
+      "start": 1417.68,
+      "end": 1419.96,
+      "text": "that I can actually make decisions on at a C level"
+    },
+    {
+      "start": 1419.96,
+      "end": 1422.08,
+      "text": "but actually dives in with a rep."
+    },
+    {
+      "start": 1422.08,
+      "end": 1424.32,
+      "text": "And then we have a full coaching platform"
+    },
+    {
+      "start": 1424.32,
+      "end": 1426.6,
+      "text": "that we can dive in and coach the sales reps"
+    },
+    {
+      "start": 1426.6,
+      "end": 1429.24,
+      "text": "directly based on what's going on"
+    },
+    {
+      "start": 1429.24,
+      "end": 1432.64,
+      "text": "either in an individual prospect and deals or accounts."
+    },
+    {
+      "start": 1432.64,
+      "end": 1434.12,
+      "text": "And it ties together."
+    },
+    {
+      "start": 1434.12,
+      "end": 1438.72,
+      "text": "So we have a network essentially of sales experts"
+    },
+    {
+      "start": 1438.8,
+      "end": 1440.16,
+      "text": "that we absolutely love working with,"
+    },
+    {
+      "start": 1440.16,
+      "end": 1442.52,
+      "text": "a platform that enables them to do their job well"
+    },
+    {
+      "start": 1442.52,
+      "end": 1444.88,
+      "text": "and salespeople love."
+    },
+    {
+      "start": 1444.88,
+      "end": 1446.88,
+      "text": "I don't, you could go on our G2 reviews,"
+    },
+    {
+      "start": 1446.88,
+      "end": 1447.96,
+      "text": "you can go on any of that stuff."
+    },
+    {
+      "start": 1447.96,
+      "end": 1451.08,
+      "text": "Salespeople actually enjoy working with the platform."
+    },
+    {
+      "start": 1451.08,
+      "end": 1452.8,
+      "text": "My own sales team, it's the,"
+    },
+    {
+      "start": 1452.8,
+      "end": 1455.36,
+      "text": "even when I was implementing Salesforce,"
+    },
+    {
+      "start": 1455.36,
+      "end": 1456.44,
+      "text": "my sales team didn't love it."
+    },
+    {
+      "start": 1456.44,
+      "end": 1457.88,
+      "text": "They liked it, it was okay,"
+    },
+    {
+      "start": 1457.88,
+      "end": 1460.64,
+      "text": "but my own sales team loves working in the platform."
+    },
+    {
+      "start": 1460.64,
+      "end": 1464.36,
+      "text": "Like they really do, it helps them close deals."
+    },
+    {
+      "start": 1464.36,
+      "end": 1466.96,
+      "text": "And I get a good forecast"
+    },
+    {
+      "start": 1466.96,
+      "end": 1470.68,
+      "text": "because my salespeople get helped working deals"
+    },
+    {
+      "start": 1470.68,
+      "end": 1473.36,
+      "text": "through a platform that enables them to succeed."
+    },
+    {
+      "start": 1473.36,
+      "end": 1475.08,
+      "text": "So that's our niche."
+    },
+    {
+      "start": 1475.08,
+      "end": 1476.76,
+      "text": "If people have tried other things,"
+    },
+    {
+      "start": 1476.76,
+      "end": 1478.56,
+      "text": "if they are at a wit's end and they're like,"
+    },
+    {
+      "start": 1478.56,
+      "end": 1480.12,
+      "text": "man, I've tried all the training,"
+    },
+    {
+      "start": 1480.12,
+      "end": 1482.08,
+      "text": "I've tried the technology, I've tried all this,"
+    },
+    {
+      "start": 1482.08,
+      "end": 1483.08,
+      "text": "you want transformation,"
+    },
+    {
+      "start": 1483.08,
+      "end": 1484.76,
+      "text": "you want to dive deep with your sales team,"
+    },
+    {
+      "start": 1484.76,
+      "end": 1486.24,
+      "text": "dive deep with your sales processes"
+    },
+    {
+      "start": 1486.24,
+      "end": 1489.44,
+      "text": "and make them executable in platforms that people love,"
+    },
+    {
+      "start": 1489.44,
+      "end": 1490.64,
+      "text": "that's where we come."
+    },
+    {
+      "start": 1490.64,
+      "end": 1491.48,
+      "text": "Awesome."
+    },
+    {
+      "start": 1491.48,
+      "end": 1493.8,
+      "text": "Just to circle back before we end,"
+    },
+    {
+      "start": 1493.8,
+      "end": 1495.64,
+      "text": "we were talking about the process."
+    },
+    {
+      "start": 1495.64,
+      "end": 1497.84,
+      "text": "I didn't know if there was any steps that we miss,"
+    },
+    {
+      "start": 1497.84,
+      "end": 1498.96,
+      "text": "that we want to go deep on,"
+    },
+    {
+      "start": 1498.96,
+      "end": 1500.4,
+      "text": "or if there's anything else"
+    },
+    {
+      "start": 1500.4,
+      "end": 1502.2,
+      "text": "that you think would be valuable"
+    },
+    {
+      "start": 1502.2,
+      "end": 1503.84,
+      "text": "to share in this conversation."
+    },
+    {
+      "start": 1503.84,
+      "end": 1505.32,
+      "text": "I want to give you the floor."
+    },
+    {
+      "start": 1505.32,
+      "end": 1507.52,
+      "text": "Yeah, another reason we're at SoWell,"
+    },
+    {
+      "start": 1507.52,
+      "end": 1509.28,
+      "text": "and why I really appreciate this is"
+    },
+    {
+      "start": 1509.28,
+      "end": 1510.64,
+      "text": "we've found a number of things."
+    },
+    {
+      "start": 1510.64,
+      "end": 1512.82,
+      "text": "Like just by implementing a good sales process,"
+    },
+    {
+      "start": 1512.82,
+      "end": 1514.52,
+      "text": "you're going to increase the deals,"
+    },
+    {
+      "start": 1514.52,
+      "end": 1517.2,
+      "text": "deal flow by about 15 to 20% till success."
+    },
+    {
+      "start": 1517.2,
+      "end": 1519.76,
+      "text": "It just, it's a proven number, it's out there."
+    },
+    {
+      "start": 1519.76,
+      "end": 1521.04,
+      "text": "And if the better you do it,"
+    },
+    {
+      "start": 1521.04,
+      "end": 1522.56,
+      "text": "the more effective you can be."
+    },
+    {
+      "start": 1522.56,
+      "end": 1525.32,
+      "text": "What people miss though, is coaching."
+    },
+    {
+      "start": 1525.32,
+      "end": 1526.6,
+      "text": "What I really love,"
+    },
+    {
+      "start": 1526.6,
+      "end": 1528.24,
+      "text": "and we're talking about elevating the sales,"
+    },
+    {
+      "start": 1528.24,
+      "end": 1530.64,
+      "text": "is being able to dive in"
+    },
+    {
+      "start": 1530.64,
+      "end": 1533.16,
+      "text": "and help people not just follow the process"
+    },
+    {
+      "start": 1533.16,
+      "end": 1535.0,
+      "text": "as it stands in your CRM,"
+    },
+    {
+      "start": 1535.0,
+      "end": 1537.78,
+      "text": "but how do you dive and manipulate and mold that"
+    },
+    {
+      "start": 1537.78,
+      "end": 1540.4,
+      "text": "to how it helps you be most effective?"
+    },
+    {
+      "start": 1540.4,
+      "end": 1542.34,
+      "text": "And so if you are not doing coaching,"
+    },
+    {
+      "start": 1542.34,
+      "end": 1544.96,
+      "text": "we have a platform that ties our CRM that does coaching,"
+    },
+    {
+      "start": 1544.96,
+      "end": 1547.72,
+      "text": "but just the practice of continually,"
+    },
+    {
+      "start": 1547.72,
+      "end": 1549.52,
+      "text": "continual effective coaching,"
+    },
+    {
+      "start": 1550.52,
+      "end": 1552.76,
+      "text": "the numbers are astronomical."
+    },
+    {
+      "start": 1552.76,
+      "end": 1555.76,
+      "text": "That investment in people that you actually have assessed"
+    },
+    {
+      "start": 1555.76,
+      "end": 1557.6,
+      "text": "and you've hired and you care about them enough"
+    },
+    {
+      "start": 1557.6,
+      "end": 1559.28,
+      "text": "to bring them onto your team,"
+    },
+    {
+      "start": 1559.28,
+      "end": 1561.28,
+      "text": "to give them that resource of a coach"
+    },
+    {
+      "start": 1561.28,
+      "end": 1564.24,
+      "text": "that can work them through how they achieve their goals,"
+    },
+    {
+      "start": 1564.24,
+      "end": 1566.94,
+      "text": "how they achieve it within the context of this company,"
+    },
+    {
+      "start": 1566.94,
+      "end": 1569.96,
+      "text": "how they achieve it with individual organizations,"
+    },
+    {
+      "start": 1569.96,
+      "end": 1571.24,
+      "text": "is massive."
+    },
+    {
+      "start": 1571.24,
+      "end": 1573.36,
+      "text": "Because otherwise they sit inside themselves,"
+    },
+    {
+      "start": 1573.36,
+      "end": 1575.06,
+      "text": "they'll give their numbers to their manager,"
+    },
+    {
+      "start": 1575.06,
+      "end": 1576.64,
+      "text": "but that's about it."
+    },
+    {
+      "start": 1576.64,
+      "end": 1579.12,
+      "text": "It becomes a number and pleasing game,"
+    },
+    {
+      "start": 1579.12,
+      "end": 1581.16,
+      "text": "instead of a growth game."
+    },
+    {
+      "start": 1581.16,
+      "end": 1585.24,
+      "text": "And it is one of the biggest differentiators I've seen ever."
+    },
+    {
+      "start": 1585.24,
+      "end": 1586.84,
+      "text": "It's fabulous."
+    },
+    {
+      "start": 1586.84,
+      "end": 1587.76,
+      "text": "Awesome."
+    },
+    {
+      "start": 1587.76,
+      "end": 1590.32,
+      "text": "So one of the things we do at the end of our show"
+    },
+    {
+      "start": 1590.32,
+      "end": 1595.32,
+      "text": "is we offer for the guests to give us a LinkedIn fail or tip."
+    },
+    {
+      "start": 1595.56,
+      "end": 1598.4,
+      "text": "So when you just think about LinkedIn"
+    },
+    {
+      "start": 1598.4,
+      "end": 1601.44,
+      "text": "and what people are doing and what they should be doing,"
+    },
+    {
+      "start": 1601.44,
+      "end": 1604.6,
+      "text": "what are the things maybe good, bad or either"
+    },
+    {
+      "start": 1604.6,
+      "end": 1607.2,
+      "text": "that are sticking out to you as,"
+    },
+    {
+      "start": 1607.2,
+      "end": 1609.88,
+      "text": "because LinkedIn is like the primary platform, right?"
+    },
+    {
+      "start": 1609.88,
+      "end": 1612.24,
+      "text": "For B2B today."
+    },
+    {
+      "start": 1612.24,
+      "end": 1616.74,
+      "text": "LinkedIn fail is, I hate to call out the automation"
+    },
+    {
+      "start": 1617.68,
+      "end": 1621.28,
+      "text": "and the AI people, but the biggest LinkedIn fail"
+    },
+    {
+      "start": 1621.28,
+      "end": 1623.64,
+      "text": "that I've had recently was I had a guy reach out to me."
+    },
+    {
+      "start": 1623.64,
+      "end": 1627.32,
+      "text": "He said he was a CEO of an AI company."
+    },
+    {
+      "start": 1627.32,
+      "end": 1629.8,
+      "text": "And I replied back to him and I was like,"
+    },
+    {
+      "start": 1629.8,
+      "end": 1633.48,
+      "text": "okay, so yeah, I'm interested, tell me what you do."
+    },
+    {
+      "start": 1633.48,
+      "end": 1634.52,
+      "text": "And then it came back and said,"
+    },
+    {
+      "start": 1634.52,
+      "end": 1639.52,
+      "text": "this is actually Jan, John's CEO AI automation counterpart."
+    },
+    {
+      "start": 1640.2,
+      "end": 1642.84,
+      "text": "What came back to me and said, I'm actually AI."
+    },
+    {
+      "start": 1642.84,
+      "end": 1644.92,
+      "text": "I'm not really this guy."
+    },
+    {
+      "start": 1644.92,
+      "end": 1646.56,
+      "text": "I can't tell you how much that turned me off."
+    },
+    {
+      "start": 1646.56,
+      "end": 1649.48,
+      "text": "And it was one of the better AI written things."
+    },
+    {
+      "start": 1649.48,
+      "end": 1651.56,
+      "text": "But if I want to talk to a person,"
+    },
+    {
+      "start": 1651.56,
+      "end": 1653.28,
+      "text": "LinkedIn for me is personal."
+    },
+    {
+      "start": 1653.28,
+      "end": 1655.44,
+      "text": "If I want to talk to a person, I want to talk to a person."
+    },
+    {
+      "start": 1655.44,
+      "end": 1657.92,
+      "text": "Like I really appreciate the opportunity"
+    },
+    {
+      "start": 1657.92,
+      "end": 1659.98,
+      "text": "to connect with people and dive in."
+    },
+    {
+      "start": 1659.98,
+      "end": 1662.48,
+      "text": "If I get automated to death, I hate it."
+    },
+    {
+      "start": 1662.48,
+      "end": 1663.32,
+      "text": "I just do."
+    },
+    {
+      "start": 1663.32,
+      "end": 1665.12,
+      "text": "It's my own personal thing."
+    },
+    {
+      "start": 1665.12,
+      "end": 1667.12,
+      "text": "So the more I can make it personal,"
+    },
+    {
+      "start": 1667.12,
+      "end": 1668.52,
+      "text": "the more I can dive in,"
+    },
+    {
+      "start": 1668.52,
+      "end": 1670.52,
+      "text": "comment on things that actually make sense"
+    },
+    {
+      "start": 1670.52,
+      "end": 1673.64,
+      "text": "and talk to people that are interesting,"
+    },
+    {
+      "start": 1673.64,
+      "end": 1676.12,
+      "text": "the better the platform is performed for me,"
+    },
+    {
+      "start": 1676.12,
+      "end": 1680.04,
+      "text": "rather than seeing it as this massive thing of prospects"
+    },
+    {
+      "start": 1680.04,
+      "end": 1682.32,
+      "text": "that I have to touch every single person."
+    },
+    {
+      "start": 1682.32,
+      "end": 1683.92,
+      "text": "I just, I want to touch the people that are right"
+    },
+    {
+      "start": 1683.92,
+      "end": 1686.92,
+      "text": "that I'm interested in, find those and interact."
+    },
+    {
+      "start": 1686.92,
+      "end": 1688.48,
+      "text": "Paul, how do people get in touch with you"
+    },
+    {
+      "start": 1688.48,
+      "end": 1689.64,
+      "text": "if they want to find out more"
+    },
+    {
+      "start": 1689.64,
+      "end": 1691.64,
+      "text": "about what your thoughts are on CRMs"
+    },
+    {
+      "start": 1691.64,
+      "end": 1693.32,
+      "text": "and what you're doing and what Membranes is?"
+    },
+    {
+      "start": 1693.32,
+      "end": 1694.68,
+      "text": "Actually, my own podcast as well."
+    },
+    {
+      "start": 1694.68,
+      "end": 1696.32,
+      "text": "It's called the Art and Science of Complex Sales."
+    },
+    {
+      "start": 1696.32,
+      "end": 1697.16,
+      "text": "So search for that."
+    },
+    {
+      "start": 1697.16,
+      "end": 1698.08,
+      "text": "It's on all the platforms."
+    },
+    {
+      "start": 1698.08,
+      "end": 1699.68,
+      "text": "I think, I'm on LinkedIn."
+    },
+    {
+      "start": 1699.68,
+      "end": 1700.52,
+      "text": "I'm Paul Fuller."
+    },
+    {
+      "start": 1700.52,
+      "end": 1703.88,
+      "text": "I'm the one that says elevate the sales profession in my bio."
+    },
+    {
+      "start": 1703.88,
+      "end": 1705.04,
+      "text": "I think it's a black and white picture."
+    },
+    {
+      "start": 1705.04,
+      "end": 1705.88,
+      "text": "Connect with me there."
+    },
+    {
+      "start": 1705.88,
+      "end": 1710.88,
+      "text": "And paul.fuller at membrane.com, MEM, and then thebrain.com."
+    },
+    {
+      "start": 1711.56,
+      "end": 1714.28,
+      "text": "And like insane in the membrane, except,"
+    },
+    {
+      "start": 1714.28,
+      "end": 1716.44,
+      "text": "anyway, yeah, just reach out to me via email."
+    },
+    {
+      "start": 1716.44,
+      "end": 1718.72,
+      "text": "Paul, thank you so much for coming on the show."
+    },
+    {
+      "start": 1718.76,
+      "end": 1722.6,
+      "text": "Remember everyone, make a difference, not a sale."
+    },
+    {
+      "start": 1722.6,
+      "end": 1725.28,
+      "text": "Thanks for listening to OGGN, the world's largest"
+    },
+    {
+      "start": 1725.28,
+      "end": 1727.16,
+      "text": "and most listened to podcast network"
+    },
+    {
+      "start": 1727.16,
+      "end": 1729.0,
+      "text": "for the oil and energy industry."
+    },
+    {
+      "start": 1729.0,
+      "end": 1730.76,
+      "text": "If you like this show, leave us a review"
+    },
+    {
+      "start": 1730.76,
+      "end": 1735.28,
+      "text": "and then go to oggn.com to learn about all our other shows."
+    },
+    {
+      "start": 1735.28,
+      "end": 1738.04,
+      "text": "And don't forget to sign up for our weekly newsletter."
+    },
+    {
+      "start": 1738.04,
+      "end": 1739.12,
+      "text": "This show has been a production"
+    },
+    {
+      "start": 1739.12,
+      "end": 1740.92,
+      "text": "of the Oil and Gas Global Network."
+    }
+  ]
+}

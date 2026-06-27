@@ -1,0 +1,23 @@
+# Vercel
+.vercel
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets — never commit
+*.env
+.env
+.env.*
+scripts/.salt
+
+# Python
+__pycache__/
+*.pyc
+
+# Transient audio during transcription (transcripts themselves ARE committed)
+data/_audio_tmp/
+
+# Node (if ever used for tooling)
+node_modules/

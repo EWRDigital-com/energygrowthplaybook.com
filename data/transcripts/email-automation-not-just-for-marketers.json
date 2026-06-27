@@ -1,0 +1,1555 @@
+{
+  "slug": "email-automation-not-just-for-marketers",
+  "title": "Email Automation. Not Just for Marketers.",
+  "episode": "032",
+  "audio": "https://media.blubrry.com/oil_and_gas_this_week/media.blubrry.com/oilandgassalesandmarketing/ins.blubrry.com/oilandgassalesandmarketing/ogsm032.mp3",
+  "duration": 1600.7,
+  "text": "Manage your all-field operations from anywhere with Rigor online or offline. Whether it's scheduling and dispatching jobs, tracking employee hours, managing equipment rentals, or inspections and maintenance, you can create, review, approve, and upload all types of field tickets and agreements securely from any device. Plus, you can generate invoices same day and run powerful operation manager dashboards on your desktop or phone. No paper, no errors, no headaches. Learn more at rigor.us. Link is in the show notes. Welcome to the Oil and Gas Sales and Marketing podcast, where every week, your hosts, Mark LaCour and Matt Bertram share proven strategies and real-world tactics to help you connect with customers and close more deals. Let's do this. Hey, welcome back, everybody. We actually don't have a review. So come on, people. If you like the show, spend a couple of minutes, leave us a review. There's a link in the show notes to make it ridiculously easy. And if you don't like the show and there's some things you want us to improve, also leave us a review. Let's know what you want us to improve upon. But this subject is actually going to be really cool because it's something that I've been using in our business for a long time, but just as baby steps. And Matt's going to be the expert on this. But email automation. So Matt, if we just start from the very basics, if somebody doesn't know what email automation is, what is email automation? Well, email automation is the ability to, I guess, create touchpoints with existing customer or potential prospect in a way that you can structure it out, plan it out of when you want those touchpoints to happen, and then have them happen without you actually doing anything. I don't know if that's the right definition, but that's how I would define it. That's as good as anything I've heard. We've been using MailChimp for years, which is an email automation tool. It allows you to do a lot of stuff at scale that, quite frankly, you would spend too much time if you're trying to do it yourself. So Matt, I want to talk a little bit about email automation from my use as a salesperson, and then I'll let you chime in and explain to the audience is how we could do more and better than that. So I'll give you a perfect example. If you've been following me for any length of time from modal point, you'll notice that we have an oil and gas events newsletter. People sign up for that, and they double opt-in. So they come in through a plugin for WordPress with MailChimp, or they come in through a landing page we have. MailChimp, besides letting them sign up for it, asks them again, are you sure? And that satisfies a law, the CAM SPAM Act here in the U.S., that's something very equivalent in Europe, to make sure you're legally harvesting those emails. And when people sign up for my events newsletter, they see it as valuable because they want to be notified of all the oil and gas events. So once a month, my interns put this newsletter together, they get all the oil and gas events from all over the interwebs, put it in the newsletter, send it out once a month. However, what a lot of you may not understand about that is that's also a sales tool for me. So whenever we have a client that comes in that ends up not doing business thus for whatever reason in that moment, I ask them, hey, is it okay if I add you to this list? And because they're engaged with modal point, which is an oil and gas market research company, they of course have an interest in oil and gas events. And 100% of the time they say yes. Well, each month they're reminded of modal point, of what we do because of this events newsletter. And I've had hundreds and hundreds of clients that one year, two year, three year, five year, 10 years after they originally decided not to work with us, come back and do business with us. Because each month they were reminded of who we are and what we do. And that cost me literally $20 a month for my interns time to put that together. Mark, I think you bring up something really, really important is when you look at email automation or building an email list versus social media or anything else you do, that list that you create is something that you own that you can take that list, that customer list to pick it up and move it with you wherever you go, you're not tied to a specific platform. And if you don't like their rules, you can move it now certainly can spam and following what you're supposed to be doing super important. But there's so many different email automation tools. And I love MailChimp and they've really come a long way with automations. It was pretty rudimentary a couple of years ago. Other people may have heard of like HubSpot, they do a really good job of promoting. They actually coined the phrase inbound marketing, active campaign, constant contact, Aweber, get response, convert kit, drip, Paradot, Keep, which Keep is like the watered down small business version of Infusionsoft. And that was just a beast. That's probably like the gold standard. There's Entraport, there's Autopilot. So there's a lot of these different tools. They all work fairly similar and MailChimp's as good as any other. What I can tell you that I do see a lot is HubSpot's fantastic for if you build a website with it on forms and where lead captures come from and tracking analytics. But I see a lot of people that are just using it for a newsletter. It's like you're driving a Rolls Royce to work every day. Like, do you need to do that if you're not using some of the other tools? So I think one of the first things you want to do is figure out what your use case is. Like, how are you going to be using it? What are you going to be using it for? Certainly some of these CRMs have ability to do rudimentary email stuff like Salesforce within it. But all these have integrations and stuff like that. And ideally what you want to be able to do, big picture is someone comes to your website, they download something, they fill out a form, they opt in in some way that automatically when they fill out that field, it gets pushed into your customer list. If they can select something where they can auto select, hey, I'm in upstream or in gas, I'm in downstream, whatever, then you can segment that list or they help you segment that list. And then you can build custom lists for each of those different segments or different things they want to opt in for. So maybe they're interested in different topics. And so maybe you have these automated emails, these drip emails that you have set up sequenced out. And if they opt into the list, they get sent those emails, and then of course, they can change that. But again, it's like, we talked about this in a past podcast, but bad data in bad data out, the better you can get this together. Ideally, what's so awesome in a lot of these systems is if you have this stuff built out, something comes in, you either it auto creates a tag, or you just have to manually create a tag. And from a salesperson outbound standpoint, it's the pens and pads, right, staying in front of them, them reminding of you, this is kind of a different medium giving value. But it's amazing, like email automation is probably like the number one tool to convert people because people might come to your website through SEO or paid ads, but typically they don't buy on the first time, some of them do. But many of them need that constant reinforcement, you can do a lot of stuff in your messaging through email automation. Yeah, and I want to go back a little bit, Matt said something super important that I didn't know when I first started this 15 years ago. So Matt talked about segmenting your list. So I'm gonna go back to my real list, the modal point, all I guess events newsletter, when I started that 15 years ago, I had no idea what I was doing. But what I did is I read somewhere that the least number of form fields you have, the more likely people are to sign up. Because I didn't know what I was doing, all I did is capture people's name and email address. You fast forward 15 years later, I have 15,000 people that are signed up for my events newsletter, I have no idea who they are or who they work for. I messed up, I should have at least added one more form field to say which part of the industry you work in. And if you notice, if you sign up for any of our new newsletters, like our Sunday update, when you sign up, it's still the same tools MailChimp, but we do ask what part of the industry you do work in upstream, midstream or downstream or service, so that we at least know who you are. So it's really important when you first set this up, you think this through for future use. The other thing that's really important from a sales point of view is when I use email automation or when we use email automation, we're reaching people where they are, which is their inbox. Now, you don't want to misuse it and fill it up with spam. We've all been added to lists that we didn't want to be added to, which by the way breaks the camp spam law to get caught doing that. You don't want to push stuff in people's inbox just because you mechanically have the ability to do it. But if you offer good valuable content in some form or fashion, it's not spam. It's not spam. There's a fine line there, right? And people love it. And from a sales point of view, being able to at scale stay in front of every single prospect you've met is worth a fortune. And it's not expensive. Even the most expensive of these email automation tools are really not that bad, especially when you look at the return that you can generate from this. One of the things that I get asked a lot, Mark, is, well, okay, I want to send a newsletter, but I don't want to bug people. I don't want to become spam. I want to make sure to provide value, but this is also a lot of work to keep up with it. And so what's the right number? I get asked a lot, what's the right number of emails to write that edge of add the value, have them not forget who you are, and have them see it? Well, one is the data does say, and there are messaging going on like thousands of messages all the time. So it's a lot harder. And we can get into SMS or text messaging has like a 98.5 or 99.5, something like that, open rate, even with the quote unquote spam emails, a lot tougher. But usually people keep their emails typically about how long they keep a house. So think of it like digital real estate, they are getting it. But if they sign up for it, they know what they're signing up for, and you show good form and present value, they're going to look forward to that. But the number to decide on how often you should connect with your prospect or existing cupsors because like nurtures really, really, really important for existing customers and churn rates and different things like that. So email can be used in a lot of different ways. But what you got to think about is what is the relationship that you want to have with that prospect or customer. So Mark, if we just hung out quarterly, like we would be acquaintances, we might remember who we are, you'll kind of look familiar, whatever, but probably not going to do business, but no you and maybe we need to do something at some point. Okay, so you got quarterly, then you got monthly, I think monthly is a good hey, let's stay in touch, you're not just like emailing somebody out of the blue or calling somebody out of the blue, like you're kind of staying in touch with them and then you can incorporate social media and staying up to date with somebody. But providing somebody monthly values really good, then you got bi weekly or even weekly. And that now gets to like, what is your circle of trust? What is your circle of influence? Now, daily, the data says it works the best. But think about the relationship that you want to have with your customer about how they would have that relationship with other people and their circle of trust. So that might be your parents or that might be your family or that might be your very close friends. And if you're trying to position yourself in that way, then yeah, by all means, like have a conversational tone and reach those people daily. Maybe you might want to say, okay, well, I'm really trying to move this process forward and want to speed up the quote unquote sales cycles, let me connect with them weekly and make sure that that's valuable. I think some are between weekly and monthly, but you just got to think about what is the relationship you want to have with that customer because prospects might be weekly, existing customers might be monthly, might be different of how you want to throttle that. And also what's super interesting, again, I don't know how deep we can go on this because I know we were having some conversations in the pre call, but here's something so cool. Based on how people engage mark with that email, like if they click on a link, you can add them to other lists or you can add them to other retargeting methods, multi channel reach, but also like how long they keep the email open, what they click on, what they do with that email, you can weigh their engagement levels and then you can do something different. So maybe someone doesn't open an email, someone doesn't open an email. Well, they get put on a list and then maybe you send an email with a salacious or I don't know what the right word is, but like a headline that's like clickbait trying to get them to open and it's like a re engagement list. So they didn't see it, they didn't open it, maybe they missed it. So maybe you got to show something and catch them or if they did open it, maybe you're going to take them down a certain path and you've tagged them of like what part of the industry they're in. Now you can send them down that channel. Now if they click on that link, then they go to somewhere else on your page, which you already have their IP address, you already have their information and they're interested in something else that's like a reference in that newsletter or a link to your website and it's somewhere that you don't have them indicated, then they get added to a new list, they're add on a new email drip and the whole goal is the personalization and that's why people ask for first name and last name and to your point, it makes a difference. One form fill more makes so much of a difference and if you're starting out, you maybe just say name, you don't say first name and last name, but if you're more advanced, you might say first name and last name because you want that email that's going to be customized to them. It's going to say hello, John or whatever versus their full name. I would also say one of the things that you said I think is worth saying is even if you don't get an email and a lot of salespeople do this and I work with a lot of different organizations with salespeople that kind of field inbound leads, they always look for an email address from a business and if it's not from a business, they discard the email. That's a mistake because a lot of people are searching for stuff in their free time. Also, some people are tied into different social media platforms and they may not have their work connected to their LinkedIn. They may, but they may not or you're capturing a form fill on Facebook or something like that. It depends where you capture their information that comes into that email list of where that input is of where the attribution was to convert it because man, I have a personal email and I have a work email and you're not going to be able to tell the difference unless maybe you do some research on that email to know that it's me. You look it up, you see that and certainly there's Salesforce and some other tools kind of pull some of that data in, but to just discard it because it's not a business email, think about how people are searching. I know a lot of executives that don't necessarily use their work email to do research online to figure stuff out. I have an email just for stuff to sign up online and to your point, most people understand that now. However, I read that inbox. I don't ignore it. So if you're a company that sees my Outlook email address, which is the one I use when I'm surfing stuff online, don't think I don't check it. I am intentionally using a separate email address so that when you reach out to me, it's in one inbox. It doesn't fill up my work inbox, but I still check it. You're 100% spot on. Another thing in the oil and gas space, there's a lot of companies and a lot of sales people out there that sell parts and pieces. Hype insulation, wire cutters, wing nuts, EMT, lastimers, O-rings, all valves, whatever, to make this industry run. Now think about this from a sales point of view, if you're one of those people that are selling those type of commodities, probably what you do is you have a list of customers that are buying from you now. You look at that list and see when they made their last order and you guess on when you should reach out to them and you pick up the phone and call them or shoot them an email. With email automation, especially if you have a good ERP system, it can track when your customers routinely order and it can automate sending them an email saying, hey, you haven't ordered one inch ball valves in a few months, click here, we'll send you 20 of them. Well, now you're using the tool, the email automation tool to automate your sales process, which makes it easier for your buyer and it makes it easier for you. You may end up closing deals, you don't even talk to them. Now let's say they decide not to click on that link in the email automation tool to Matt's point, you can have a separate sequence of emails saying, hey, I noticed you didn't order your one inch ball valves, have anything changed, would you like to set up a call with me? And you can use all of this to not replace human conversation, but to take care of a lot of the tactical stuff that eats up a lot of your time, especially with existing clients and it literally can all be automated within the tool itself and they all do it. Another thing I think is really cool Matt, is the metrics that you get back. So for us, we can see who clicked on what where, so we can see what people are interested in, what they're not interested in. I also can see the people that unsubscribe. So if you see a big increase in unsubscribes, that means your content probably isn't valuable anymore, you need to change something. If you see a bunch of people come in and subscribe, that's what you want by the way, then you're doing something right. We had that happen with our Sunday update and it's literally in six weeks, I believe we went from zero subscribers to that email list to 21,000 subscribers. And so how cool is it from a sales point of view to know that people want to receive our content and in that newsletter is a bunch of valuable stuff, but what else is in that newsletter? Our merchandise store, podcast sponsorship opportunities. So by putting out good content in an email newsletter using a tool, I am now not only can tell that people find it valuable, I am marketing our business without talking to anybody. The tool itself is doing it for us. One of the things that's super interesting too about automated emails is it gives you the ability to indirectly remind somebody of something where you don't send a personal email and that could be advantageous if, hey, someone needs to pay an invoice, hey, just send a reminder where it's automated. It starts to add tools in the tool belt. Now, something that is hilarious and I have used it before, so I'll throw this out there, there's actually an email tool called Rebump, okay, like Rebump and sometimes emails get buried. Also, some people are not ready to respond yet because they're not in that buying mode again yet. And I think one of the things that we should talk about in our insiders group too is how to write an email because there's the disk profile or something, there's different ways to write an email to catch different people if they're like a D, high D, or they're more relationship based. And so you can actually test out different emails and you can also look at the topic. So the analytics for everything in digital marketing gives you that edge if you utilize it. And typically, you can see what people are interested in, but Rebump, what it does is it will keep sending an email to somebody until you can set actions, till they open it, till they respond, whatever. So if you're looking for a response to something, one of my pet peeves, and I try to have email etiquette of like asking one thing in an email to get one response, because if you litter multiple things in an email, or hey, are you interested in this and interested in this and interested in this, typically people respond to one thing, like whatever jumps out at them. And if you're sending email to somebody, and then they don't respond to this specific thing that you're asking about, they respond to something else, then you have to send another email. I think that that's good etiquette to like have one thing in the email if you can, that's not always the case. But say you have that thing that you're trying to get a response on or approval on or something like that, right? And you can't move forward till you get this approval, whatever. You can set it up and rebump where like every day or every hour or whatever you want, send them another email until they open it or till they take action on it. And that's a lot of sometimes for me, if I'm trying to do multiple things, where I can leverage email automation is, hey, I need to get this done, and I'm waiting on somebody else so the ball's in their court. But guess what? That email might have got buried, they didn't see it, might not be urgent, they forgot about it, whatever. So you could professionally use a tool like Rebump. There might be some automations in some of these other platforms that do that as well in your CRM that will remind them professionally, hey, you need to do this. And again, there's different levels of urgency. And we could probably do a whole segment on email etiquette. Oh, boy, could we? Because action requested or action required, I think is so important. You know, another thing, Matt, from a sales point of view, and I've done this for years, it used to be that when I had a handful of clients in our CRM, if I had the chance I'd capture their birthday. Every year I'd go to my CRM and make sure I shot people in notes saying, hey, happy birthday. And that really goes a long way in the oil and gas space of nurturing those relationships, letting know people that you're thinking about them. It takes all of a few seconds. Well, it takes all of a few seconds when you have 10 clients or 20. When you start doing business for a few years and you start growing, you have hundreds and hundreds of clients trying to send something as simple as happy birthday gets to be a chore. And guess what? Email automation is perfect for that. Every email automation tool I've ever used, you can put that information into your client's birthdays. You can design a happy birthday and it will automatically send one out. You don't have to worry about it. And yet your client sees that as a personal touch because it is, you're just using a tool to make you easier for you to do it at scale. Next step, and I know we're kind of wrapping up here, but you can set a tag, which I did with a drop shipping company, where it would send a different gift. Okay. So this is advanced stuff, maybe that we can go into, but you can set up a tag where you can send different gifts to people when it pops up and you can set alerts. And one of the things that I was even doing, and I may turn it back on, I had to have a computer that was like a server set up like that. And basically I had a script that would run and it would log into Facebook every day. And then the birthday list would pop up of everybody's birthday in Facebook. And then I used a tool that had three different birthday congratulations. It would rotate. So it would send everybody that was my contact on Facebook a happy birthday message because I wish I could do that if I had all the time in the world. Automation helps you craft that messaging where, man, you can send gifts, you can post birthday messages, you can do super human feats with email automation, and we don't have time to get too much into the text automation and all these things work together in concert to help move the ball forward on whatever it is you're trying to achieve. And I tell you what, when we have our AstroMind group set up, we'll probably go deeper in this. There's a bunch of best practices using email automation. And there's also a bunch of things not to do. I do want to touch on one thing before we get out here on not to do. Whatever you do, do not purchase a list online somewhere. An Excel spreadsheet or some type of flat file and upload it into your email automation tool. Number one, you automatically broke the law by doing it. It's against the law to do that. People have to agree to have their contact information added to an email tool. Number two, what you probably don't know is all these email automation tools, it's to their own best interest to make sure the emails get delivered. So the moment they think you're spamming or you're doing something you're not supposed to do, they're going to kill your ability for your emails to reach people's inboxes. They just could disappear at the server level. They'll never, it won't even end up in people's junk box. Besides breaking the law and besides ruining your ability to reach people because the emails never reached their inbox, you're going to piss a lot of people off quite frankly because they didn't ask to be added to that list. The number one thing to not do is buy a list online and upload it to your email automation tool. It doesn't help anything, it hurts everything and you may end up finding yourself becoming blacklisted. I get added to email list all the time and earlier I would just unsubscribe. Now that I understand that people are doing it maliciously, I intentionally mark it as I didn't sign up for this which then tells their email automation tool to watch this company or this person and if they get too many of those flagged that way, they'll kill their ability to reach people. So don't do that. And I think that that's the fail of the week. That can be the fail. I mean permission-based selling, personalized selling is where we're at right now in the kind of age of the internet and I get added to lists all the time and it is annoying and there are algorithms that are running in the background and guys, algorithms never forget. And you want to go about things the right way. If you put just as much attention into doing things the right way, you're going to get to where you want to go versus trying to run up the river the wrong way because these algorithms are very, very powerful. They know what you're doing. They can see stuff. There are ways to wash lists and if you do have actually a good list and there's all these kind of rules around it, you can upload it to Facebook and create targeting again, taking those emails, doing something else with it. But guess what? If you do that with a list that they find that you just grab that list and it's not a vetted list that you have that, they could ban you from using their platform or their tool. People don't understand that about Google. Google is a private company and it's not a public utility and you don't get a ticket if you do something wrong. Now you could break the law and you could get in trouble from FDIC, whatever. And there's a lot of stuff around reviews around that FYI, everybody. But guess what? They can just tell you, we're not going to put you on a platform and they can just decide to do that and de-platform you. And if you've heard all the horror stories about it, it is true. There are people that cannot get on YouTube anymore. They're doing the various stuff on Google. That's a whole topic. But just follow the rules and do stuff the right way. And I think you're going to get a lot further because this stuff is so powerful if you just use it properly. It is powerful. Time to get out of here. Let's do a little house keeping, speaking of newsletters and email lists. Go sign up for the two. They're in the show notes. We have our Sunday update. That's the one I mentioned that was growing exponentially every week. A bunch of fun stuff in that. Then we have our all-in-guess events newsletter. I mentioned that one as well. Both of those links are in the show notes. And then all of Matt and I's social channels are on the show notes as well. Our Insiders group, we're working on it. It is going to be an unbelievable experience. You just got to wait till 2024. We get there. And then Matt talked about our fail tip of the week, which is a good fail. Don't be buying, listen, upload, and it doesn't help anybody. All right, Matt, let's get out of here. Remember everybody, make a difference and not a sale. Check us out next week for another enriching and cheeky episode of oil and gas sales and marketing podcast, a production of the oil and gas global network. Learn more at OGGN.com.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.56,
+      "text": "Manage your all-field operations from anywhere with Rigor online or offline. Whether it's"
+    },
+    {
+      "start": 4.56,
+      "end": 8.4,
+      "text": "scheduling and dispatching jobs, tracking employee hours, managing equipment rentals,"
+    },
+    {
+      "start": 8.4,
+      "end": 12.56,
+      "text": "or inspections and maintenance, you can create, review, approve, and upload all types of field"
+    },
+    {
+      "start": 12.56,
+      "end": 17.52,
+      "text": "tickets and agreements securely from any device. Plus, you can generate invoices same day and run"
+    },
+    {
+      "start": 17.52,
+      "end": 22.64,
+      "text": "powerful operation manager dashboards on your desktop or phone. No paper, no errors, no headaches."
+    },
+    {
+      "start": 22.64,
+      "end": 34.21,
+      "text": "Learn more at rigor.us. Link is in the show notes. Welcome to the Oil and Gas Sales and Marketing"
+    },
+    {
+      "start": 34.21,
+      "end": 40.37,
+      "text": "podcast, where every week, your hosts, Mark LaCour and Matt Bertram share proven strategies"
+    },
+    {
+      "start": 40.37,
+      "end": 46.45,
+      "text": "and real-world tactics to help you connect with customers and close more deals. Let's do this."
+    },
+    {
+      "start": 50.02,
+      "end": 56.02,
+      "text": "Hey, welcome back, everybody. We actually don't have a review. So come on, people. If you like the"
+    },
+    {
+      "start": 56.02,
+      "end": 59.94,
+      "text": "show, spend a couple of minutes, leave us a review. There's a link in the show notes to make it"
+    },
+    {
+      "start": 59.94,
+      "end": 64.18,
+      "text": "ridiculously easy. And if you don't like the show and there's some things you want us to improve,"
+    },
+    {
+      "start": 64.18,
+      "end": 68.9,
+      "text": "also leave us a review. Let's know what you want us to improve upon. But this subject is actually"
+    },
+    {
+      "start": 68.9,
+      "end": 73.3,
+      "text": "going to be really cool because it's something that I've been using in our business for a long time,"
+    },
+    {
+      "start": 73.3,
+      "end": 79.46,
+      "text": "but just as baby steps. And Matt's going to be the expert on this. But email automation. So Matt,"
+    },
+    {
+      "start": 79.46,
+      "end": 83.86,
+      "text": "if we just start from the very basics, if somebody doesn't know what email automation is,"
+    },
+    {
+      "start": 84.42,
+      "end": 91.78,
+      "text": "what is email automation? Well, email automation is the ability to, I guess,"
+    },
+    {
+      "start": 92.42,
+      "end": 100.1,
+      "text": "create touchpoints with existing customer or potential prospect in a way that you can structure"
+    },
+    {
+      "start": 100.1,
+      "end": 105.54,
+      "text": "it out, plan it out of when you want those touchpoints to happen, and then have them happen"
+    },
+    {
+      "start": 105.54,
+      "end": 109.78,
+      "text": "without you actually doing anything. I don't know if that's the right definition, but that's"
+    },
+    {
+      "start": 109.78,
+      "end": 114.58,
+      "text": "how I would define it. That's as good as anything I've heard. We've been using MailChimp for years,"
+    },
+    {
+      "start": 114.58,
+      "end": 120.1,
+      "text": "which is an email automation tool. It allows you to do a lot of stuff at scale that, quite frankly,"
+    },
+    {
+      "start": 120.1,
+      "end": 123.7,
+      "text": "you would spend too much time if you're trying to do it yourself. So Matt, I want to talk a little"
+    },
+    {
+      "start": 123.7,
+      "end": 129.06,
+      "text": "bit about email automation from my use as a salesperson, and then I'll let you chime in and"
+    },
+    {
+      "start": 129.06,
+      "end": 133.7,
+      "text": "explain to the audience is how we could do more and better than that. So I'll give you a perfect"
+    },
+    {
+      "start": 133.7,
+      "end": 137.54,
+      "text": "example. If you've been following me for any length of time from modal point, you'll notice that we"
+    },
+    {
+      "start": 137.54,
+      "end": 143.3,
+      "text": "have an oil and gas events newsletter. People sign up for that, and they double opt-in. So they come"
+    },
+    {
+      "start": 143.3,
+      "end": 148.74,
+      "text": "in through a plugin for WordPress with MailChimp, or they come in through a landing page we have."
+    },
+    {
+      "start": 148.74,
+      "end": 154.18,
+      "text": "MailChimp, besides letting them sign up for it, asks them again, are you sure? And that"
+    },
+    {
+      "start": 154.18,
+      "end": 159.14,
+      "text": "satisfies a law, the CAM SPAM Act here in the U.S., that's something very equivalent in Europe,"
+    },
+    {
+      "start": 159.14,
+      "end": 163.38,
+      "text": "to make sure you're legally harvesting those emails. And when people sign up for my events"
+    },
+    {
+      "start": 163.38,
+      "end": 168.02,
+      "text": "newsletter, they see it as valuable because they want to be notified of all the oil and gas events."
+    },
+    {
+      "start": 168.02,
+      "end": 172.9,
+      "text": "So once a month, my interns put this newsletter together, they get all the oil and gas events"
+    },
+    {
+      "start": 172.9,
+      "end": 176.9,
+      "text": "from all over the interwebs, put it in the newsletter, send it out once a month. However,"
+    },
+    {
+      "start": 176.9,
+      "end": 182.9,
+      "text": "what a lot of you may not understand about that is that's also a sales tool for me. So"
+    },
+    {
+      "start": 182.9,
+      "end": 186.98,
+      "text": "whenever we have a client that comes in that ends up not doing business thus for whatever"
+    },
+    {
+      "start": 186.98,
+      "end": 191.46,
+      "text": "reason in that moment, I ask them, hey, is it okay if I add you to this list? And because they're"
+    },
+    {
+      "start": 191.46,
+      "end": 196.34,
+      "text": "engaged with modal point, which is an oil and gas market research company, they of course have an"
+    },
+    {
+      "start": 196.34,
+      "end": 201.46,
+      "text": "interest in oil and gas events. And 100% of the time they say yes. Well, each month they're reminded"
+    },
+    {
+      "start": 201.46,
+      "end": 206.26,
+      "text": "of modal point, of what we do because of this events newsletter. And I've had hundreds and hundreds"
+    },
+    {
+      "start": 206.34,
+      "end": 212.58,
+      "text": "of clients that one year, two year, three year, five year, 10 years after they originally decided"
+    },
+    {
+      "start": 212.58,
+      "end": 216.42,
+      "text": "not to work with us, come back and do business with us. Because each month they were reminded"
+    },
+    {
+      "start": 216.42,
+      "end": 221.06,
+      "text": "of who we are and what we do. And that cost me literally $20 a month for my interns time to put"
+    },
+    {
+      "start": 221.06,
+      "end": 226.74,
+      "text": "that together. Mark, I think you bring up something really, really important is when you look at"
+    },
+    {
+      "start": 226.74,
+      "end": 232.26,
+      "text": "email automation or building an email list versus social media or anything else you do,"
+    },
+    {
+      "start": 232.26,
+      "end": 238.66,
+      "text": "that list that you create is something that you own that you can take that list, that customer"
+    },
+    {
+      "start": 238.66,
+      "end": 243.86,
+      "text": "list to pick it up and move it with you wherever you go, you're not tied to a specific platform."
+    },
+    {
+      "start": 243.86,
+      "end": 248.66,
+      "text": "And if you don't like their rules, you can move it now certainly can spam and following what you're"
+    },
+    {
+      "start": 248.66,
+      "end": 253.14,
+      "text": "supposed to be doing super important. But there's so many different email automation tools. And I"
+    },
+    {
+      "start": 253.14,
+      "end": 258.5,
+      "text": "love MailChimp and they've really come a long way with automations. It was pretty rudimentary a"
+    },
+    {
+      "start": 258.5,
+      "end": 262.98,
+      "text": "couple of years ago. Other people may have heard of like HubSpot, they do a really good job of"
+    },
+    {
+      "start": 262.98,
+      "end": 269.54,
+      "text": "promoting. They actually coined the phrase inbound marketing, active campaign, constant contact,"
+    },
+    {
+      "start": 269.54,
+      "end": 276.82,
+      "text": "Aweber, get response, convert kit, drip, Paradot, Keep, which Keep is like the watered down small"
+    },
+    {
+      "start": 276.82,
+      "end": 283.38,
+      "text": "business version of Infusionsoft. And that was just a beast. That's probably like the gold"
+    },
+    {
+      "start": 283.38,
+      "end": 287.54,
+      "text": "standard. There's Entraport, there's Autopilot. So there's a lot of these different tools."
+    },
+    {
+      "start": 287.54,
+      "end": 293.78,
+      "text": "They all work fairly similar and MailChimp's as good as any other. What I can tell you that I do"
+    },
+    {
+      "start": 293.78,
+      "end": 301.14,
+      "text": "see a lot is HubSpot's fantastic for if you build a website with it on forms and where lead captures"
+    },
+    {
+      "start": 301.14,
+      "end": 306.98,
+      "text": "come from and tracking analytics. But I see a lot of people that are just using it for a newsletter."
+    },
+    {
+      "start": 306.98,
+      "end": 312.02,
+      "text": "It's like you're driving a Rolls Royce to work every day. Like, do you need to do that if you're"
+    },
+    {
+      "start": 312.02,
+      "end": 316.5,
+      "text": "not using some of the other tools? So I think one of the first things you want to do is figure out"
+    },
+    {
+      "start": 316.5,
+      "end": 320.1,
+      "text": "what your use case is. Like, how are you going to be using it? What are you going to be using it"
+    },
+    {
+      "start": 320.1,
+      "end": 326.98,
+      "text": "for? Certainly some of these CRMs have ability to do rudimentary email stuff like Salesforce"
+    },
+    {
+      "start": 326.98,
+      "end": 332.58,
+      "text": "within it. But all these have integrations and stuff like that. And ideally what you want to be"
+    },
+    {
+      "start": 332.58,
+      "end": 337.78,
+      "text": "able to do, big picture is someone comes to your website, they download something, they fill out"
+    },
+    {
+      "start": 337.78,
+      "end": 344.02,
+      "text": "a form, they opt in in some way that automatically when they fill out that field, it gets pushed"
+    },
+    {
+      "start": 344.02,
+      "end": 349.62,
+      "text": "into your customer list. If they can select something where they can auto select, hey,"
+    },
+    {
+      "start": 349.62,
+      "end": 354.42,
+      "text": "I'm in upstream or in gas, I'm in downstream, whatever, then you can segment that list or"
+    },
+    {
+      "start": 354.42,
+      "end": 359.86,
+      "text": "they help you segment that list. And then you can build custom lists for each of those different"
+    },
+    {
+      "start": 359.86,
+      "end": 363.7,
+      "text": "segments or different things they want to opt in for. So maybe they're interested in different"
+    },
+    {
+      "start": 363.7,
+      "end": 368.9,
+      "text": "topics. And so maybe you have these automated emails, these drip emails that you have set up"
+    },
+    {
+      "start": 368.98,
+      "end": 375.78,
+      "text": "sequenced out. And if they opt into the list, they get sent those emails, and then of course,"
+    },
+    {
+      "start": 375.78,
+      "end": 380.9,
+      "text": "they can change that. But again, it's like, we talked about this in a past podcast, but bad data"
+    },
+    {
+      "start": 380.9,
+      "end": 386.18,
+      "text": "in bad data out, the better you can get this together. Ideally, what's so awesome in a lot of"
+    },
+    {
+      "start": 386.18,
+      "end": 390.9,
+      "text": "these systems is if you have this stuff built out, something comes in, you either it auto creates a"
+    },
+    {
+      "start": 390.9,
+      "end": 396.5,
+      "text": "tag, or you just have to manually create a tag. And from a salesperson outbound standpoint,"
+    },
+    {
+      "start": 396.5,
+      "end": 401.06,
+      "text": "it's the pens and pads, right, staying in front of them, them reminding of you, this is kind of"
+    },
+    {
+      "start": 401.06,
+      "end": 407.3,
+      "text": "a different medium giving value. But it's amazing, like email automation is probably like the number"
+    },
+    {
+      "start": 407.3,
+      "end": 412.42,
+      "text": "one tool to convert people because people might come to your website through SEO or paid ads,"
+    },
+    {
+      "start": 412.42,
+      "end": 418.26,
+      "text": "but typically they don't buy on the first time, some of them do. But many of them need that constant"
+    },
+    {
+      "start": 418.26,
+      "end": 422.98,
+      "text": "reinforcement, you can do a lot of stuff in your messaging through email automation."
+    },
+    {
+      "start": 422.98,
+      "end": 426.58,
+      "text": "Yeah, and I want to go back a little bit, Matt said something super important that I didn't know"
+    },
+    {
+      "start": 426.58,
+      "end": 431.38,
+      "text": "when I first started this 15 years ago. So Matt talked about segmenting your list. So I'm gonna"
+    },
+    {
+      "start": 431.38,
+      "end": 435.54,
+      "text": "go back to my real list, the modal point, all I guess events newsletter, when I started that 15"
+    },
+    {
+      "start": 435.54,
+      "end": 440.5,
+      "text": "years ago, I had no idea what I was doing. But what I did is I read somewhere that the least"
+    },
+    {
+      "start": 440.5,
+      "end": 444.74,
+      "text": "number of form fields you have, the more likely people are to sign up. Because I didn't know what"
+    },
+    {
+      "start": 444.74,
+      "end": 450.02,
+      "text": "I was doing, all I did is capture people's name and email address. You fast forward 15 years later,"
+    },
+    {
+      "start": 450.02,
+      "end": 454.5,
+      "text": "I have 15,000 people that are signed up for my events newsletter, I have no idea who they are or"
+    },
+    {
+      "start": 454.5,
+      "end": 459.86,
+      "text": "who they work for. I messed up, I should have at least added one more form field to say which part"
+    },
+    {
+      "start": 459.86,
+      "end": 464.02,
+      "text": "of the industry you work in. And if you notice, if you sign up for any of our new newsletters,"
+    },
+    {
+      "start": 464.02,
+      "end": 468.9,
+      "text": "like our Sunday update, when you sign up, it's still the same tools MailChimp, but we do ask"
+    },
+    {
+      "start": 468.9,
+      "end": 472.18,
+      "text": "what part of the industry you do work in upstream, midstream or downstream or service,"
+    },
+    {
+      "start": 472.74,
+      "end": 476.74,
+      "text": "so that we at least know who you are. So it's really important when you first set this up,"
+    },
+    {
+      "start": 476.82,
+      "end": 481.3,
+      "text": "you think this through for future use. The other thing that's really important from a sales"
+    },
+    {
+      "start": 481.3,
+      "end": 486.1,
+      "text": "point of view is when I use email automation or when we use email automation, we're reaching people"
+    },
+    {
+      "start": 486.1,
+      "end": 490.82,
+      "text": "where they are, which is their inbox. Now, you don't want to misuse it and fill it up with spam."
+    },
+    {
+      "start": 490.82,
+      "end": 495.22,
+      "text": "We've all been added to lists that we didn't want to be added to, which by the way breaks the camp"
+    },
+    {
+      "start": 495.22,
+      "end": 499.22,
+      "text": "spam law to get caught doing that. You don't want to push stuff in people's inbox just because you"
+    },
+    {
+      "start": 499.22,
+      "end": 503.78,
+      "text": "mechanically have the ability to do it. But if you offer good valuable content in some form or"
+    },
+    {
+      "start": 503.86,
+      "end": 506.58,
+      "text": "fashion, it's not spam. It's not spam. There's a fine line there, right?"
+    },
+    {
+      "start": 506.58,
+      "end": 511.46,
+      "text": "And people love it. And from a sales point of view, being able to at scale stay in front of"
+    },
+    {
+      "start": 511.46,
+      "end": 516.98,
+      "text": "every single prospect you've met is worth a fortune. And it's not expensive. Even the most"
+    },
+    {
+      "start": 516.98,
+      "end": 520.74,
+      "text": "expensive of these email automation tools are really not that bad, especially when you look"
+    },
+    {
+      "start": 520.74,
+      "end": 525.3,
+      "text": "at the return that you can generate from this. One of the things that I get asked a lot, Mark,"
+    },
+    {
+      "start": 525.3,
+      "end": 530.58,
+      "text": "is, well, okay, I want to send a newsletter, but I don't want to bug people. I don't want to become"
+    },
+    {
+      "start": 530.58,
+      "end": 535.7,
+      "text": "spam. I want to make sure to provide value, but this is also a lot of work to keep up with it."
+    },
+    {
+      "start": 535.7,
+      "end": 540.34,
+      "text": "And so what's the right number? I get asked a lot, what's the right number of emails to"
+    },
+    {
+      "start": 540.34,
+      "end": 546.82,
+      "text": "write that edge of add the value, have them not forget who you are, and have them see it? Well,"
+    },
+    {
+      "start": 546.82,
+      "end": 552.42,
+      "text": "one is the data does say, and there are messaging going on like thousands of messages all the time."
+    },
+    {
+      "start": 552.42,
+      "end": 560.66,
+      "text": "So it's a lot harder. And we can get into SMS or text messaging has like a 98.5 or 99.5,"
+    },
+    {
+      "start": 560.66,
+      "end": 565.3,
+      "text": "something like that, open rate, even with the quote unquote spam emails, a lot tougher. But"
+    },
+    {
+      "start": 565.3,
+      "end": 570.18,
+      "text": "usually people keep their emails typically about how long they keep a house. So think of it like"
+    },
+    {
+      "start": 570.18,
+      "end": 575.3,
+      "text": "digital real estate, they are getting it. But if they sign up for it, they know what they're signing"
+    },
+    {
+      "start": 575.3,
+      "end": 580.82,
+      "text": "up for, and you show good form and present value, they're going to look forward to that."
+    },
+    {
+      "start": 580.82,
+      "end": 586.66,
+      "text": "But the number to decide on how often you should connect with your prospect or existing"
+    },
+    {
+      "start": 586.66,
+      "end": 591.46,
+      "text": "cupsors because like nurtures really, really, really important for existing customers and"
+    },
+    {
+      "start": 591.46,
+      "end": 595.86,
+      "text": "churn rates and different things like that. So email can be used in a lot of different ways."
+    },
+    {
+      "start": 595.86,
+      "end": 601.94,
+      "text": "But what you got to think about is what is the relationship that you want to have with that"
+    },
+    {
+      "start": 601.94,
+      "end": 607.94,
+      "text": "prospect or customer. So Mark, if we just hung out quarterly, like we would be acquaintances,"
+    },
+    {
+      "start": 607.94,
+      "end": 613.14,
+      "text": "we might remember who we are, you'll kind of look familiar, whatever, but probably not going to do"
+    },
+    {
+      "start": 613.14,
+      "end": 618.26,
+      "text": "business, but no you and maybe we need to do something at some point. Okay, so you got quarterly,"
+    },
+    {
+      "start": 618.26,
+      "end": 623.22,
+      "text": "then you got monthly, I think monthly is a good hey, let's stay in touch, you're not just like"
+    },
+    {
+      "start": 623.22,
+      "end": 627.62,
+      "text": "emailing somebody out of the blue or calling somebody out of the blue, like you're kind of"
+    },
+    {
+      "start": 627.62,
+      "end": 633.06,
+      "text": "staying in touch with them and then you can incorporate social media and staying up to date"
+    },
+    {
+      "start": 633.06,
+      "end": 638.9,
+      "text": "with somebody. But providing somebody monthly values really good, then you got bi weekly or even"
+    },
+    {
+      "start": 638.9,
+      "end": 644.74,
+      "text": "weekly. And that now gets to like, what is your circle of trust? What is your circle of influence?"
+    },
+    {
+      "start": 644.74,
+      "end": 651.06,
+      "text": "Now, daily, the data says it works the best. But think about the relationship that you want to have"
+    },
+    {
+      "start": 651.06,
+      "end": 655.22,
+      "text": "with your customer about how they would have that relationship with other people and their"
+    },
+    {
+      "start": 655.22,
+      "end": 660.58,
+      "text": "circle of trust. So that might be your parents or that might be your family or that might be"
+    },
+    {
+      "start": 660.58,
+      "end": 666.18,
+      "text": "your very close friends. And if you're trying to position yourself in that way, then yeah,"
+    },
+    {
+      "start": 666.18,
+      "end": 671.7,
+      "text": "by all means, like have a conversational tone and reach those people daily. Maybe you might want"
+    },
+    {
+      "start": 671.7,
+      "end": 676.82,
+      "text": "to say, okay, well, I'm really trying to move this process forward and want to speed up the"
+    },
+    {
+      "start": 676.82,
+      "end": 681.7,
+      "text": "quote unquote sales cycles, let me connect with them weekly and make sure that that's valuable."
+    },
+    {
+      "start": 681.7,
+      "end": 684.82,
+      "text": "I think some are between weekly and monthly, but you just got to think about"
+    },
+    {
+      "start": 685.54,
+      "end": 690.02,
+      "text": "what is the relationship you want to have with that customer because prospects might be weekly,"
+    },
+    {
+      "start": 690.1,
+      "end": 694.42,
+      "text": "existing customers might be monthly, might be different of how you want to throttle that."
+    },
+    {
+      "start": 695.06,
+      "end": 699.7,
+      "text": "And also what's super interesting, again, I don't know how deep we can go on this because"
+    },
+    {
+      "start": 699.7,
+      "end": 705.22,
+      "text": "I know we were having some conversations in the pre call, but here's something so cool. Based on"
+    },
+    {
+      "start": 705.22,
+      "end": 710.42,
+      "text": "how people engage mark with that email, like if they click on a link, you can add them to other"
+    },
+    {
+      "start": 710.42,
+      "end": 716.58,
+      "text": "lists or you can add them to other retargeting methods, multi channel reach, but also like"
+    },
+    {
+      "start": 716.58,
+      "end": 722.42,
+      "text": "how long they keep the email open, what they click on, what they do with that email, you can"
+    },
+    {
+      "start": 722.42,
+      "end": 728.42,
+      "text": "weigh their engagement levels and then you can do something different. So maybe someone doesn't"
+    },
+    {
+      "start": 728.42,
+      "end": 733.7,
+      "text": "open an email, someone doesn't open an email. Well, they get put on a list and then maybe you send"
+    },
+    {
+      "start": 733.7,
+      "end": 739.54,
+      "text": "an email with a salacious or I don't know what the right word is, but like a headline that's like"
+    },
+    {
+      "start": 739.54,
+      "end": 745.22,
+      "text": "clickbait trying to get them to open and it's like a re engagement list. So they didn't see it,"
+    },
+    {
+      "start": 745.22,
+      "end": 750.26,
+      "text": "they didn't open it, maybe they missed it. So maybe you got to show something and catch them"
+    },
+    {
+      "start": 750.26,
+      "end": 756.1,
+      "text": "or if they did open it, maybe you're going to take them down a certain path and you've tagged them"
+    },
+    {
+      "start": 756.1,
+      "end": 760.58,
+      "text": "of like what part of the industry they're in. Now you can send them down that channel. Now if"
+    },
+    {
+      "start": 760.58,
+      "end": 764.82,
+      "text": "they click on that link, then they go to somewhere else on your page, which you already have their"
+    },
+    {
+      "start": 764.82,
+      "end": 769.3,
+      "text": "IP address, you already have their information and they're interested in something else that's"
+    },
+    {
+      "start": 769.3,
+      "end": 774.66,
+      "text": "like a reference in that newsletter or a link to your website and it's somewhere that you don't"
+    },
+    {
+      "start": 774.66,
+      "end": 779.94,
+      "text": "have them indicated, then they get added to a new list, they're add on a new email drip and the whole"
+    },
+    {
+      "start": 779.94,
+      "end": 785.38,
+      "text": "goal is the personalization and that's why people ask for first name and last name and to your point,"
+    },
+    {
+      "start": 786.02,
+      "end": 792.42,
+      "text": "it makes a difference. One form fill more makes so much of a difference and if you're starting out,"
+    },
+    {
+      "start": 792.42,
+      "end": 796.66,
+      "text": "you maybe just say name, you don't say first name and last name, but if you're more advanced,"
+    },
+    {
+      "start": 796.66,
+      "end": 801.7,
+      "text": "you might say first name and last name because you want that email that's going to be customized to"
+    },
+    {
+      "start": 801.7,
+      "end": 807.46,
+      "text": "them. It's going to say hello, John or whatever versus their full name. I would also say one of"
+    },
+    {
+      "start": 807.46,
+      "end": 812.5,
+      "text": "the things that you said I think is worth saying is even if you don't get an email and a lot of"
+    },
+    {
+      "start": 812.5,
+      "end": 816.66,
+      "text": "salespeople do this and I work with a lot of different organizations with salespeople that"
+    },
+    {
+      "start": 816.66,
+      "end": 822.66,
+      "text": "kind of field inbound leads, they always look for an email address from a business and if it's not"
+    },
+    {
+      "start": 822.66,
+      "end": 829.46,
+      "text": "from a business, they discard the email. That's a mistake because a lot of people are searching"
+    },
+    {
+      "start": 829.46,
+      "end": 835.62,
+      "text": "for stuff in their free time. Also, some people are tied into different social media platforms"
+    },
+    {
+      "start": 835.62,
+      "end": 839.94,
+      "text": "and they may not have their work connected to their LinkedIn. They may, but they may not"
+    },
+    {
+      "start": 840.5,
+      "end": 845.86,
+      "text": "or you're capturing a form fill on Facebook or something like that. It depends where you capture"
+    },
+    {
+      "start": 845.86,
+      "end": 851.7,
+      "text": "their information that comes into that email list of where that input is of where the attribution"
+    },
+    {
+      "start": 851.7,
+      "end": 856.82,
+      "text": "was to convert it because man, I have a personal email and I have a work email and you're not"
+    },
+    {
+      "start": 856.82,
+      "end": 861.3,
+      "text": "going to be able to tell the difference unless maybe you do some research on that email to know"
+    },
+    {
+      "start": 861.3,
+      "end": 866.5,
+      "text": "that it's me. You look it up, you see that and certainly there's Salesforce and some other tools"
+    },
+    {
+      "start": 866.5,
+      "end": 872.82,
+      "text": "kind of pull some of that data in, but to just discard it because it's not a business email,"
+    },
+    {
+      "start": 872.82,
+      "end": 878.82,
+      "text": "think about how people are searching. I know a lot of executives that don't necessarily use their"
+    },
+    {
+      "start": 878.82,
+      "end": 884.66,
+      "text": "work email to do research online to figure stuff out. I have an email just for stuff to sign up"
+    },
+    {
+      "start": 884.66,
+      "end": 890.1,
+      "text": "online and to your point, most people understand that now. However, I read that inbox. I don't"
+    },
+    {
+      "start": 890.1,
+      "end": 895.46,
+      "text": "ignore it. So if you're a company that sees my Outlook email address, which is the one I use when"
+    },
+    {
+      "start": 895.46,
+      "end": 900.1,
+      "text": "I'm surfing stuff online, don't think I don't check it. I am intentionally using a separate"
+    },
+    {
+      "start": 900.1,
+      "end": 904.26,
+      "text": "email address so that when you reach out to me, it's in one inbox. It doesn't fill up my work"
+    },
+    {
+      "start": 904.26,
+      "end": 909.7,
+      "text": "inbox, but I still check it. You're 100% spot on. Another thing in the oil and gas space,"
+    },
+    {
+      "start": 909.7,
+      "end": 914.18,
+      "text": "there's a lot of companies and a lot of sales people out there that sell parts and pieces."
+    },
+    {
+      "start": 914.74,
+      "end": 922.5,
+      "text": "Hype insulation, wire cutters, wing nuts, EMT, lastimers, O-rings, all valves, whatever,"
+    },
+    {
+      "start": 922.5,
+      "end": 926.74,
+      "text": "to make this industry run. Now think about this from a sales point of view, if you're one of those"
+    },
+    {
+      "start": 926.74,
+      "end": 931.78,
+      "text": "people that are selling those type of commodities, probably what you do is you have a list of customers"
+    },
+    {
+      "start": 931.78,
+      "end": 936.42,
+      "text": "that are buying from you now. You look at that list and see when they made their last order and you"
+    },
+    {
+      "start": 936.42,
+      "end": 939.7,
+      "text": "guess on when you should reach out to them and you pick up the phone and call them or shoot them"
+    },
+    {
+      "start": 939.7,
+      "end": 946.58,
+      "text": "an email. With email automation, especially if you have a good ERP system, it can track when your"
+    },
+    {
+      "start": 946.58,
+      "end": 950.98,
+      "text": "customers routinely order and it can automate sending them an email saying, hey, you haven't"
+    },
+    {
+      "start": 950.98,
+      "end": 955.14,
+      "text": "ordered one inch ball valves in a few months, click here, we'll send you 20 of them. Well,"
+    },
+    {
+      "start": 955.14,
+      "end": 960.74,
+      "text": "now you're using the tool, the email automation tool to automate your sales process, which makes it"
+    },
+    {
+      "start": 960.74,
+      "end": 964.98,
+      "text": "easier for your buyer and it makes it easier for you. You may end up closing deals, you don't even"
+    },
+    {
+      "start": 964.98,
+      "end": 970.66,
+      "text": "talk to them. Now let's say they decide not to click on that link in the email automation tool"
+    },
+    {
+      "start": 970.66,
+      "end": 976.26,
+      "text": "to Matt's point, you can have a separate sequence of emails saying, hey, I noticed you didn't order"
+    },
+    {
+      "start": 976.26,
+      "end": 980.9,
+      "text": "your one inch ball valves, have anything changed, would you like to set up a call with me? And you"
+    },
+    {
+      "start": 980.9,
+      "end": 987.38,
+      "text": "can use all of this to not replace human conversation, but to take care of a lot of the tactical stuff"
+    },
+    {
+      "start": 987.38,
+      "end": 991.46,
+      "text": "that eats up a lot of your time, especially with existing clients and it literally can all be"
+    },
+    {
+      "start": 991.46,
+      "end": 996.42,
+      "text": "automated within the tool itself and they all do it. Another thing I think is really cool Matt,"
+    },
+    {
+      "start": 996.42,
+      "end": 1002.9,
+      "text": "is the metrics that you get back. So for us, we can see who clicked on what where,"
+    },
+    {
+      "start": 1002.9,
+      "end": 1006.9,
+      "text": "so we can see what people are interested in, what they're not interested in. I also can see the"
+    },
+    {
+      "start": 1006.9,
+      "end": 1012.9,
+      "text": "people that unsubscribe. So if you see a big increase in unsubscribes, that means your content"
+    },
+    {
+      "start": 1012.9,
+      "end": 1016.98,
+      "text": "probably isn't valuable anymore, you need to change something. If you see a bunch of people come in"
+    },
+    {
+      "start": 1016.98,
+      "end": 1021.22,
+      "text": "and subscribe, that's what you want by the way, then you're doing something right. We had that"
+    },
+    {
+      "start": 1021.22,
+      "end": 1027.06,
+      "text": "happen with our Sunday update and it's literally in six weeks, I believe we went from zero subscribers"
+    },
+    {
+      "start": 1027.06,
+      "end": 1032.98,
+      "text": "to that email list to 21,000 subscribers. And so how cool is it from a sales point of view to know"
+    },
+    {
+      "start": 1032.98,
+      "end": 1038.26,
+      "text": "that people want to receive our content and in that newsletter is a bunch of valuable stuff,"
+    },
+    {
+      "start": 1038.26,
+      "end": 1044.5,
+      "text": "but what else is in that newsletter? Our merchandise store, podcast sponsorship opportunities. So by"
+    },
+    {
+      "start": 1044.5,
+      "end": 1049.7,
+      "text": "putting out good content in an email newsletter using a tool, I am now not only can tell that"
+    },
+    {
+      "start": 1049.7,
+      "end": 1055.46,
+      "text": "people find it valuable, I am marketing our business without talking to anybody. The tool"
+    },
+    {
+      "start": 1055.46,
+      "end": 1060.9,
+      "text": "itself is doing it for us. One of the things that's super interesting too about automated emails"
+    },
+    {
+      "start": 1060.9,
+      "end": 1068.18,
+      "text": "is it gives you the ability to indirectly remind somebody of something where you don't send a"
+    },
+    {
+      "start": 1068.18,
+      "end": 1072.82,
+      "text": "personal email and that could be advantageous if, hey, someone needs to pay an invoice,"
+    },
+    {
+      "start": 1072.82,
+      "end": 1077.62,
+      "text": "hey, just send a reminder where it's automated. It starts to add tools in the tool belt. Now,"
+    },
+    {
+      "start": 1077.62,
+      "end": 1082.42,
+      "text": "something that is hilarious and I have used it before, so I'll throw this out there,"
+    },
+    {
+      "start": 1082.42,
+      "end": 1089.22,
+      "text": "there's actually an email tool called Rebump, okay, like Rebump and sometimes emails get buried."
+    },
+    {
+      "start": 1089.22,
+      "end": 1093.94,
+      "text": "Also, some people are not ready to respond yet because they're not in that buying mode again"
+    },
+    {
+      "start": 1093.94,
+      "end": 1100.26,
+      "text": "yet. And I think one of the things that we should talk about in our insiders group too is how to"
+    },
+    {
+      "start": 1100.26,
+      "end": 1105.62,
+      "text": "write an email because there's the disk profile or something, there's different ways to write an"
+    },
+    {
+      "start": 1105.62,
+      "end": 1111.86,
+      "text": "email to catch different people if they're like a D, high D, or they're more relationship based."
+    },
+    {
+      "start": 1111.86,
+      "end": 1117.3,
+      "text": "And so you can actually test out different emails and you can also look at the topic. So the analytics"
+    },
+    {
+      "start": 1117.86,
+      "end": 1123.54,
+      "text": "for everything in digital marketing gives you that edge if you utilize it. And typically,"
+    },
+    {
+      "start": 1123.54,
+      "end": 1129.78,
+      "text": "you can see what people are interested in, but Rebump, what it does is it will keep sending an"
+    },
+    {
+      "start": 1129.78,
+      "end": 1135.06,
+      "text": "email to somebody until you can set actions, till they open it, till they respond, whatever."
+    },
+    {
+      "start": 1135.06,
+      "end": 1140.58,
+      "text": "So if you're looking for a response to something, one of my pet peeves, and I try to have email"
+    },
+    {
+      "start": 1140.58,
+      "end": 1146.58,
+      "text": "etiquette of like asking one thing in an email to get one response, because if you litter multiple"
+    },
+    {
+      "start": 1146.58,
+      "end": 1150.18,
+      "text": "things in an email, or hey, are you interested in this and interested in this and interested in"
+    },
+    {
+      "start": 1150.18,
+      "end": 1155.54,
+      "text": "this, typically people respond to one thing, like whatever jumps out at them. And if you're sending"
+    },
+    {
+      "start": 1156.02,
+      "end": 1160.18,
+      "text": "email to somebody, and then they don't respond to this specific thing that you're asking about,"
+    },
+    {
+      "start": 1160.18,
+      "end": 1164.9,
+      "text": "they respond to something else, then you have to send another email. I think that that's good"
+    },
+    {
+      "start": 1164.9,
+      "end": 1170.18,
+      "text": "etiquette to like have one thing in the email if you can, that's not always the case. But say you"
+    },
+    {
+      "start": 1170.18,
+      "end": 1174.18,
+      "text": "have that thing that you're trying to get a response on or approval on or something like that,"
+    },
+    {
+      "start": 1174.18,
+      "end": 1178.74,
+      "text": "right? And you can't move forward till you get this approval, whatever. You can set it up and"
+    },
+    {
+      "start": 1178.74,
+      "end": 1184.1,
+      "text": "rebump where like every day or every hour or whatever you want, send them another email until"
+    },
+    {
+      "start": 1184.1,
+      "end": 1189.7,
+      "text": "they open it or till they take action on it. And that's a lot of sometimes for me, if I'm trying"
+    },
+    {
+      "start": 1189.7,
+      "end": 1195.38,
+      "text": "to do multiple things, where I can leverage email automation is, hey, I need to get this done, and"
+    },
+    {
+      "start": 1195.38,
+      "end": 1199.62,
+      "text": "I'm waiting on somebody else so the ball's in their court. But guess what? That email might have got"
+    },
+    {
+      "start": 1199.62,
+      "end": 1203.7,
+      "text": "buried, they didn't see it, might not be urgent, they forgot about it, whatever. So you could"
+    },
+    {
+      "start": 1203.7,
+      "end": 1208.5,
+      "text": "professionally use a tool like Rebump. There might be some automations in some of these other"
+    },
+    {
+      "start": 1208.5,
+      "end": 1214.82,
+      "text": "platforms that do that as well in your CRM that will remind them professionally, hey, you need"
+    },
+    {
+      "start": 1214.82,
+      "end": 1218.82,
+      "text": "to do this. And again, there's different levels of urgency. And we could probably do a whole"
+    },
+    {
+      "start": 1218.82,
+      "end": 1225.22,
+      "text": "segment on email etiquette. Oh, boy, could we? Because action requested or action required,"
+    },
+    {
+      "start": 1225.22,
+      "end": 1228.58,
+      "text": "I think is so important. You know, another thing, Matt, from a sales point of view, and I've done"
+    },
+    {
+      "start": 1228.58,
+      "end": 1235.06,
+      "text": "this for years, it used to be that when I had a handful of clients in our CRM, if I had the chance"
+    },
+    {
+      "start": 1235.06,
+      "end": 1240.66,
+      "text": "I'd capture their birthday. Every year I'd go to my CRM and make sure I shot people in notes saying,"
+    },
+    {
+      "start": 1240.66,
+      "end": 1244.58,
+      "text": "hey, happy birthday. And that really goes a long way in the oil and gas space of nurturing those"
+    },
+    {
+      "start": 1244.58,
+      "end": 1248.82,
+      "text": "relationships, letting know people that you're thinking about them. It takes all of a few seconds."
+    },
+    {
+      "start": 1248.82,
+      "end": 1254.18,
+      "text": "Well, it takes all of a few seconds when you have 10 clients or 20. When you start doing business for"
+    },
+    {
+      "start": 1254.18,
+      "end": 1257.86,
+      "text": "a few years and you start growing, you have hundreds and hundreds of clients trying to send"
+    },
+    {
+      "start": 1257.86,
+      "end": 1263.3,
+      "text": "something as simple as happy birthday gets to be a chore. And guess what? Email automation is perfect"
+    },
+    {
+      "start": 1263.3,
+      "end": 1267.62,
+      "text": "for that. Every email automation tool I've ever used, you can put that information into your"
+    },
+    {
+      "start": 1267.62,
+      "end": 1271.94,
+      "text": "client's birthdays. You can design a happy birthday and it will automatically send one out. You don't"
+    },
+    {
+      "start": 1271.94,
+      "end": 1276.1,
+      "text": "have to worry about it. And yet your client sees that as a personal touch because it is,"
+    },
+    {
+      "start": 1276.1,
+      "end": 1279.46,
+      "text": "you're just using a tool to make you easier for you to do it at scale."
+    },
+    {
+      "start": 1279.46,
+      "end": 1284.66,
+      "text": "Next step, and I know we're kind of wrapping up here, but you can set a tag, which I did with"
+    },
+    {
+      "start": 1284.66,
+      "end": 1289.86,
+      "text": "a drop shipping company, where it would send a different gift. Okay. So this is advanced stuff,"
+    },
+    {
+      "start": 1289.94,
+      "end": 1295.38,
+      "text": "maybe that we can go into, but you can set up a tag where you can send different gifts to people"
+    },
+    {
+      "start": 1295.38,
+      "end": 1300.1,
+      "text": "when it pops up and you can set alerts. And one of the things that I was even doing, and"
+    },
+    {
+      "start": 1300.1,
+      "end": 1304.02,
+      "text": "I may turn it back on, I had to have a computer that was like a server set up like that. And"
+    },
+    {
+      "start": 1304.02,
+      "end": 1308.74,
+      "text": "basically I had a script that would run and it would log into Facebook every day. And then the"
+    },
+    {
+      "start": 1308.74,
+      "end": 1314.66,
+      "text": "birthday list would pop up of everybody's birthday in Facebook. And then I used a tool that had"
+    },
+    {
+      "start": 1314.66,
+      "end": 1320.58,
+      "text": "three different birthday congratulations. It would rotate. So it would send everybody that was"
+    },
+    {
+      "start": 1320.58,
+      "end": 1326.18,
+      "text": "my contact on Facebook a happy birthday message because I wish I could do that if I had all the"
+    },
+    {
+      "start": 1326.18,
+      "end": 1332.1,
+      "text": "time in the world. Automation helps you craft that messaging where, man, you can send gifts,"
+    },
+    {
+      "start": 1332.1,
+      "end": 1337.78,
+      "text": "you can post birthday messages, you can do super human feats with email automation, and"
+    },
+    {
+      "start": 1337.78,
+      "end": 1343.38,
+      "text": "we don't have time to get too much into the text automation and all these things work together in"
+    },
+    {
+      "start": 1343.38,
+      "end": 1349.06,
+      "text": "concert to help move the ball forward on whatever it is you're trying to achieve."
+    },
+    {
+      "start": 1349.06,
+      "end": 1353.06,
+      "text": "And I tell you what, when we have our AstroMind group set up, we'll probably go deeper in this."
+    },
+    {
+      "start": 1353.06,
+      "end": 1357.54,
+      "text": "There's a bunch of best practices using email automation. And there's also a bunch of things"
+    },
+    {
+      "start": 1357.54,
+      "end": 1362.5,
+      "text": "not to do. I do want to touch on one thing before we get out here on not to do. Whatever you do,"
+    },
+    {
+      "start": 1362.5,
+      "end": 1368.18,
+      "text": "do not purchase a list online somewhere. An Excel spreadsheet or some type of flat file and upload"
+    },
+    {
+      "start": 1368.18,
+      "end": 1372.42,
+      "text": "it into your email automation tool. Number one, you automatically broke the law by doing it. It's"
+    },
+    {
+      "start": 1372.5,
+      "end": 1378.26,
+      "text": "against the law to do that. People have to agree to have their contact information added to an"
+    },
+    {
+      "start": 1378.26,
+      "end": 1383.3,
+      "text": "email tool. Number two, what you probably don't know is all these email automation tools, it's to"
+    },
+    {
+      "start": 1383.3,
+      "end": 1387.7,
+      "text": "their own best interest to make sure the emails get delivered. So the moment they think you're"
+    },
+    {
+      "start": 1387.7,
+      "end": 1391.3,
+      "text": "spamming or you're doing something you're not supposed to do, they're going to kill"
+    },
+    {
+      "start": 1391.3,
+      "end": 1396.18,
+      "text": "your ability for your emails to reach people's inboxes. They just could disappear at the server"
+    },
+    {
+      "start": 1396.18,
+      "end": 1400.42,
+      "text": "level. They'll never, it won't even end up in people's junk box. Besides breaking the law and"
+    },
+    {
+      "start": 1400.42,
+      "end": 1404.58,
+      "text": "besides ruining your ability to reach people because the emails never reached their inbox,"
+    },
+    {
+      "start": 1404.58,
+      "end": 1408.26,
+      "text": "you're going to piss a lot of people off quite frankly because they didn't ask to be added to"
+    },
+    {
+      "start": 1408.26,
+      "end": 1413.06,
+      "text": "that list. The number one thing to not do is buy a list online and upload it to your email"
+    },
+    {
+      "start": 1413.06,
+      "end": 1417.22,
+      "text": "automation tool. It doesn't help anything, it hurts everything and you may end up finding"
+    },
+    {
+      "start": 1417.22,
+      "end": 1423.46,
+      "text": "yourself becoming blacklisted. I get added to email list all the time and earlier I would just"
+    },
+    {
+      "start": 1423.46,
+      "end": 1428.34,
+      "text": "unsubscribe. Now that I understand that people are doing it maliciously, I intentionally mark it as"
+    },
+    {
+      "start": 1428.34,
+      "end": 1433.22,
+      "text": "I didn't sign up for this which then tells their email automation tool to watch this company or this"
+    },
+    {
+      "start": 1433.22,
+      "end": 1437.14,
+      "text": "person and if they get too many of those flagged that way, they'll kill their ability to reach"
+    },
+    {
+      "start": 1437.14,
+      "end": 1445.06,
+      "text": "people. So don't do that. And I think that that's the fail of the week. That can be the fail. I"
+    },
+    {
+      "start": 1445.06,
+      "end": 1451.94,
+      "text": "mean permission-based selling, personalized selling is where we're at right now in the kind"
+    },
+    {
+      "start": 1452.02,
+      "end": 1458.34,
+      "text": "of age of the internet and I get added to lists all the time and it is annoying and there are"
+    },
+    {
+      "start": 1458.34,
+      "end": 1464.66,
+      "text": "algorithms that are running in the background and guys, algorithms never forget. And you want to go"
+    },
+    {
+      "start": 1464.66,
+      "end": 1469.94,
+      "text": "about things the right way. If you put just as much attention into doing things the right way,"
+    },
+    {
+      "start": 1469.94,
+      "end": 1474.82,
+      "text": "you're going to get to where you want to go versus trying to run up the river the wrong way"
+    },
+    {
+      "start": 1474.82,
+      "end": 1479.62,
+      "text": "because these algorithms are very, very powerful. They know what you're doing. They can see stuff."
+    },
+    {
+      "start": 1479.62,
+      "end": 1484.1,
+      "text": "There are ways to wash lists and if you do have actually a good list and there's all these kind"
+    },
+    {
+      "start": 1484.1,
+      "end": 1489.86,
+      "text": "of rules around it, you can upload it to Facebook and create targeting again, taking those emails,"
+    },
+    {
+      "start": 1489.86,
+      "end": 1495.54,
+      "text": "doing something else with it. But guess what? If you do that with a list that they find that you"
+    },
+    {
+      "start": 1495.54,
+      "end": 1500.9,
+      "text": "just grab that list and it's not a vetted list that you have that, they could ban you from using"
+    },
+    {
+      "start": 1500.9,
+      "end": 1505.94,
+      "text": "their platform or their tool. People don't understand that about Google. Google is a private company"
+    },
+    {
+      "start": 1505.94,
+      "end": 1511.38,
+      "text": "and it's not a public utility and you don't get a ticket if you do something wrong. Now you could"
+    },
+    {
+      "start": 1511.38,
+      "end": 1516.98,
+      "text": "break the law and you could get in trouble from FDIC, whatever. And there's a lot of stuff around"
+    },
+    {
+      "start": 1516.98,
+      "end": 1521.7,
+      "text": "reviews around that FYI, everybody. But guess what? They can just tell you, we're not going to put"
+    },
+    {
+      "start": 1521.7,
+      "end": 1526.66,
+      "text": "you on a platform and they can just decide to do that and de-platform you. And if you've heard"
+    },
+    {
+      "start": 1526.66,
+      "end": 1531.06,
+      "text": "all the horror stories about it, it is true. There are people that cannot get on YouTube anymore."
+    },
+    {
+      "start": 1531.06,
+      "end": 1536.66,
+      "text": "They're doing the various stuff on Google. That's a whole topic. But just follow the rules and do"
+    },
+    {
+      "start": 1536.66,
+      "end": 1541.38,
+      "text": "stuff the right way. And I think you're going to get a lot further because this stuff is so powerful"
+    },
+    {
+      "start": 1541.38,
+      "end": 1546.5,
+      "text": "if you just use it properly. It is powerful. Time to get out of here. Let's do a little house keeping,"
+    },
+    {
+      "start": 1546.5,
+      "end": 1551.3,
+      "text": "speaking of newsletters and email lists. Go sign up for the two. They're in the show notes."
+    },
+    {
+      "start": 1551.3,
+      "end": 1554.98,
+      "text": "We have our Sunday update. That's the one I mentioned that was growing exponentially every"
+    },
+    {
+      "start": 1554.98,
+      "end": 1558.82,
+      "text": "week. A bunch of fun stuff in that. Then we have our all-in-guess events newsletter. I mentioned"
+    },
+    {
+      "start": 1558.82,
+      "end": 1562.74,
+      "text": "that one as well. Both of those links are in the show notes. And then all of Matt and I's social"
+    },
+    {
+      "start": 1562.74,
+      "end": 1566.98,
+      "text": "channels are on the show notes as well. Our Insiders group, we're working on it. It is going"
+    },
+    {
+      "start": 1566.98,
+      "end": 1572.02,
+      "text": "to be an unbelievable experience. You just got to wait till 2024. We get there. And then Matt"
+    },
+    {
+      "start": 1572.02,
+      "end": 1576.5,
+      "text": "talked about our fail tip of the week, which is a good fail. Don't be buying, listen, upload,"
+    },
+    {
+      "start": 1576.5,
+      "end": 1580.5,
+      "text": "and it doesn't help anybody. All right, Matt, let's get out of here. Remember everybody,"
+    },
+    {
+      "start": 1580.5,
+      "end": 1586.1,
+      "text": "make a difference and not a sale. Check us out next week for another enriching and cheeky episode"
+    },
+    {
+      "start": 1586.1,
+      "end": 1592.1,
+      "text": "of oil and gas sales and marketing podcast, a production of the oil and gas global network."
+    },
+    {
+      "start": 1592.1,
+      "end": 1594.9,
+      "text": "Learn more at OGGN.com."
+    }
+  ]
+}

@@ -1,0 +1,1505 @@
+{
+  "slug": "harnessing-ai-for-sales-success-71",
+  "title": "Harnessing AI for Sales Success",
+  "episode": "71",
+  "audio": "https://media.blubrry.com/oil_and_gas_this_week/media.blubrry.com/oilandgassalesandmarketing/ins.blubrry.com/oilandgassalesandmarketing/OGSM071.mp3",
+  "duration": 704.1,
+  "text": "Welcome to the Oil and Gas Sales and Marketing podcast, where every week your hosts, Mark LaCour and Matt Bertram share proven strategies and real-world tactics to help you connect with customers and close more deals. Let's do this. Hey, welcome back, everybody, to the Oil and Gas Sales and Marketing podcast. And you would think with everything that's going on in a crazy world right now, that Matt and I would be talking Iran, Israel, something of that fact, but no. We'll leave that for some of the other podcasts. We're actually talking about something I've heard a lot from all of you, from all the listeners, which is where does AI play into all this? And where does it really play in all this? Not the fluff, not the spin by the vendors and everything, but what is really going on? And we've had so many inbounds for this that Matt and I have put together a course. It's a two-hour workshop where we literally come to your company and we show you hands-on real-world how to use AI to drive sales results. We also do the same thing with marketing, but it's only the parts of marketing that drive sales results. So it's all kind of wrapped up together. And a lot of this was Matt's idea. Matt has been doubling down on his study and learning use of AI in the real world. This is just great timing for us to do that. And Matt, some of the things we're going to cover, we've had some of our audiences reach out and they're really excited about. One of the things that you brought up yesterday when you and I met was the ability to make sure that you stay in front of the right people at the right time, which then drives sales results. Can we talk a little bit about that and some of the other stuff we're doing? Yeah, I mean, account-based selling, account-based marketing is something that we've touched on extensively on this call. And really, when you look at my background, I'm about 50, 50 over the last 20 years, sales and marketing. And really, I saw marketing as leverage for sales. Now I see AI as leverage for everything. And I think a lot of people are AI curious. They're like dabbling in AI. And you now have the assistant that's the smartest person in the world, smarter than any person in the world as your assistant in the palm of your hand. And I don't think people have fully grasped that. Depending on when I talk to different people and I talk to different marketing leaders and I'm asking everybody, like, what are you doing with AI? And I'm starting to see some really interesting use cases of how people are using stuff. I mean, what are you doing, Mark? Why don't we start with, like, what you were talking about, what you're doing with it, and then I'll add on to that. Yeah, so whether you're talking about sales in the 80s and 90s, 2000s, or now in 2025, historically, as long as I've been in sales, the main problem everybody has is, how do you get in front of the right people? How do you introduce yourself and your company to the person that you think you can help? Because they don't know you're your company. So what I'm talking about basically is cold calling. Now, let me be clear. I am not talking about picking up a telephone and calling somebody you don't know. In the past, that was a very effective technique. It's changed. So, Mark, I just want to say, the cold calling I did in oil and gas was, there would be, like, a directory, like a SP directory, and you would pick up the phone and you would have names and titles, and then you would sometimes call and you would hit, like, a button up, a button down, trying to figure out who you're reaching, and then you were mapping that out in, like, an Excel spreadsheet or something like that. Like, that is the world of cold call selling, like, here's a phone book, good luck, build your own database. Now you have LinkedIn, you have all this data enrichment. You can know almost everything that there is to know about somebody before you contact them. It's just like that whole idea of walking into the office and seeing where they went to school, seeing they got picture of their kids. Like, now with social media, you've got all that before you even reach out to them. Yeah, to continue on that, part of the course I'm going to teach, part of this workshop I'm going to teach is literally how to use AI to cold call, how to use AI to not only get in front of the person that you want to talk to, but have them want to talk to you. And there's a process of this, and we're going to show you, we're going to leave your hands on. Basically, we're going to upload some algorithm guides to an AI agent, most probably claud.ai. Claude will then understand that, the tool will understand that, and then we're going to upload social information from the person you want to get in front of, and the AIs can help you craft the perfect message that it's not a sales message, it's an introductory message to start a relationship. I'm going to show you how to do it in real time. We're literally going to pick a company, and I am going to use the technique I just described now to cold call their CEO, and we're going to see if we can get them engaged with us while we're teaching the workshop. And I'm going to teach everybody else how to do this as well. Imagine that if you're selling through tubing services, or you're selling drill bits, or you're selling PPE, and you want to get in front of the right person that X on or Chevron, it's a struggle right now. I'm going to make it easy for you, and not only am I going to make it easy for you, they're going to want to talk to you, so it's a totally different mind game than trying to hurry up and have somebody understand your value proposition. They're going to take the time to get to know you and your company, and the AI tools can make this all possible. That's one of the many things that Matt and I are going to show you hands on in this workshop. One of the things, the more we get into this stuff, the more it actually goes back to some foundational stuff, but you can get a lot of leverage in finding this out and delivering it, from building a target persona, to the understanding the customer journey. We've all heard that data is the new oil, but that data was hard to access in the past. You had to have like a data scientist and someone that had subject matter expert to do a lot of labeling, and you had to ask very narrow questions to get your answers. Now with generative AI, and you can take your data lake, and you can start to analyze the analysis of unstructured data and get all kinds of insights, and this is actually coming all the way down if you have marketing working with sales together to get some real insights to understand who your customers are, where they're at, what they're doing, what they might be needing from marketing. We're going to talk about how to build custom GPTs to basically get through some of that approval process where these are going to be given through marketing to sales to be able to generate content that's already in line with what they're looking to do. There are so many different applications from the analysis standpoint because I know if you have a lot of different sales territories you're looking at trying to figure out what you need to do here where you need to put different kind of marketing spend or you need different kind of sales efforts. AI helps you do all this stuff, and it helps you do it faster and better. I think that the biggest thing that I'm seeing is the amount of hours that people are doing, analyzing reports or approvals or things like that. There's so much efficiency that you can get when you learn how to prompt engineer things correctly, set certain guidelines or guardrails, and then let that thing run. You can reduce the busy work, right? Salespeople, the busy work mark, and you could reduce your busy work down to very, very little. It depends, again, what your busy work is, of course, but you can reduce that down because of these tools, and I'm starting to see the cutting edge companies take advantage of some of this stuff, and everybody's kind of playing the old game still, and I'm encouraging people to start playing the new game. Yeah, and if you don't play the new game in sales, you're going to get left behind. It's happening right now, literally as we're recording this. The other thing is Matt and I are developing an AI-powered sales coaching module. If you listen to this show, you may or may not know this, but one of the things that I do is, for some of our sponsors, I actually help coach their sales team. We're going to take all that industry knowledge, all that domain expertise, all of that experience that we have as a team, and we're going to build it in a tool that we're going to offer to you for a very low price, which means that if you're new to the oil and gas industry, if you're new to selling to the service companies, if you're new to selling to the pipeline companies, you'll be able to use this tool to get up to speed way quicker than anybody else. It's going to make you an overnight expert down to even the words and the language that we use in that space in the oil and gas industry. It's going to help you fast-track, being able to get into the industry, understand the problems, have the conversations with the right people, and then build those relationships and close sales, and it's going to be sitting on your phone. Literally, that's the world we're moving to, and there's a whole bunch of other stuff Matt and I are teaching in this workshop. It's two hours. We have 12 slots left for this year, so if your company's interested in doing this, work with Matt and I, reach out to us. We're happy to share the details. It's $12,000 plus travel expenses for us to do this, so it's a pretty significant investment. However, the return on that investment is going to be through the roof. Also, even though this is a sales-focused workshop that we're doing, we want you to invite your marketing peers. If you listen to this show, you know Matt and I firmly believe in our hearts that sales and marketing be joined at the hip. We want your marketing team there as well. It's going to be great, and like Matt said, this is the future of sales, and either you're going to do it or you get left behind, and we want to help you make sure you don't get left behind. We also want to help you blow up your number, and if your sales management team is not in the room with us, we won't have to let them know that we're going to help you get rid of all that busy work. They don't have to know that AI is helping you do all the stuff that you have to do that doesn't directly relate to revenue dollars. Anything else you need to cover, Matt? I mean, there's so many things we're covering in this workshop. Yeah, well, I think it's really important to hit on that. If you're trying to approach oil and gas as an industry, you're building a division to go after that, or you're spending a lot of money on sales coaching, okay? There is a lot with that human relationship, and I get that, but I'm looking at incremental changes add up. You get 2% here, you get 3% here. Think about if you had, after every call, you got a little email of little nudges of things you could have done better and that analysis on that. Incrementally, you could improve what you're doing. You could grade your lingo of how you're speaking to the right people, how it resonates with people, and that's built in. Like, you can't have that sales coach with you all the time. I know when I was in Fortune 500 executive sales roles, role playing was so important, but a lot of people didn't want to do that. They just wanted to do it live. Well, this gives you real-time feedback of every sales meeting you have. Is that not, like, powerful? And that could be done on your phone. It could be done remotely. There's a lot of different ways that you can incorporate this technology in and give you immediate feedback. As a salesperson, I want every edge and to leverage AI to do that. If you're not doing that, we can show you how. Yeah, we will show you how if you're in that room. All right, so reach out to us. Let us know if you're interested. Like I said, there's only 12 spots left for 2025. Then we'll have some new spots for 2026. We'd love to meet y'all in person. We'd love to come to your company and have you join us for the workshop. But other than that, have a good week and have a good Fourth of July. This should be out right before the Fourth of July holiday. And Matt and I will see you back here right after the Fourth of July. All right. Thanks. See everybody.",
+  "segments": [
+    {
+      "start": 7.09,
+      "end": 11.09,
+      "text": "Welcome to the Oil and Gas Sales and Marketing podcast,"
+    },
+    {
+      "start": 11.09,
+      "end": 14.85,
+      "text": "where every week your hosts, Mark LaCour and Matt Bertram"
+    },
+    {
+      "start": 14.85,
+      "end": 17.97,
+      "text": "share proven strategies and real-world tactics"
+    },
+    {
+      "start": 17.97,
+      "end": 21.57,
+      "text": "to help you connect with customers and close more deals."
+    },
+    {
+      "start": 21.57,
+      "end": 22.97,
+      "text": "Let's do this."
+    },
+    {
+      "start": 26.5,
+      "end": 28.54,
+      "text": "Hey, welcome back, everybody, to the Oil and Gas Sales"
+    },
+    {
+      "start": 28.54,
+      "end": 30.22,
+      "text": "and Marketing podcast."
+    },
+    {
+      "start": 30.22,
+      "end": 31.94,
+      "text": "And you would think with everything that's going on"
+    },
+    {
+      "start": 31.94,
+      "end": 33.3,
+      "text": "in a crazy world right now,"
+    },
+    {
+      "start": 33.3,
+      "end": 36.18,
+      "text": "that Matt and I would be talking Iran, Israel,"
+    },
+    {
+      "start": 36.18,
+      "end": 38.02,
+      "text": "something of that fact, but no."
+    },
+    {
+      "start": 38.02,
+      "end": 40.26,
+      "text": "We'll leave that for some of the other podcasts."
+    },
+    {
+      "start": 40.26,
+      "end": 42.1,
+      "text": "We're actually talking about something I've heard a lot"
+    },
+    {
+      "start": 42.1,
+      "end": 44.02,
+      "text": "from all of you, from all the listeners,"
+    },
+    {
+      "start": 44.02,
+      "end": 46.26,
+      "text": "which is where does AI play into all this?"
+    },
+    {
+      "start": 46.26,
+      "end": 48.02,
+      "text": "And where does it really play in all this?"
+    },
+    {
+      "start": 48.02,
+      "end": 51.46,
+      "text": "Not the fluff, not the spin by the vendors and everything,"
+    },
+    {
+      "start": 51.46,
+      "end": 53.3,
+      "text": "but what is really going on?"
+    },
+    {
+      "start": 53.3,
+      "end": 54.98,
+      "text": "And we've had so many inbounds for this"
+    },
+    {
+      "start": 54.98,
+      "end": 57.06,
+      "text": "that Matt and I have put together a course."
+    },
+    {
+      "start": 57.06,
+      "end": 60.98,
+      "text": "It's a two-hour workshop where we literally come to your company"
+    },
+    {
+      "start": 60.98,
+      "end": 64.9,
+      "text": "and we show you hands-on real-world how to use AI"
+    },
+    {
+      "start": 64.9,
+      "end": 66.9,
+      "text": "to drive sales results."
+    },
+    {
+      "start": 66.9,
+      "end": 68.66,
+      "text": "We also do the same thing with marketing,"
+    },
+    {
+      "start": 68.66,
+      "end": 72.34,
+      "text": "but it's only the parts of marketing that drive sales results."
+    },
+    {
+      "start": 72.34,
+      "end": 74.26,
+      "text": "So it's all kind of wrapped up together."
+    },
+    {
+      "start": 74.26,
+      "end": 75.86,
+      "text": "And a lot of this was Matt's idea."
+    },
+    {
+      "start": 75.86,
+      "end": 78.66,
+      "text": "Matt has been doubling down on his study"
+    },
+    {
+      "start": 78.66,
+      "end": 81.54,
+      "text": "and learning use of AI in the real world."
+    },
+    {
+      "start": 81.54,
+      "end": 83.62,
+      "text": "This is just great timing for us to do that."
+    },
+    {
+      "start": 83.62,
+      "end": 85.62,
+      "text": "And Matt, some of the things we're going to cover,"
+    },
+    {
+      "start": 85.62,
+      "end": 87.38,
+      "text": "we've had some of our audiences reach out"
+    },
+    {
+      "start": 87.38,
+      "end": 88.98,
+      "text": "and they're really excited about."
+    },
+    {
+      "start": 88.98,
+      "end": 90.82,
+      "text": "One of the things that you brought up yesterday"
+    },
+    {
+      "start": 90.82,
+      "end": 94.98,
+      "text": "when you and I met was the ability to make sure"
+    },
+    {
+      "start": 94.98,
+      "end": 97.62,
+      "text": "that you stay in front of the right people"
+    },
+    {
+      "start": 97.62,
+      "end": 100.58,
+      "text": "at the right time, which then drives sales results."
+    },
+    {
+      "start": 100.58,
+      "end": 101.7,
+      "text": "Can we talk a little bit about that"
+    },
+    {
+      "start": 101.7,
+      "end": 103.46,
+      "text": "and some of the other stuff we're doing?"
+    },
+    {
+      "start": 103.46,
+      "end": 106.42,
+      "text": "Yeah, I mean, account-based selling,"
+    },
+    {
+      "start": 106.42,
+      "end": 108.1,
+      "text": "account-based marketing is something"
+    },
+    {
+      "start": 108.1,
+      "end": 111.06,
+      "text": "that we've touched on extensively on this call."
+    },
+    {
+      "start": 111.06,
+      "end": 112.98,
+      "text": "And really, when you look at my background,"
+    },
+    {
+      "start": 112.98,
+      "end": 116.9,
+      "text": "I'm about 50, 50 over the last 20 years, sales and marketing."
+    },
+    {
+      "start": 116.9,
+      "end": 119.94,
+      "text": "And really, I saw marketing as leverage for sales."
+    },
+    {
+      "start": 120.74,
+      "end": 124.66,
+      "text": "Now I see AI as leverage for everything."
+    },
+    {
+      "start": 124.66,
+      "end": 127.54,
+      "text": "And I think a lot of people are AI curious."
+    },
+    {
+      "start": 127.54,
+      "end": 130.1,
+      "text": "They're like dabbling in AI."
+    },
+    {
+      "start": 130.1,
+      "end": 132.82,
+      "text": "And you now have the assistant"
+    },
+    {
+      "start": 132.82,
+      "end": 134.98,
+      "text": "that's the smartest person in the world,"
+    },
+    {
+      "start": 134.98,
+      "end": 136.34,
+      "text": "smarter than any person in the world"
+    },
+    {
+      "start": 136.34,
+      "end": 138.34,
+      "text": "as your assistant in the palm of your hand."
+    },
+    {
+      "start": 138.34,
+      "end": 141.54,
+      "text": "And I don't think people have fully grasped that."
+    },
+    {
+      "start": 141.54,
+      "end": 143.3,
+      "text": "Depending on when I talk to different people"
+    },
+    {
+      "start": 143.3,
+      "end": 144.5,
+      "text": "and I talk to different marketing leaders"
+    },
+    {
+      "start": 144.5,
+      "end": 147.62,
+      "text": "and I'm asking everybody, like, what are you doing with AI?"
+    },
+    {
+      "start": 147.62,
+      "end": 150.82,
+      "text": "And I'm starting to see some really interesting use cases"
+    },
+    {
+      "start": 150.82,
+      "end": 153.38,
+      "text": "of how people are using stuff."
+    },
+    {
+      "start": 153.38,
+      "end": 154.98,
+      "text": "I mean, what are you doing, Mark?"
+    },
+    {
+      "start": 154.98,
+      "end": 156.02,
+      "text": "Why don't we start with, like,"
+    },
+    {
+      "start": 156.02,
+      "end": 158.26,
+      "text": "what you were talking about, what you're doing with it,"
+    },
+    {
+      "start": 158.26,
+      "end": 159.54,
+      "text": "and then I'll add on to that."
+    },
+    {
+      "start": 159.54,
+      "end": 162.66,
+      "text": "Yeah, so whether you're talking about sales"
+    },
+    {
+      "start": 162.66,
+      "end": 166.18,
+      "text": "in the 80s and 90s, 2000s, or now in 2025,"
+    },
+    {
+      "start": 166.18,
+      "end": 167.94,
+      "text": "historically, as long as I've been in sales,"
+    },
+    {
+      "start": 167.94,
+      "end": 170.02,
+      "text": "the main problem everybody has is,"
+    },
+    {
+      "start": 170.02,
+      "end": 171.62,
+      "text": "how do you get in front of the right people?"
+    },
+    {
+      "start": 171.62,
+      "end": 173.94,
+      "text": "How do you introduce yourself and your company"
+    },
+    {
+      "start": 173.94,
+      "end": 175.86,
+      "text": "to the person that you think you can help?"
+    },
+    {
+      "start": 175.86,
+      "end": 177.14,
+      "text": "Because they don't know you're your company."
+    },
+    {
+      "start": 177.14,
+      "end": 179.14,
+      "text": "So what I'm talking about basically is cold calling."
+    },
+    {
+      "start": 179.14,
+      "end": 180.42,
+      "text": "Now, let me be clear."
+    },
+    {
+      "start": 180.42,
+      "end": 182.58,
+      "text": "I am not talking about picking up a telephone"
+    },
+    {
+      "start": 182.66,
+      "end": 184.74,
+      "text": "and calling somebody you don't know."
+    },
+    {
+      "start": 184.74,
+      "end": 187.3,
+      "text": "In the past, that was a very effective technique."
+    },
+    {
+      "start": 187.3,
+      "end": 188.42,
+      "text": "It's changed."
+    },
+    {
+      "start": 188.42,
+      "end": 189.78,
+      "text": "So, Mark, I just want to say,"
+    },
+    {
+      "start": 189.78,
+      "end": 191.94,
+      "text": "the cold calling I did in oil and gas was,"
+    },
+    {
+      "start": 191.94,
+      "end": 193.86,
+      "text": "there would be, like, a directory,"
+    },
+    {
+      "start": 193.86,
+      "end": 198.02,
+      "text": "like a SP directory, and you would pick up the phone"
+    },
+    {
+      "start": 198.02,
+      "end": 200.02,
+      "text": "and you would have names and titles,"
+    },
+    {
+      "start": 200.02,
+      "end": 201.38,
+      "text": "and then you would sometimes call"
+    },
+    {
+      "start": 201.38,
+      "end": 203.7,
+      "text": "and you would hit, like, a button up, a button down,"
+    },
+    {
+      "start": 203.7,
+      "end": 205.86,
+      "text": "trying to figure out who you're reaching,"
+    },
+    {
+      "start": 205.86,
+      "end": 207.62,
+      "text": "and then you were mapping that out"
+    },
+    {
+      "start": 207.62,
+      "end": 210.26,
+      "text": "in, like, an Excel spreadsheet or something like that."
+    },
+    {
+      "start": 210.26,
+      "end": 213.62,
+      "text": "Like, that is the world of cold call selling,"
+    },
+    {
+      "start": 213.62,
+      "end": 215.7,
+      "text": "like, here's a phone book, good luck,"
+    },
+    {
+      "start": 215.7,
+      "end": 216.9,
+      "text": "build your own database."
+    },
+    {
+      "start": 216.9,
+      "end": 219.86,
+      "text": "Now you have LinkedIn, you have all this data enrichment."
+    },
+    {
+      "start": 219.86,
+      "end": 222.1,
+      "text": "You can know almost everything that there is to know"
+    },
+    {
+      "start": 222.82,
+      "end": 224.98,
+      "text": "about somebody before you contact them."
+    },
+    {
+      "start": 224.98,
+      "end": 228.1,
+      "text": "It's just like that whole idea of walking into the office"
+    },
+    {
+      "start": 228.1,
+      "end": 229.94,
+      "text": "and seeing where they went to school,"
+    },
+    {
+      "start": 229.94,
+      "end": 231.46,
+      "text": "seeing they got picture of their kids."
+    },
+    {
+      "start": 231.46,
+      "end": 232.58,
+      "text": "Like, now with social media,"
+    },
+    {
+      "start": 232.58,
+      "end": 236.18,
+      "text": "you've got all that before you even reach out to them."
+    },
+    {
+      "start": 236.18,
+      "end": 237.78,
+      "text": "Yeah, to continue on that,"
+    },
+    {
+      "start": 237.78,
+      "end": 239.14,
+      "text": "part of the course I'm going to teach,"
+    },
+    {
+      "start": 239.14,
+      "end": 241.22,
+      "text": "part of this workshop I'm going to teach is literally"
+    },
+    {
+      "start": 241.22,
+      "end": 242.74,
+      "text": "how to use AI to cold call,"
+    },
+    {
+      "start": 242.74,
+      "end": 245.14,
+      "text": "how to use AI to not only get in front of the person"
+    },
+    {
+      "start": 245.14,
+      "end": 246.26,
+      "text": "that you want to talk to,"
+    },
+    {
+      "start": 246.26,
+      "end": 247.86,
+      "text": "but have them want to talk to you."
+    },
+    {
+      "start": 248.5,
+      "end": 249.86,
+      "text": "And there's a process of this,"
+    },
+    {
+      "start": 249.86,
+      "end": 250.58,
+      "text": "and we're going to show you,"
+    },
+    {
+      "start": 250.58,
+      "end": 251.94,
+      "text": "we're going to leave your hands on."
+    },
+    {
+      "start": 251.94,
+      "end": 254.18,
+      "text": "Basically, we're going to upload some algorithm guides"
+    },
+    {
+      "start": 254.18,
+      "end": 256.82,
+      "text": "to an AI agent, most probably claud.ai."
+    },
+    {
+      "start": 257.46,
+      "end": 258.74,
+      "text": "Claude will then understand that,"
+    },
+    {
+      "start": 258.74,
+      "end": 260.18,
+      "text": "the tool will understand that,"
+    },
+    {
+      "start": 260.18,
+      "end": 262.18,
+      "text": "and then we're going to upload"
+    },
+    {
+      "start": 262.82,
+      "end": 264.66,
+      "text": "social information from the person"
+    },
+    {
+      "start": 264.66,
+      "end": 265.78,
+      "text": "you want to get in front of,"
+    },
+    {
+      "start": 265.78,
+      "end": 268.58,
+      "text": "and the AIs can help you craft the perfect message"
+    },
+    {
+      "start": 268.58,
+      "end": 269.94,
+      "text": "that it's not a sales message,"
+    },
+    {
+      "start": 269.94,
+      "end": 272.82,
+      "text": "it's an introductory message to start a relationship."
+    },
+    {
+      "start": 272.82,
+      "end": 274.42,
+      "text": "I'm going to show you how to do it in real time."
+    },
+    {
+      "start": 274.42,
+      "end": 276.26,
+      "text": "We're literally going to pick a company,"
+    },
+    {
+      "start": 276.26,
+      "end": 278.1,
+      "text": "and I am going to use the technique"
+    },
+    {
+      "start": 278.1,
+      "end": 280.74,
+      "text": "I just described now to cold call their CEO,"
+    },
+    {
+      "start": 280.74,
+      "end": 282.5,
+      "text": "and we're going to see if we can get them"
+    },
+    {
+      "start": 282.5,
+      "end": 284.26,
+      "text": "engaged with us while we're teaching the workshop."
+    },
+    {
+      "start": 284.26,
+      "end": 285.46,
+      "text": "And I'm going to teach everybody else"
+    },
+    {
+      "start": 285.46,
+      "end": 286.9,
+      "text": "how to do this as well."
+    },
+    {
+      "start": 286.9,
+      "end": 289.46,
+      "text": "Imagine that if you're selling through tubing services,"
+    },
+    {
+      "start": 289.46,
+      "end": 290.9,
+      "text": "or you're selling drill bits,"
+    },
+    {
+      "start": 290.9,
+      "end": 292.42,
+      "text": "or you're selling PPE,"
+    },
+    {
+      "start": 292.42,
+      "end": 293.94,
+      "text": "and you want to get in front of the right person"
+    },
+    {
+      "start": 293.94,
+      "end": 294.9,
+      "text": "that X on or Chevron,"
+    },
+    {
+      "start": 294.9,
+      "end": 296.1,
+      "text": "it's a struggle right now."
+    },
+    {
+      "start": 296.1,
+      "end": 297.22,
+      "text": "I'm going to make it easy for you,"
+    },
+    {
+      "start": 297.22,
+      "end": 299.06,
+      "text": "and not only am I going to make it easy for you,"
+    },
+    {
+      "start": 299.06,
+      "end": 300.66,
+      "text": "they're going to want to talk to you,"
+    },
+    {
+      "start": 300.66,
+      "end": 302.5,
+      "text": "so it's a totally different mind game"
+    },
+    {
+      "start": 302.5,
+      "end": 304.26,
+      "text": "than trying to hurry up"
+    },
+    {
+      "start": 304.26,
+      "end": 306.1,
+      "text": "and have somebody understand your value proposition."
+    },
+    {
+      "start": 306.1,
+      "end": 306.9,
+      "text": "They're going to take the time"
+    },
+    {
+      "start": 306.9,
+      "end": 308.42,
+      "text": "to get to know you and your company,"
+    },
+    {
+      "start": 308.42,
+      "end": 310.74,
+      "text": "and the AI tools can make this all possible."
+    },
+    {
+      "start": 310.74,
+      "end": 312.66,
+      "text": "That's one of the many things"
+    },
+    {
+      "start": 312.66,
+      "end": 313.78,
+      "text": "that Matt and I are going to show you"
+    },
+    {
+      "start": 313.78,
+      "end": 315.38,
+      "text": "hands on in this workshop."
+    },
+    {
+      "start": 315.38,
+      "end": 316.42,
+      "text": "One of the things,"
+    },
+    {
+      "start": 316.42,
+      "end": 318.1,
+      "text": "the more we get into this stuff,"
+    },
+    {
+      "start": 318.1,
+      "end": 321.54,
+      "text": "the more it actually goes back to some foundational stuff,"
+    },
+    {
+      "start": 321.54,
+      "end": 323.22,
+      "text": "but you can get a lot of leverage"
+    },
+    {
+      "start": 323.22,
+      "end": 325.22,
+      "text": "in finding this out and delivering it,"
+    },
+    {
+      "start": 325.22,
+      "end": 327.14,
+      "text": "from building a target persona,"
+    },
+    {
+      "start": 327.14,
+      "end": 329.22,
+      "text": "to the understanding the customer journey."
+    },
+    {
+      "start": 329.22,
+      "end": 331.94,
+      "text": "We've all heard that data is the new oil,"
+    },
+    {
+      "start": 331.94,
+      "end": 334.42,
+      "text": "but that data was hard to access in the past."
+    },
+    {
+      "start": 335.06,
+      "end": 338.26,
+      "text": "You had to have like a data scientist"
+    },
+    {
+      "start": 338.26,
+      "end": 340.1,
+      "text": "and someone that had subject matter expert"
+    },
+    {
+      "start": 340.1,
+      "end": 341.62,
+      "text": "to do a lot of labeling,"
+    },
+    {
+      "start": 341.62,
+      "end": 343.62,
+      "text": "and you had to ask very narrow questions"
+    },
+    {
+      "start": 343.62,
+      "end": 345.06,
+      "text": "to get your answers."
+    },
+    {
+      "start": 345.06,
+      "end": 347.54,
+      "text": "Now with generative AI,"
+    },
+    {
+      "start": 347.54,
+      "end": 349.46,
+      "text": "and you can take your data lake,"
+    },
+    {
+      "start": 349.46,
+      "end": 352.1,
+      "text": "and you can start to analyze"
+    },
+    {
+      "start": 352.1,
+      "end": 354.02,
+      "text": "the analysis of unstructured data"
+    },
+    {
+      "start": 354.02,
+      "end": 355.54,
+      "text": "and get all kinds of insights,"
+    },
+    {
+      "start": 355.54,
+      "end": 358.18,
+      "text": "and this is actually coming all the way down"
+    },
+    {
+      "start": 358.18,
+      "end": 360.34,
+      "text": "if you have marketing working with sales together"
+    },
+    {
+      "start": 360.34,
+      "end": 361.54,
+      "text": "to get some real insights"
+    },
+    {
+      "start": 361.54,
+      "end": 363.7,
+      "text": "to understand who your customers are,"
+    },
+    {
+      "start": 363.7,
+      "end": 366.02,
+      "text": "where they're at, what they're doing,"
+    },
+    {
+      "start": 366.02,
+      "end": 368.5,
+      "text": "what they might be needing from marketing."
+    },
+    {
+      "start": 368.5,
+      "end": 370.98,
+      "text": "We're going to talk about how to build custom GPTs"
+    },
+    {
+      "start": 370.98,
+      "end": 374.26,
+      "text": "to basically get through some of that approval process"
+    },
+    {
+      "start": 374.26,
+      "end": 375.78,
+      "text": "where these are going to be given"
+    },
+    {
+      "start": 375.78,
+      "end": 377.54,
+      "text": "through marketing to sales"
+    },
+    {
+      "start": 377.54,
+      "end": 378.9,
+      "text": "to be able to generate content"
+    },
+    {
+      "start": 378.9,
+      "end": 380.1,
+      "text": "that's already in line"
+    },
+    {
+      "start": 380.1,
+      "end": 381.62,
+      "text": "with what they're looking to do."
+    },
+    {
+      "start": 381.62,
+      "end": 384.34,
+      "text": "There are so many different applications"
+    },
+    {
+      "start": 384.34,
+      "end": 386.42,
+      "text": "from the analysis standpoint"
+    },
+    {
+      "start": 386.42,
+      "end": 389.14,
+      "text": "because I know if you have a lot of different sales territories"
+    },
+    {
+      "start": 389.14,
+      "end": 390.74,
+      "text": "you're looking at trying to figure out"
+    },
+    {
+      "start": 390.74,
+      "end": 391.78,
+      "text": "what you need to do here"
+    },
+    {
+      "start": 391.78,
+      "end": 394.1,
+      "text": "where you need to put different kind of marketing spend"
+    },
+    {
+      "start": 394.1,
+      "end": 396.74,
+      "text": "or you need different kind of sales efforts."
+    },
+    {
+      "start": 396.74,
+      "end": 399.94,
+      "text": "AI helps you do all this stuff,"
+    },
+    {
+      "start": 399.94,
+      "end": 401.86,
+      "text": "and it helps you do it faster and better."
+    },
+    {
+      "start": 401.86,
+      "end": 404.26,
+      "text": "I think that the biggest thing that I'm seeing"
+    },
+    {
+      "start": 404.26,
+      "end": 407.38,
+      "text": "is the amount of hours that people are doing,"
+    },
+    {
+      "start": 407.38,
+      "end": 411.14,
+      "text": "analyzing reports or approvals or things like that."
+    },
+    {
+      "start": 411.14,
+      "end": 413.14,
+      "text": "There's so much efficiency"
+    },
+    {
+      "start": 413.14,
+      "end": 415.22,
+      "text": "that you can get when you learn"
+    },
+    {
+      "start": 415.22,
+      "end": 417.54,
+      "text": "how to prompt engineer things correctly,"
+    },
+    {
+      "start": 417.54,
+      "end": 420.1,
+      "text": "set certain guidelines or guardrails,"
+    },
+    {
+      "start": 420.1,
+      "end": 421.78,
+      "text": "and then let that thing run."
+    },
+    {
+      "start": 421.78,
+      "end": 424.26,
+      "text": "You can reduce the busy work, right?"
+    },
+    {
+      "start": 424.26,
+      "end": 426.1,
+      "text": "Salespeople, the busy work mark,"
+    },
+    {
+      "start": 426.1,
+      "end": 430.1,
+      "text": "and you could reduce your busy work down to very, very little."
+    },
+    {
+      "start": 430.1,
+      "end": 432.42,
+      "text": "It depends, again, what your busy work is, of course,"
+    },
+    {
+      "start": 432.42,
+      "end": 436.82,
+      "text": "but you can reduce that down because of these tools,"
+    },
+    {
+      "start": 436.82,
+      "end": 439.86,
+      "text": "and I'm starting to see the cutting edge companies"
+    },
+    {
+      "start": 439.86,
+      "end": 441.62,
+      "text": "take advantage of some of this stuff,"
+    },
+    {
+      "start": 441.7,
+      "end": 444.74,
+      "text": "and everybody's kind of playing the old game still,"
+    },
+    {
+      "start": 444.74,
+      "end": 448.5,
+      "text": "and I'm encouraging people to start playing the new game."
+    },
+    {
+      "start": 448.5,
+      "end": 450.18,
+      "text": "Yeah, and if you don't play the new game in sales,"
+    },
+    {
+      "start": 450.18,
+      "end": 451.14,
+      "text": "you're going to get left behind."
+    },
+    {
+      "start": 451.14,
+      "end": 454.26,
+      "text": "It's happening right now, literally as we're recording this."
+    },
+    {
+      "start": 454.26,
+      "end": 456.42,
+      "text": "The other thing is Matt and I are developing"
+    },
+    {
+      "start": 456.42,
+      "end": 459.3,
+      "text": "an AI-powered sales coaching module."
+    },
+    {
+      "start": 459.3,
+      "end": 461.3,
+      "text": "If you listen to this show, you may or may not know this,"
+    },
+    {
+      "start": 461.3,
+      "end": 463.38,
+      "text": "but one of the things that I do is,"
+    },
+    {
+      "start": 463.38,
+      "end": 464.66,
+      "text": "for some of our sponsors,"
+    },
+    {
+      "start": 464.66,
+      "end": 466.66,
+      "text": "I actually help coach their sales team."
+    },
+    {
+      "start": 466.66,
+      "end": 468.98,
+      "text": "We're going to take all that industry knowledge,"
+    },
+    {
+      "start": 468.98,
+      "end": 470.58,
+      "text": "all that domain expertise,"
+    },
+    {
+      "start": 471.22,
+      "end": 473.94,
+      "text": "all of that experience that we have as a team,"
+    },
+    {
+      "start": 473.94,
+      "end": 476.26,
+      "text": "and we're going to build it in a tool that we're going to offer to you"
+    },
+    {
+      "start": 476.26,
+      "end": 477.7,
+      "text": "for a very low price,"
+    },
+    {
+      "start": 477.7,
+      "end": 480.42,
+      "text": "which means that if you're new to the oil and gas industry,"
+    },
+    {
+      "start": 480.42,
+      "end": 482.66,
+      "text": "if you're new to selling to the service companies,"
+    },
+    {
+      "start": 482.66,
+      "end": 484.9,
+      "text": "if you're new to selling to the pipeline companies,"
+    },
+    {
+      "start": 484.9,
+      "end": 486.66,
+      "text": "you'll be able to use this tool to get up to speed"
+    },
+    {
+      "start": 486.66,
+      "end": 487.78,
+      "text": "way quicker than anybody else."
+    },
+    {
+      "start": 487.78,
+      "end": 489.78,
+      "text": "It's going to make you an overnight expert"
+    },
+    {
+      "start": 489.78,
+      "end": 492.18,
+      "text": "down to even the words and the language that we use"
+    },
+    {
+      "start": 492.18,
+      "end": 494.26,
+      "text": "in that space in the oil and gas industry."
+    },
+    {
+      "start": 494.26,
+      "end": 495.78,
+      "text": "It's going to help you fast-track,"
+    },
+    {
+      "start": 495.78,
+      "end": 497.22,
+      "text": "being able to get into the industry,"
+    },
+    {
+      "start": 497.22,
+      "end": 498.34,
+      "text": "understand the problems,"
+    },
+    {
+      "start": 498.42,
+      "end": 500.58,
+      "text": "have the conversations with the right people,"
+    },
+    {
+      "start": 500.58,
+      "end": 502.98,
+      "text": "and then build those relationships and close sales,"
+    },
+    {
+      "start": 502.98,
+      "end": 504.42,
+      "text": "and it's going to be sitting on your phone."
+    },
+    {
+      "start": 504.42,
+      "end": 506.42,
+      "text": "Literally, that's the world we're moving to,"
+    },
+    {
+      "start": 506.42,
+      "end": 508.1,
+      "text": "and there's a whole bunch of other stuff"
+    },
+    {
+      "start": 508.1,
+      "end": 510.02,
+      "text": "Matt and I are teaching in this workshop."
+    },
+    {
+      "start": 510.02,
+      "end": 511.14,
+      "text": "It's two hours."
+    },
+    {
+      "start": 511.14,
+      "end": 513.62,
+      "text": "We have 12 slots left for this year,"
+    },
+    {
+      "start": 513.62,
+      "end": 515.78,
+      "text": "so if your company's interested in doing this,"
+    },
+    {
+      "start": 515.78,
+      "end": 517.14,
+      "text": "work with Matt and I, reach out to us."
+    },
+    {
+      "start": 517.14,
+      "end": 518.74,
+      "text": "We're happy to share the details."
+    },
+    {
+      "start": 518.74,
+      "end": 521.86,
+      "text": "It's $12,000 plus travel expenses for us to do this,"
+    },
+    {
+      "start": 521.86,
+      "end": 524.1,
+      "text": "so it's a pretty significant investment."
+    },
+    {
+      "start": 524.1,
+      "end": 526.26,
+      "text": "However, the return on that investment"
+    },
+    {
+      "start": 526.26,
+      "end": 528.1,
+      "text": "is going to be through the roof."
+    },
+    {
+      "start": 528.1,
+      "end": 531.14,
+      "text": "Also, even though this is a sales-focused workshop"
+    },
+    {
+      "start": 531.14,
+      "end": 534.26,
+      "text": "that we're doing, we want you to invite your marketing peers."
+    },
+    {
+      "start": 534.26,
+      "end": 535.94,
+      "text": "If you listen to this show, you know Matt and I"
+    },
+    {
+      "start": 535.94,
+      "end": 538.5,
+      "text": "firmly believe in our hearts that sales and marketing"
+    },
+    {
+      "start": 538.5,
+      "end": 539.7,
+      "text": "be joined at the hip."
+    },
+    {
+      "start": 539.7,
+      "end": 541.38,
+      "text": "We want your marketing team there as well."
+    },
+    {
+      "start": 541.94,
+      "end": 544.1,
+      "text": "It's going to be great, and like Matt said,"
+    },
+    {
+      "start": 544.1,
+      "end": 545.54,
+      "text": "this is the future of sales,"
+    },
+    {
+      "start": 545.54,
+      "end": 548.82,
+      "text": "and either you're going to do it or you get left behind,"
+    },
+    {
+      "start": 548.82,
+      "end": 551.06,
+      "text": "and we want to help you make sure you don't get left behind."
+    },
+    {
+      "start": 551.06,
+      "end": 552.74,
+      "text": "We also want to help you blow up your number,"
+    },
+    {
+      "start": 553.3,
+      "end": 556.34,
+      "text": "and if your sales management team is not in the room with us,"
+    },
+    {
+      "start": 556.34,
+      "end": 557.38,
+      "text": "we won't have to let them know"
+    },
+    {
+      "start": 557.38,
+      "end": 559.22,
+      "text": "that we're going to help you get rid of all that busy work."
+    },
+    {
+      "start": 559.22,
+      "end": 562.02,
+      "text": "They don't have to know that AI is helping you do all the stuff"
+    },
+    {
+      "start": 562.02,
+      "end": 565.54,
+      "text": "that you have to do that doesn't directly relate to revenue dollars."
+    },
+    {
+      "start": 566.18,
+      "end": 567.46,
+      "text": "Anything else you need to cover, Matt?"
+    },
+    {
+      "start": 567.46,
+      "end": 569.38,
+      "text": "I mean, there's so many things we're covering in this workshop."
+    },
+    {
+      "start": 569.94,
+      "end": 573.3,
+      "text": "Yeah, well, I think it's really important to hit on that."
+    },
+    {
+      "start": 573.3,
+      "end": 577.62,
+      "text": "If you're trying to approach oil and gas as an industry,"
+    },
+    {
+      "start": 577.62,
+      "end": 579.86,
+      "text": "you're building a division to go after that,"
+    },
+    {
+      "start": 579.86,
+      "end": 582.5,
+      "text": "or you're spending a lot of money on sales coaching,"
+    },
+    {
+      "start": 582.98,
+      "end": 583.7,
+      "text": "okay?"
+    },
+    {
+      "start": 583.7,
+      "end": 585.78,
+      "text": "There is a lot with that human relationship,"
+    },
+    {
+      "start": 585.78,
+      "end": 591.54,
+      "text": "and I get that, but I'm looking at incremental changes add up."
+    },
+    {
+      "start": 591.54,
+      "end": 593.62,
+      "text": "You get 2% here, you get 3% here."
+    },
+    {
+      "start": 593.62,
+      "end": 596.9,
+      "text": "Think about if you had, after every call,"
+    },
+    {
+      "start": 596.9,
+      "end": 599.54,
+      "text": "you got a little email of little nudges of things"
+    },
+    {
+      "start": 599.54,
+      "end": 602.26,
+      "text": "you could have done better and that analysis on that."
+    },
+    {
+      "start": 602.26,
+      "end": 604.82,
+      "text": "Incrementally, you could improve what you're doing."
+    },
+    {
+      "start": 604.82,
+      "end": 609.22,
+      "text": "You could grade your lingo of how you're speaking to the right people,"
+    },
+    {
+      "start": 609.22,
+      "end": 612.02,
+      "text": "how it resonates with people, and that's built in."
+    },
+    {
+      "start": 612.02,
+      "end": 614.66,
+      "text": "Like, you can't have that sales coach with you all the time."
+    },
+    {
+      "start": 614.66,
+      "end": 618.34,
+      "text": "I know when I was in Fortune 500 executive sales roles,"
+    },
+    {
+      "start": 618.9,
+      "end": 622.1,
+      "text": "role playing was so important, but a lot of people didn't want to do that."
+    },
+    {
+      "start": 622.1,
+      "end": 623.7,
+      "text": "They just wanted to do it live."
+    },
+    {
+      "start": 623.7,
+      "end": 625.94,
+      "text": "Well, this gives you real-time feedback"
+    },
+    {
+      "start": 625.94,
+      "end": 628.02,
+      "text": "of every sales meeting you have."
+    },
+    {
+      "start": 628.02,
+      "end": 630.26,
+      "text": "Is that not, like, powerful?"
+    },
+    {
+      "start": 630.26,
+      "end": 632.02,
+      "text": "And that could be done on your phone."
+    },
+    {
+      "start": 632.02,
+      "end": 633.62,
+      "text": "It could be done remotely."
+    },
+    {
+      "start": 633.62,
+      "end": 637.38,
+      "text": "There's a lot of different ways that you can incorporate this technology in"
+    },
+    {
+      "start": 637.38,
+      "end": 638.74,
+      "text": "and give you immediate feedback."
+    },
+    {
+      "start": 639.3,
+      "end": 645.14,
+      "text": "As a salesperson, I want every edge and to leverage AI to do that."
+    },
+    {
+      "start": 645.14,
+      "end": 647.06,
+      "text": "If you're not doing that, we can show you how."
+    },
+    {
+      "start": 647.62,
+      "end": 649.54,
+      "text": "Yeah, we will show you how if you're in that room."
+    },
+    {
+      "start": 650.34,
+      "end": 651.78,
+      "text": "All right, so reach out to us."
+    },
+    {
+      "start": 651.78,
+      "end": 652.9,
+      "text": "Let us know if you're interested."
+    },
+    {
+      "start": 652.9,
+      "end": 655.94,
+      "text": "Like I said, there's only 12 spots left for 2025."
+    },
+    {
+      "start": 655.94,
+      "end": 658.34,
+      "text": "Then we'll have some new spots for 2026."
+    },
+    {
+      "start": 658.9,
+      "end": 660.26,
+      "text": "We'd love to meet y'all in person."
+    },
+    {
+      "start": 660.26,
+      "end": 662.82,
+      "text": "We'd love to come to your company and have you join us for the workshop."
+    },
+    {
+      "start": 663.54,
+      "end": 666.1,
+      "text": "But other than that, have a good week and have a good Fourth of July."
+    },
+    {
+      "start": 666.1,
+      "end": 668.18,
+      "text": "This should be out right before the Fourth of July holiday."
+    },
+    {
+      "start": 668.74,
+      "end": 672.34,
+      "text": "And Matt and I will see you back here right after the Fourth of July."
+    },
+    {
+      "start": 672.9,
+      "end": 673.54,
+      "text": "All right."
+    },
+    {
+      "start": 673.54,
+      "end": 673.86,
+      "text": "Thanks."
+    },
+    {
+      "start": 673.86,
+      "end": 674.42,
+      "text": "See everybody."
+    }
+  ]
+}
