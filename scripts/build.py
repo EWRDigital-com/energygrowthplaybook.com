@@ -33,6 +33,125 @@ LISTEN = [
 ]
 NAV = [("Episodes", "/podcast/"), ("Answers", "/answers/"), ("Topics", "/topics/"), ("The Book", "/book/"), ("Hosts", "/host/"), ("About", "/about/")]
 
+# ---------- Canonical entity graph (welds EGP to the portfolio entity) ----------
+# Person/Org nodes mirror matthewbertram.com (the entity home). The SAME @ids appear on
+# every Matt-owned property (ewrdigital / modalpoint / matthewbertram / bestseopodcast /
+# energygrowthplaybook) so Google's Knowledge Graph + AI answer engines fuse every scattered
+# mention into ONE Matthew Bertram and one org set. Identity is asserted by @id + sameAs,
+# NEVER by content drift. Edit here = changes propagate to every page on rebuild.
+MB_IMAGE       = "https://matthewbertram.com/img/mb-otc-headshot.jpg"   # canonical headshot URL (identical everywhere)
+PERSON_MATT_ID = "https://matthewbertram.com/#person"
+PERSON_MARK_ID = "https://oggn.com/#mark-lacour"
+ORG_EWR_ID     = "https://www.ewrdigital.com/#organization"
+ORG_MP_ID      = "https://modalpoint.com/#organization"
+ORG_OGGN_ID    = "https://oggn.com/#organization"
+PODCAST_ID     = SITE + "/#podcast"
+
+PERSON_MATT = {
+    "@type": "Person",
+    "@id": PERSON_MATT_ID,
+    "name": "Matthew Bertram",
+    "alternateName": ["Matt Bertram", "Matt Bertram Live"],
+    "givenName": "Matthew", "familyName": "Bertram",
+    "jobTitle": ["AI Keynote Speaker", "Owner & CEO of EWR Digital",
+                 "President of ModalPoint", "Chief Marketing Officer of OGGN"],
+    "description": ("Matthew (Matt) Bertram is an AI keynote speaker and creator of DIG® "
+                    "(Digital Information Governance). He is Owner and CEO of EWR Digital, President of "
+                    "ModalPoint, and CMO of the Oil & Gas Global Network, and co-author of "
+                    "Oil & Gas Sales & Marketing: The Energy Growth Playbook."),
+    "url": "https://matthewbertram.com/",
+    "image": MB_IMAGE,
+    "homeLocation": {"@type": "Place", "name": "Houston, Texas, USA"},
+    "worksFor": [{"@id": ORG_EWR_ID}, {"@id": ORG_MP_ID}, {"@id": ORG_OGGN_ID}],
+    "alumniOf": {"@type": "CollegeOrUniversity", "name": "Texas A&M University, Mays Business School"},
+    "sameAs": [
+        "https://www.linkedin.com/in/mattbertramlive/",
+        "https://orcid.org/0009-0004-0720-5321",
+        "https://doi.org/10.5281/zenodo.17042750",
+        "https://www.crunchbase.com/person/matthew-bertram-c7ef",
+        "https://muckrack.com/matt-bertram",
+        "https://www.amazon.com/stores/Matthew-Bertram/author/B07FCQXDC7",
+        "https://openlibrary.org/authors/OL7787306A",
+        "https://www.searchenginejournal.com/author/matt-bertram/",
+        "https://www.entrepreneur.com/author/matt-bertram",
+        "https://about.me/mattbertram",
+        "https://clarity.fm/mattbertram",
+        "https://gravatar.com/mattbertramlive",
+        "https://www.facebook.com/mattbertramlive1",
+        "https://www.instagram.com/matt_bertram_live/",
+        "https://www.ewrdigital.com/author/matthew-bertram/",
+        "https://bestseopodcast.com/",
+        "https://podcasts.apple.com/us/podcast/id303672420",
+        "https://isni.org/isni/0000000530444216",
+        "https://www.goodreads.com/author/show/70950946.Matthew_Bertram",
+        "https://github.com/mattbertramlive",
+    ],
+    "disambiguatingDescription": ("Matthew Bertram, Houston-based creator of Digital Information Governance (DIG) "
+                                  "and the LLM Visibility framework; Owner and CEO of EWR Digital, President of "
+                                  "ModalPoint, host of The Best SEO Podcast. Not the fractional CTO and AI keynote "
+                                  "speaker of the same name."),
+}
+
+PERSON_MARK = {
+    "@type": "Person",
+    "@id": PERSON_MARK_ID,
+    "name": "Mark LaCour",
+    "jobTitle": "Founder, Oil & Gas Global Network (OGGN)",
+    "description": ("Mark LaCour is the founder of the Oil & Gas Global Network (OGGN), the largest and "
+                    "most-listened-to oil & gas podcast network, and the founder of ModalPoint. A decades-long "
+                    "oilfield commercial veteran, he co-hosts the Oil & Gas Sales & Marketing Podcast and "
+                    "co-authored its companion book."),
+    "image": SITE + "/img/mark-lacour.jpg",
+    "worksFor": {"@id": ORG_OGGN_ID},
+    "sameAs": ["https://www.linkedin.com/in/oil-and-gas-expert-speaker"],
+}
+
+# Org nodes mirror the canonical matthewbertram.com graph, enriched with the grounded
+# acquisition facts: Mark founded OGGN + ModalPoint; EWR Digital acquired ModalPoint (2026).
+ORG_EWR = {
+    "@type": "Organization", "@id": ORG_EWR_ID,
+    "name": "EWR Digital", "url": "https://www.ewrdigital.com/",
+    "description": "Award-winning AI-search and digital growth consultancy based in Houston, Texas.",
+    "foundingDate": "1999",
+    "employee": {"@id": PERSON_MATT_ID},
+}
+ORG_MP = {
+    "@type": "Organization", "@id": ORG_MP_ID,
+    "name": "ModalPoint", "url": "https://modalpoint.com/",
+    "description": ("Oil & gas market-insight and commercialization-strategy brand, known for its perspective "
+                    "on energy buyer behavior. Founded by Mark LaCour; acquired by EWR Digital in 2026."),
+    "founder": {"@id": PERSON_MARK_ID},
+    "parentOrganization": {"@id": ORG_EWR_ID},
+    "employee": {"@id": PERSON_MATT_ID},
+}
+ORG_OGGN = {
+    "@type": "Organization", "@id": ORG_OGGN_ID,
+    "name": "Oil & Gas Global Network (OGGN)", "url": "https://oggn.com/",
+    "description": "The largest and most-listened-to oil & gas podcast network.",
+    "founder": {"@id": PERSON_MARK_ID},
+}
+
+ENTITY_NODES = [PERSON_MATT, PERSON_MARK, ORG_EWR, ORG_MP, ORG_OGGN]
+
+# The show itself — a collaboration between OGGN (producer) and EWR Digital (Matt co-hosts).
+PODCAST_SERIES = {
+    "@type": "PodcastSeries",
+    "@id": PODCAST_ID,
+    "name": "Oil & Gas Sales & Marketing Podcast",
+    "url": SITE + "/podcast/",
+    "description": TAGLINE,
+    "webFeed": "https://feeds.oggn.com/category/ogsm/feed/",
+    "inLanguage": "en",
+    "author": [{"@id": PERSON_MARK_ID}, {"@id": PERSON_MATT_ID}],
+    "actor": [{"@id": PERSON_MARK_ID}, {"@id": PERSON_MATT_ID}],
+    "producer": {"@id": ORG_OGGN_ID},
+    "publisher": {"@id": ORG_OGGN_ID},
+}
+
+def graph(*nodes):
+    """Wrap nodes in one connected @graph so every @id reference resolves on the page."""
+    return {"@context": "https://schema.org", "@graph": list(nodes)}
+
 # Answer-first AEO pages — the questions energy buyers/sellers actually ask. Each renders
 # as a FAQPage with schema so AI answer engines (AI Overviews, ChatGPT, Perplexity) can cite it.
 ANSWERS = [
@@ -280,9 +399,9 @@ def footer():
 def host_block():
     return """<div class="hosts">
 <div class="host"><img src="/img/mark-lacour.jpg" alt="Mark LaCour" loading="lazy">
-<div><div class="h-name">Mark LaCour</div><div class="h-role">Director, Oil &amp; Gas Global Network (OGGN)</div>
-<p class="muted">Founder of OGGN, the largest and most-listened-to oil &amp; gas podcast network. Mark has spent decades inside upstream, midstream, and oilfield-services sales, and is co-author of <em>Oil &amp; Gas Sales &amp; Marketing</em>.</p></div></div>
-<div class="host"><img src="/img/matthew-bertram.jpg" alt="Matthew Bertram" loading="lazy">
+<div><div class="h-name">Mark LaCour</div><div class="h-role">Founder, Oil &amp; Gas Global Network (OGGN)</div>
+<p class="muted">Founder of OGGN, the largest and most-listened-to oil &amp; gas podcast network, and founder of <strong>ModalPoint</strong> &mdash; the oil &amp; gas market-insight brand now part of EWR Digital. Mark has spent decades inside upstream, midstream, and oilfield-services sales, and is co-author of <em>Oil &amp; Gas Sales &amp; Marketing</em>.</p></div></div>
+<div class="host"><img src="/img/mb-otc-headshot.jpg" alt="Matthew Bertram" loading="lazy">
 <div><div class="h-name">Matthew Bertram</div><div class="h-role">CMO, OGGN &middot; CEO, EWR Digital &middot; President, ModalPoint</div>
 <p class="muted">AI keynote speaker and creator of DIG&reg; (Digital Information Governance). Matthew helps energy and industrial leaders win visibility in AI search (GEO/AEO), hosts The Best SEO Podcast, and co-authored <em>Oil &amp; Gas Sales &amp; Marketing</em>. <a href="https://matthewbertram.com" rel="noopener">More &rarr;</a></p></div></div>
 </div>"""
@@ -300,9 +419,9 @@ def book_band():
 
 def producer_band():
     return f"""<section class="producer-band"><div class="wrap">
-<p class="pb-kicker">Produced on the Oil &amp; Gas Global Network</p>
+<p class="pb-kicker">A collaboration between EWR Digital &amp; the Oil &amp; Gas Global Network</p>
 <h2 class="pb-title">Built for energy operators who sell</h2>
-<p class="pb-desc">The show is hosted by Matthew Bertram &mdash; CEO of EWR Digital and President of ModalPoint &mdash; and Mark LaCour of OGGN. The same thinking that drives the episodes drives how operators win visibility in AI search and govern AI decisions in the field.</p>
+<p class="pb-desc">The show is co-hosted by <strong>Mark LaCour</strong>, founder of OGGN, and <strong>Matthew Bertram</strong>, Owner &amp; CEO of EWR Digital and President of ModalPoint. The same thinking that drives the episodes drives how operators win visibility in AI search and govern AI decisions in the field.</p>
 <div class="pb-cta"><a class="btn amber" href="https://modalpoint.com" rel="noopener">AI governance for energy &rarr;</a><a class="btn ghost" href="https://matthewbertram.com" rel="noopener">Meet Matthew Bertram</a></div>
 </div></section>"""
 
@@ -348,8 +467,9 @@ def main():
             "datePublished": e["iso"], "description": e["summary"],
             "timeRequired": iso_dur(e["duration"]) or None,
             "associatedMedia": {"@type": "MediaObject", "contentUrl": e["audio"]} if e["audio"] else None,
-            "partOfSeries": {"@type": "PodcastSeries", "name": "Oil & Gas Sales & Marketing Podcast", "url": SITE + "/podcast/"},
-            "author": [{"@type": "Person", "name": "Mark LaCour"}, {"@type": "Person", "name": "Matthew Bertram", "url": "https://matthewbertram.com"}],
+            "partOfSeries": {"@id": PODCAST_ID},
+            "author": [{"@id": PERSON_MARK_ID, "name": "Mark LaCour"},
+                       {"@id": PERSON_MATT_ID, "name": "Matthew Bertram"}],
         }]
         schema[0] = {k: v for k, v in schema[0].items() if v is not None}
         prev_l = f'<a href="/podcast/{eps[i+1]["slug"]}/">&larr; Older</a>' if i + 1 < N else ""
@@ -398,13 +518,11 @@ def main():
 
     # ----- home -----
     latest = "".join(episode_card(e) for e in eps[:6])
-    home_schema = [{
-        "@context": "https://schema.org", "@type": "PodcastSeries",
-        "name": "Oil & Gas Sales & Marketing Podcast", "url": SITE,
-        "description": TAGLINE,
-        "author": [{"@type": "Person", "name": "Mark LaCour"}, {"@type": "Person", "name": "Matthew Bertram", "url": "https://matthewbertram.com"}],
-        "webFeed": "https://feeds.oggn.com/category/ogsm/feed/",
-    }]
+    home_schema = [graph(
+        {"@type": "WebSite", "@id": SITE + "/#website", "url": SITE + "/",
+         "name": BRAND, "publisher": {"@id": ORG_OGGN_ID}},
+        PODCAST_SERIES, *ENTITY_NODES,
+    )]
     listen_home = "".join(f'<a href="{u}" rel="noopener">{n}</a>' for n, u in LISTEN)
     stats = [("92", "Episodes"), ("2023", "On air since"), ("OGGN", "Podcast network")]
     stat_html = "".join(f'<div class="stat"><div class="n">{n}</div><div class="l">{l}</div></div>' for n, l in stats)
@@ -435,14 +553,17 @@ def main():
     # ----- about -----
     about = (
         head(f"About | {BRAND}",
-             "About the Oil & Gas Sales & Marketing Podcast and the Energy Growth Playbook for oil and gas leaders.",
-             f"{SITE}/about/") +
+             "The Oil & Gas Sales & Marketing Podcast is a collaboration between EWR Digital and OGGN, co-hosted by Mark LaCour and Matthew Bertram.",
+             f"{SITE}/about/", [graph(PODCAST_SERIES, *ENTITY_NODES)]) +
         header("/about/") +
         '<section class="ep-head"><div class="wrap"><p class="eyebrow">About</p><h1>The Energy Growth Playbook</h1></div></section>'
         '<section class="section-pad"><div class="wrap" style="max-width:760px">'
-        f'<p>{BRAND} is the home of the <strong>Oil &amp; Gas Sales &amp; Marketing Podcast</strong> &mdash; {N} episodes (and counting) of practical, no-fluff conversation about how energy companies actually win and keep revenue. It is produced on the <a href="https://oggn.com" rel="noopener">Oil &amp; Gas Global Network</a>, the largest and most-listened-to oil &amp; gas podcast network.</p>'
-        '<p>Hosts <strong>Mark LaCour</strong> and <strong>Matthew Bertram</strong> cover the full commercial stack: aligning sales and marketing, influencing the spec before the RFP, demand generation that respects long energy buying cycles, RevOps and pricing discipline, brand and authority building, and what AI search and AI decisioning mean for energy go-to-market.</p>'
-        '<p>The show is the companion to the book <a href="' + AMAZON + '" rel="noopener"><em>Oil &amp; Gas Sales &amp; Marketing: The Energy Growth Playbook for Oil and Gas Leaders</em></a>.</p>'
+        f'<p>{BRAND} is the home of the <strong>Oil &amp; Gas Sales &amp; Marketing Podcast</strong> &mdash; {N} episodes (and counting) of practical, no-fluff conversation about how energy companies actually win and keep revenue. It is a collaboration between two forces in energy go-to-market: the <a href="https://oggn.com" rel="noopener">Oil &amp; Gas Global Network (OGGN)</a>, the largest and most-listened-to oil &amp; gas podcast network, and <a href="https://www.ewrdigital.com" rel="noopener">EWR Digital</a>, the award-winning AI-search and growth consultancy.</p>'
+        '<p>It is hosted by the two people who wrote the book on it &mdash; literally. <strong>Mark LaCour</strong>, OGGN&rsquo;s founder, has spent decades inside upstream, midstream, and oilfield-services sales. <strong>Matthew Bertram</strong> is Owner &amp; CEO of EWR Digital and President of <a href="https://modalpoint.com" rel="noopener">ModalPoint</a>, an AI keynote speaker focused on how energy buyers find and trust companies in the age of AI search.</p>'
+        '<p>Their partnership runs deeper than a shared microphone. Mark founded <strong>ModalPoint</strong>, the oil &amp; gas market-insight and commercialization brand known across the industry for its read on how energy buyers actually buy. In <strong>2026, EWR Digital acquired ModalPoint</strong> &mdash; with Mark staying on as advisor.</p>'
+        '<blockquote style="border-left:3px solid var(--accent);margin:24px 0;padding:4px 0 4px 20px;font-size:1.08rem;line-height:1.55;color:var(--ink)">&ldquo;ModalPoint was built to challenge conventional thinking and help the industry communicate more effectively. EWR Digital is well positioned to carry that work forward in a way that aligns with how the energy market operates today.&rdquo;<cite style="display:block;margin-top:10px;font-style:normal;font-size:.85rem;color:var(--muted)">&mdash; Mark LaCour, founder of ModalPoint and OGGN</cite></blockquote>'
+        '<p>Today the two are partners, co-authors, and co-hosts. Across the catalog they cover the full commercial stack: aligning sales and marketing, influencing the spec before the RFP, demand generation that respects long energy buying cycles, RevOps and pricing discipline, brand and authority building, and what AI search and AI decisioning mean for energy go-to-market.</p>'
+        '<p>The show is the companion to their book <a href="' + AMAZON + '" rel="noopener"><em>Oil &amp; Gas Sales &amp; Marketing: The Energy Growth Playbook for Oil and Gas Leaders</em></a>.</p>'
         '<div class="btnrow" style="margin-top:20px"><a class="btn amber" href="/podcast/">Browse episodes</a><a class="btn ghost" href="/host/">Meet the hosts</a></div>'
         '</div></section>' +
         footer()
@@ -453,7 +574,7 @@ def main():
     hostpg = (
         head(f"Hosts | {BRAND}",
              "Mark LaCour and Matthew Bertram, hosts of the Oil & Gas Sales & Marketing Podcast.",
-             f"{SITE}/host/") +
+             f"{SITE}/host/", [graph(PODCAST_SERIES, *ENTITY_NODES)]) +
         header("/host/") +
         '<section class="ep-head"><div class="wrap"><p class="eyebrow">Hosts</p><h1>Mark LaCour &amp; Matthew Bertram</h1></div></section>'
         f'<section class="section-pad"><div class="wrap">{host_block()}</div></section>' +
@@ -466,7 +587,8 @@ def main():
         "@context": "https://schema.org", "@type": "Book",
         "name": "Oil & Gas Sales & Marketing: The Energy Growth Playbook for Oil and Gas Leaders",
         "url": f"{SITE}/book/", "sameAs": AMAZON,
-        "author": [{"@type": "Person", "name": "Mark LaCour"}, {"@type": "Person", "name": "Matthew Bertram", "url": "https://matthewbertram.com"}],
+        "author": [{"@id": PERSON_MARK_ID, "name": "Mark LaCour"},
+                   {"@id": PERSON_MATT_ID, "name": "Matthew Bertram"}],
     }]
     bookpg = (
         head(f"The Book | {BRAND}",
