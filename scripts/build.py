@@ -378,19 +378,20 @@ def footer():
 <div class="foot-grid">
   <div>
     <a class="brand" href="/"><span class="dot"></span>{BRAND}</a>
-    <p class="muted" style="max-width:42ch;margin-top:12px">The Oil &amp; Gas Sales &amp; Marketing Podcast, hosted by Mark LaCour and Matthew Bertram on the Oil &amp; Gas Global Network. Sales and marketing that actually moves energy revenue.</p>
+    <p class="muted" style="max-width:42ch;margin-top:12px">The Oil &amp; Gas Sales &amp; Marketing Podcast &mdash; a collaboration between <strong>EWR Digital</strong> and the <strong>Oil &amp; Gas Global Network</strong>, co-hosted by Mark LaCour and Matthew Bertram. Sales and marketing that actually moves energy revenue.</p>
   </div>
   <div class="fcol"><h4>Explore</h4>{nav}</div>
   <div class="fcol"><h4>Listen</h4>{listen}</div>
   <div class="fcol"><h4>More</h4>
+    <a href="https://www.ewrdigital.com" rel="noopener">EWR Digital</a>
+    <a href="https://modalpoint.com" rel="noopener">ModalPoint</a>
     <a href="https://oggn.com" rel="noopener">OGGN</a>
     <a href="https://matthewbertram.com" rel="noopener">Matthew Bertram</a>
-    <a href="https://modalpoint.com" rel="noopener">ModalPoint</a>
     <a href="{AMAZON}" rel="noopener">The book</a>
   </div>
 </div>
 <div class="foot-base">
-  <span>&copy; 2026 {BRAND} &middot; An Oil &amp; Gas Global Network production.</span>
+  <span>&copy; 2026 {BRAND} &middot; Brought to you by EWR Digital &amp; ModalPoint, on the Oil &amp; Gas Global Network.</span>
   <span><a href="/glossary/">Glossary</a> &middot; <a href="/topics/">Topics</a> &middot; <a href="/terms/">Terms of Use</a> &middot; <a href="/llms.txt">llms.txt</a></span>
 </div>
 </div></footer></body></html>"""
@@ -489,6 +490,10 @@ def main():
             f'{tr_block}'
             f'<p style="margin-top:28px;display:flex;justify-content:space-between;gap:16px">{prev_l}{next_l}</p></div>'
             f'<aside class="ep-side">'
+            f'<div class="box"><h4>Brought to you by</h4>'
+            f'<a href="https://www.ewrdigital.com" rel="noopener">EWR Digital &rarr;</a>'
+            f'<a href="https://modalpoint.com" rel="noopener">ModalPoint &rarr;</a>'
+            f'<p class="muted" style="font-size:.8rem;margin-top:8px;line-height:1.5">AI search visibility &amp; decision governance for energy &mdash; co-produced with the Oil &amp; Gas Global Network.</p></div>'
             f'<div class="box"><h4>Listen</h4>{listen_side}</div>'
             f'<div class="box"><h4>The book</h4><a href="{AMAZON}" rel="noopener">Oil &amp; Gas Sales &amp; Marketing &rarr;</a><a href="/book/">About the book &rarr;</a></div>'
             f'<div class="box"><h4>Hosts</h4><a href="/host/">Mark LaCour &amp; Matthew Bertram &rarr;</a></div>'
